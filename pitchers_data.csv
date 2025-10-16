@@ -1,0 +1,785 @@
+id,year,statistic,name,team,value,top_25
+1,1901,Complete Games,Joe McGinnity,Baltimore,39,Top 25
+2,1901,ERA,Cy Young,Boston,1.62,Top 25
+3,1901,Games,Joe McGinnity,Baltimore,48,Top 25
+4,1901,Saves,Bill Hoffer,Cleveland,3,Top 25
+5,1901,Shutouts,Clark Griffith,Chicago,5,Top 25
+6,1901,Shutouts,Cy Young,Boston,5,Top 25
+7,1901,Strikeouts,Cy Young,Boston,158,Top 25
+8,1901,Winning Percentage,Clark Griffith,Chicago,.774,Top 25
+9,1901,Wins,Cy Young,Boston,33,Top 25
+10,1902,Complete Games,Cy Young,Boston,41,Top 25
+11,1902,ERA,Ed Siever,Detroit,1.91,Top 25
+12,1902,Games,Cy Young,Boston,45,Top 25
+13,1902,Saves,Jack Powell,St. Louis,2,Top 25
+14,1902,Shutouts,Addie Joss,Cleveland,5,Top 25
+15,1902,Strikeouts,Rube Waddell,Philadelphia,210,Top 25
+16,1902,Winning Percentage,Bill Bernhard,Philadelphia,.783,Top 25
+17,1902,Winning Percentage,Bill Bernhard,Cleveland,.783,Top 25
+18,1902,Wins,Cy Young,Boston,32,Top 25
+19,1903,Complete Games,Bill Donovan,Detroit,34,Top 25
+20,1903,Complete Games,Rube Waddell,Philadelphia,34,Top 25
+21,1903,Complete Games,Cy Young,Boston,34,Top 25
+22,1903,ERA,Earl Moore,Cleveland,1.74,Top 25
+23,1903,Games,Eddie Plank,Philadelphia,43,Top 25
+24,1903,Saves,Bill Dinneen,Boston,2,Top 25
+25,1903,Saves,George Mullin,Detroit,2,Top 25
+26,1903,Saves,Al Orth,Washington,2,Top 25
+27,1903,Saves,Jack Powell,St. Louis,2,Top 25
+28,1903,Saves,Cy Young,Boston,2,Top 25
+29,1903,Shutouts,Cy Young,Boston,7,Top 25
+30,1903,Strikeouts,Rube Waddell,Philadelphia,302,Top 25
+31,1903,Winning Percentage,Cy Young,Boston,.757,Top 25
+32,1903,Wins,Cy Young,Boston,28,Top 25
+33,1904,Complete Games,Jack Chesbro,New York,48,Top 25
+34,1904,ERA,Addie Joss,Cleveland,1.59,Top 25
+35,1904,Games,Jack Chesbro,New York,55,Top 25
+36,1904,Saves,Case Patten,Washington,3,Top 25
+37,1904,Shutouts,Cy Young,Boston,10,Top 25
+38,1904,Strikeouts,Rube Waddell,Philadelphia,349,Top 25
+39,1904,Winning Percentage,Jack Chesbro,New York,.774,Top 25
+40,1904,Wins,Jack Chesbro,New York,41,Top 25
+41,1905,Complete Games,Harry Howell,St. Louis,35,Top 25
+42,1905,Complete Games,George Mullin,Detroit,35,Top 25
+43,1905,Complete Games,Eddie Plank,Philadelphia,35,Top 25
+44,1905,ERA,Rube Waddell,Philadelphia,1.48,Top 25
+45,1905,Games,Rube Waddell,Philadelphia,46,Top 25
+46,1905,Saves,Jim Buchanan,St. Louis,2,Top 25
+47,1905,Shutouts,Ed Killian,Detroit,8,Top 25
+48,1905,Strikeouts,Rube Waddell,Philadelphia,287,Top 25
+49,1905,Winning Percentage,Rube Waddell,Philadelphia,.730,Top 25
+50,1906,Complete Games,Al Orth,New York,36,Top 25
+51,1906,ERA,Doc White,Chicago,1.52,Top 25
+52,1906,Games,Jack Chesbro,New York,49,Top 25
+53,1906,Saves,Chief Bender,Philadelphia,3,Top 25
+54,1906,Saves,Otto Hess,Cleveland,3,Top 25
+55,1906,Shutouts,Ed Walsh,Chicago,10,Top 25
+56,1906,Strikeouts,Rube Waddell,Philadelphia,196,Top 25
+57,1906,Winning Percentage,Eddie Plank,Philadelphia,.760,Top 25
+58,1906,Wins,Al Orth,New York,27,Top 25
+59,1907,Complete Games,Ed Walsh,Chicago,37,Top 25
+60,1907,ERA,Ed Walsh,Chicago,1.60,Top 25
+61,1907,Games,Ed Walsh,Chicago,56,Top 25
+62,1907,Saves,Bill Dinneen,Philadelphia,4,Top 25
+63,1907,Saves,Bill Dinneen,St. Louis,4,Top 25
+64,1907,Saves,Tom Hughes,Washington,4,Top 25
+65,1907,Saves,Ed Walsh,Chicago,4,Top 25
+66,1907,Shutouts,Eddie Plank,Philadelphia,8,Top 25
+67,1907,Strikeouts,Rube Waddell,Philadelphia,232,Top 25
+68,1907,Winning Percentage,Bill Donovan,Detroit,.862,Top 25
+69,1907,Wins,Addie Joss,Cleveland,27,Top 25
+70,1907,Wins,Doc White,Chicago,27,Top 25
+71,1908,Complete Games,Ed Walsh,Chicago,42,Top 25
+72,1908,ERA,Addie Joss,Cleveland,1.16,Top 25
+73,1908,Games,Ed Walsh,Chicago,66,Top 25
+74,1908,Saves,Ed Walsh,Chicago,6,Top 25
+75,1908,Shutouts,Ed Walsh,Chicago,11,Top 25
+76,1908,Strikeouts,Ed Walsh,Chicago,269,Top 25
+77,1908,Winning Percentage,Ed Walsh,Chicago,.727,Top 25
+78,1908,Wins,Ed Walsh,Chicago,40,Top 25
+79,1909,Complete Games,Frank Smith,Chicago,37,Top 25
+80,1909,ERA,Harry Krause,Philadelphia,1.39,Top 25
+81,1909,Games,Frank Smith,Chicago,51,Top 25
+82,1909,Saves,Frank Arellanes,Boston,8,Top 25
+83,1909,Shutouts,Ed Walsh,Chicago,8,Top 25
+84,1909,Strikeouts,Frank Smith,Chicago,177,Top 25
+85,1909,Winning Percentage,George Mullin,Detroit,.784,Top 25
+86,1909,Wins,George Mullin,Detroit,29,Top 25
+87,1910,Complete Games,Walter Johnson,Washington,38,Top 25
+88,1910,ERA,Ed Walsh,Chicago,1.27,Top 25
+89,1910,Games,Ed Walsh,Chicago,45,Top 25
+90,1910,Games,Jack Coombs,Philadelphia,45,Top 25
+91,1910,Games,Walter Johnson,Washington,45,Top 25
+92,1910,Saves,Ed Walsh,Chicago,5,Top 25
+93,1910,Shutouts,Jack Coombs,Philadelphia,13,Top 25
+94,1910,Strikeouts,Walter Johnson,Washington,313,Top 25
+95,1910,Winning Percentage,Chief Bender,Philadelphia,.821,Top 25
+96,1910,Wins,Jack Coombs,Philadelphia,31,Top 25
+97,1911,Complete Games,Walter Johnson,Washington,36,Top 25
+98,1911,ERA,Vean Gregg,Cleveland,1.80,Top 25
+99,1911,Games,Ed Walsh,Chicago,56,Top 25
+100,1911,Saves,Charley Hall,Boston,4,Top 25
+101,1911,Saves,Eddie Plank,Philadelphia,4,Top 25
+102,1911,Saves,Ed Walsh,Chicago,4,Top 25
+103,1911,Shutouts,Eddie Plank,Philadelphia,6,Top 25
+104,1911,Shutouts,Walter Johnson,Washington,6,Top 25
+105,1911,Strikeouts,Ed Walsh,Chicago,255,Top 25
+106,1911,Winning Percentage,Chief Bender,Philadelphia,.773,Top 25
+107,1911,Wins,Jack Coombs,Philadelphia,28,Top 25
+108,1912,Complete Games,Smoky Joe Wood,Boston,35,Top 25
+109,1912,ERA,Walter Johnson,Washington,1.39,Top 25
+110,1912,Games,Ed Walsh,Chicago,62,Top 25
+111,1912,Saves,Ed Walsh,Chicago,10,Top 25
+112,1912,Shutouts,Smoky Joe Wood,Boston,10,Top 25
+113,1912,Strikeouts,Walter Johnson,Washington,303,Top 25
+114,1912,Winning Percentage,Smoky Joe Wood,Boston,.872,Top 25
+115,1912,Wins,Smoky Joe Wood,Boston,34,Top 25
+116,1913,Complete Games,Walter Johnson,Washington,29,Top 25
+117,1913,ERA,Walter Johnson,Washington,1.14,Top 25
+118,1913,Games,Reb Russell,Chicago,52,Top 25
+119,1913,Saves,Chief Bender,Philadelphia,13,Top 25
+120,1913,Shutouts,Walter Johnson,Washington,11,Top 25
+121,1913,Strikeouts,Walter Johnson,Washington,243,Top 25
+122,1913,Winning Percentage,Walter Johnson,Washington,.837,Top 25
+123,1913,Wins,Walter Johnson,Washington,36,Top 25
+124,1914,Complete Games,Walter Johnson,Washington,33,Top 25
+125,1914,ERA,Dutch Leonard,Boston,0.96,Top 25
+126,1914,Games,Walter Johnson,Washington,51,Top 25
+127,1914,Saves,Jack Bentley,Washington,4,Top 25
+128,1914,Saves,Hooks Dauss,Detroit,4,Top 25
+129,1914,Saves,Red Faber,Chicago,4,Top 25
+130,1914,Saves,Roy Mitchell,St. Louis,4,Top 25
+131,1914,Saves,Jim Shaw,Washington,4,Top 25
+132,1914,Shutouts,Walter Johnson,Washington,9,Top 25
+133,1914,Strikeouts,Walter Johnson,Washington,225,Top 25
+134,1914,Winning Percentage,Chief Bender,Philadelphia,.850,Top 25
+135,1914,Wins,Walter Johnson,Washington,28,Top 25
+136,1915,Complete Games,Walter Johnson,Washington,35,Top 25
+137,1915,ERA,Smoky Joe Wood,Boston,1.49,Top 25
+138,1915,Games,Harry Coveleski,Detroit,50,Top 25
+139,1915,Games,Red Faber,Chicago,50,Top 25
+140,1915,Saves,Carl Mays,Boston,7,Top 25
+141,1915,Shutouts,Walter Johnson,Washington,7,Top 25
+142,1915,Shutouts,Jim Scott,Chicago,7,Top 25
+143,1915,Strikeouts,Walter Johnson,Washington,203,Top 25
+144,1915,Winning Percentage,Smoky Joe Wood,Boston,.750,Top 25
+145,1915,Wins,Walter Johnson,Washington,27,Top 25
+146,1916,Complete Games,Walter Johnson,Washington,36,Top 25
+147,1916,ERA,Babe Ruth,Boston,1.75,Top 25
+148,1916,Games,Dave Davenport,St. Louis,59,Top 25
+149,1916,Saves,Bob Shawkey,New York,8,Top 25
+150,1916,Shutouts,Babe Ruth,Boston,9,Top 25
+151,1916,Strikeouts,Walter Johnson,Washington,228,Top 25
+152,1916,Winning Percentage,Nick Cullop,New York,.684,Top 25
+153,1916,Wins,Walter Johnson,Washington,25,Top 25
+154,1917,Complete Games,Babe Ruth,Boston,35,Top 25
+155,1917,ERA,Eddie Cicotte,Chicago,1.53,Top 25
+156,1917,Games,Dave Danforth,Chicago,50,Top 25
+157,1917,Saves,Dave Danforth,Chicago,9,Top 25
+158,1917,Shutouts,Stan Coveleski,Cleveland,9,Top 25
+159,1917,Strikeouts,Walter Johnson,Washington,188,Top 25
+160,1917,Winning Percentage,Ed Klepfer,Cleveland,.778,Top 25
+161,1917,Wins,Eddie Cicotte,Chicago,28,Top 25
+162,1918,Complete Games,Carl Mays,Boston,30,Top 25
+163,1918,Complete Games,Scott Perry,Philadelphia,30,Top 25
+164,1918,ERA,Walter Johnson,Washington,1.27,Top 25
+165,1918,Games,Jim Bagby,Cleveland,45,Top 25
+166,1918,Games,George Mogridge,New York,45,Top 25
+167,1918,Saves,George Mogridge,New York,7,Top 25
+168,1918,Shutouts,Walter Johnson,Washington,8,Top 25
+169,1918,Shutouts,Carl Mays,Boston,8,Top 25
+170,1918,Strikeouts,Walter Johnson,Washington,162,Top 25
+171,1918,Winning Percentage,Sam Jones,Boston,.762,Top 25
+172,1918,Wins,Walter Johnson,Washington,23,Top 25
+173,1919,Complete Games,Eddie Cicotte,Chicago,30,Top 25
+174,1919,ERA,Walter Johnson,Washington,1.49,Top 25
+175,1919,Games,Jim Shaw,Washington,45,Top 25
+176,1919,Saves,Allan Russell,New York,5,Top 25
+177,1919,Saves,Allan Russell,Boston,5,Top 25
+178,1919,Saves,Bob Shawkey,New York,5,Top 25
+179,1919,Saves,Jim Shaw,Washington,5,Top 25
+180,1919,Shutouts,Walter Johnson,Washington,7,Top 25
+181,1919,Strikeouts,Walter Johnson,Washington,147,Top 25
+182,1919,Winning Percentage,Eddie Cicotte,Chicago,.806,Top 25
+183,1919,Wins,Eddie Cicotte,Chicago,29,Top 25
+184,1920,Complete Games,Jim Bagby,Cleveland,30,Top 25
+185,1920,ERA,Bob Shawkey,New York,2.45,Top 25
+186,1920,Games,Jim Bagby,Cleveland,48,Top 25
+187,1920,Saves,Dickie Kerr,Chicago,5,Top 25
+188,1920,Saves,Urban Shocker,St. Louis,5,Top 25
+189,1920,Shutouts,Carl Mays,New York,6,Top 25
+190,1920,Strikeouts,Stan Coveleski,Cleveland,133,Top 25
+191,1920,Winning Percentage,Jim Bagby,Cleveland,.721,Top 25
+192,1920,Wins,Jim Bagby,Cleveland,31,Top 25
+193,1921,Complete Games,Red Faber,Chicago,32,Top 25
+194,1921,ERA,Red Faber,Chicago,2.48,Top 25
+195,1921,Games,Carl Mays,New York,49,Top 25
+196,1921,Saves,Carl Mays,New York,7,Top 25
+197,1921,Saves,Jim Middleton,Detroit,7,Top 25
+198,1921,Shutouts,Sam Jones,Boston,5,Top 25
+199,1921,Strikeouts,Walter Johnson,Washington,143,Top 25
+200,1921,Winning Percentage,Carl Mays,New York,.750,Top 25
+201,1921,Wins,Carl Mays,New York,27,Top 25
+202,1921,Wins,Urban Shocker,St. Louis,27,Top 25
+203,1922,Complete Games,Red Faber,Chicago,31,Top 25
+204,1922,ERA,Red Faber,Chicago,2.81,Top 25
+205,1922,Games,Eddie Rommel,Philadelphia,51,Top 25
+206,1922,Saves,Sam Jones,New York,8,Top 25
+207,1922,Shutouts,George Uhle,Cleveland,5,Top 25
+208,1922,Strikeouts,Urban Shocker,St. Louis,149,Top 25
+209,1922,Winning Percentage,Joe Bush,New York,.788,Top 25
+210,1922,Wins,Eddie Rommel,Philadelphia,27,Top 25
+211,1923,Complete Games,George Uhle,Cleveland,29,Top 25
+212,1923,ERA,Stan Coveleski,Cleveland,2.76,Top 25
+213,1923,Games,Eddie Rommel,Philadelphia,56,Top 25
+214,1923,Saves,Allan Russell,Washington,9,Top 25
+215,1923,Shutouts,Stan Coveleski,Cleveland,5,Top 25
+216,1923,Strikeouts,Walter Johnson,Washington,130,Top 25
+217,1923,Winning Percentage,Herb Pennock,New York,.760,Top 25
+218,1924,Complete Games,Sloppy Thurston,Chicago,28,Top 25
+219,1924,ERA,Walter Johnson,Washington,2.72,Top 25
+220,1924,Games,Firpo Marberry,Washington,50,Top 25
+221,1924,Saves,Firpo Marberry,Washington,15,Top 25
+222,1924,Shutouts,Walter Johnson,Washington,6,Top 25
+223,1924,Strikeouts,Walter Johnson,Washington,158,Top 25
+224,1924,Winning Percentage,Walter Johnson,Washington,.767,Top 25
+225,1925,Complete Games,Howard Ehmke,Boston,22,Top 25
+226,1925,Complete Games,Sherry Smith,Cleveland,22,Top 25
+227,1925,ERA,Stan Coveleski,Washington,2.84,Top 25
+228,1925,Games,Firpo Marberry,Washington,55,Top 25
+229,1925,Saves,Firpo Marberry,Washington,15,Top 25
+230,1925,Shutouts,Ted Lyons,Chicago,5,Top 25
+231,1925,Strikeouts,Lefty Grove,Philadelphia,116,Top 25
+232,1925,Winning Percentage,Stan Coveleski,Washington,.800,Top 25
+233,1925,Wins,Ted Lyons,Chicago,21,Top 25
+234,1926,Complete Games,George Uhle,Cleveland,32,Top 25
+235,1926,ERA,Lefty Grove,Philadelphia,2.51,Top 25
+236,1926,Games,Firpo Marberry,Washington,64,Top 25
+237,1926,Saves,Firpo Marberry,Washington,22,Top 25
+238,1926,Shutouts,Ed Wells,Detroit,4,Top 25
+239,1926,Strikeouts,Lefty Grove,Philadelphia,194,Top 25
+240,1926,Winning Percentage,George Uhle,Cleveland,.711,Top 25
+241,1927,Complete Games,Ted Lyons,Chicago,30,Top 25
+242,1927,ERA,Wilcy Moore,New York,2.28,Top 25
+243,1927,Games,Garland Braxton,Washington,58,Top 25
+244,1927,Saves,Garland Braxton,Washington,13,Top 25
+245,1927,Saves,Wilcy Moore,New York,13,Top 25
+246,1927,Shutouts,Hod Lisenbee,Washington,4,Top 25
+247,1927,Strikeouts,Lefty Grove,Philadelphia,174,Top 25
+248,1927,Winning Percentage,Waite Hoyt,New York,.759,Top 25
+249,1927,Wins,Waite Hoyt,New York,22,Top 25
+250,1927,Wins,Ted Lyons,Chicago,22,Top 25
+251,1928,Complete Games,Red Ruffing,Boston,25,Top 25
+252,1928,ERA,Garland Braxton,Washington,2.51,Top 25
+253,1928,Games,Firpo Marberry,Washington,48,Top 25
+254,1928,Saves,Waite Hoyt,New York,8,Top 25
+255,1928,Shutouts,Herb Pennock,New York,5,Top 25
+256,1928,Strikeouts,Lefty Grove,Philadelphia,183,Top 25
+257,1928,Winning Percentage,Alvin Crowder,St. Louis,.808,Top 25
+258,1928,Wins,Lefty Grove,Philadelphia,24,Top 25
+259,1929,Complete Games,Tommy Thomas,Chicago,24,Top 25
+260,1929,ERA,Lefty Grove,Philadelphia,2.81,Top 25
+261,1929,Games,Firpo Marberry,Washington,49,Top 25
+262,1929,Saves,Firpo Marberry,Washington,11,Top 25
+263,1929,Shutouts,George Blaeholder,St. Louis,5,Top 25
+264,1929,Shutouts,Alvin Crowder,St. Louis,5,Top 25
+265,1929,Shutouts,Dolly Gray,St. Louis,5,Top 25
+266,1929,Shutouts,Danny MacFayden,Boston,5,Top 25
+267,1929,Strikeouts,Lefty Grove,Philadelphia,170,Top 25
+268,1929,Winning Percentage,Lefty Grove,Philadelphia,.769,Top 25
+269,1930,Complete Games,Ted Lyons,Chicago,29,Top 25
+270,1930,ERA,Lefty Grove,Philadelphia,2.54,Top 25
+271,1930,Games,Lefty Grove,Philadelphia,50,Top 25
+272,1930,Saves,Lefty Grove,Philadelphia,9,Top 25
+273,1930,Shutouts,Clint Brown,Cleveland,3,Top 25
+274,1930,Shutouts,George Earnshaw,Philadelphia,3,Top 25
+275,1930,Shutouts,George Pipgras,New York,3,Top 25
+276,1930,Strikeouts,Lefty Grove,Philadelphia,209,Top 25
+277,1930,Winning Percentage,Lefty Grove,Philadelphia,.848,Top 25
+278,1931,Complete Games,Wes Ferrell,Cleveland,27,Top 25
+279,1931,Complete Games,Lefty Grove,Philadelphia,27,Top 25
+280,1931,ERA,Lefty Grove,Philadelphia,2.06,Top 25
+281,1931,Games,Bump Hadley,Washington,55,Top 25
+282,1931,Saves,Wilcy Moore,Boston,10,Top 25
+283,1931,Shutouts,Lefty Grove,Philadelphia,4,Top 25
+284,1931,Strikeouts,Lefty Grove,Philadelphia,175,Top 25
+285,1931,Winning Percentage,Lefty Grove,Philadelphia,.886,Top 25
+286,1932,Complete Games,Lefty Grove,Philadelphia,27,Top 25
+287,1932,ERA,Lefty Grove,Philadelphia,2.84,Top 25
+288,1932,Games,Firpo Marberry,Washington,54,Top 25
+289,1932,Saves,Firpo Marberry,Washington,13,Top 25
+290,1932,Shutouts,Tommy Bridges,Detroit,4,Top 25
+291,1932,Shutouts,Lefty Grove,Philadelphia,4,Top 25
+292,1932,Strikeouts,Red Ruffing,New York,190,Top 25
+293,1932,Winning Percentage,Johnny Allen,New York,.810,Top 25
+294,1932,Wins,Alvin Crowder,Washington,26,Top 25
+295,1933,Complete Games,Lefty Grove,Philadelphia,21,Top 25
+296,1933,ERA,Monte Pearson,Cleveland,2.33,Top 25
+297,1933,Games,Alvin Crowder,Washington,52,Top 25
+298,1933,Saves,Jack Russell,Washington,13,Top 25
+299,1933,Shutouts,Oral Hildebrand,Cleveland,6,Top 25
+300,1933,Strikeouts,Lefty Gomez,New York,163,Top 25
+301,1933,Winning Percentage,Lefty Grove,Philadelphia,.750,Top 25
+302,1933,Wins,Lefty Grove,Philadelphia,24,Top 25
+303,1934,Complete Games,Lefty Gomez,New York,25,Top 25
+304,1934,ERA,Lefty Gomez,New York,2.33,Top 25
+305,1934,Games,Jack Russell,Washington,54,Top 25
+306,1934,Saves,Jack Russell,Washington,7,Top 25
+307,1934,Shutouts,Mel Harder,Cleveland,6,Top 25
+308,1934,Shutouts,Lefty Gomez,New York,6,Top 25
+309,1934,Strikeouts,Lefty Gomez,New York,158,Top 25
+310,1934,Winning Percentage,Lefty Gomez,New York,.839,Top 25
+311,1935,Complete Games,Wes Ferrell,Boston,31,Top 25
+312,1935,ERA,Lefty Grove,Boston,2.70,Top 25
+313,1935,Games,Russ Van Atta,New York,58,Top 25
+314,1935,Games,Russ Van Atta,St. Louis,58,Top 25
+315,1935,Saves,Jack Knott,St. Louis,7,Top 25
+316,1935,Shutouts,Schoolboy Rowe,Detroit,6,Top 25
+317,1935,Strikeouts,Tommy Bridges,Detroit,163,Top 25
+318,1935,Winning Percentage,Elden Auker,Detroit,.720,Top 25
+319,1935,Wins,Wes Ferrell,Boston,25,Top 25
+320,1936,Complete Games,Wes Ferrell,Boston,28,Top 25
+321,1936,ERA,Lefty Grove,Philadelphia,2.81,Top 25
+322,1936,Games,Russ Van Atta,St. Louis,52,Top 25
+323,1936,Saves,Pat Malone,New York,9,Top 25
+324,1936,Shutouts,Lefty Grove,Philadelphia,6,Top 25
+325,1936,Strikeouts,Tommy Bridges,Detroit,175,Top 25
+326,1936,Winning Percentage,Bump Hadley,New York,.778,Top 25
+327,1936,Wins,Tommy Bridges,Detroit,23,Top 25
+328,1937,Complete Games,Wes Ferrell,Boston,26,Top 25
+329,1937,Complete Games,Wes Ferrell,Washington,26,Top 25
+330,1937,ERA,Lefty Gomez,New York,2.33,Top 25
+331,1937,Games,Clint Brown,Chicago,53,Top 25
+332,1937,Saves,Clint Brown,Chicago,18,Top 25
+333,1937,Shutouts,Lefty Gomez,New York,6,Top 25
+334,1937,Strikeouts,Lefty Gomez,New York,194,Top 25
+335,1937,Winning Percentage,Johnny Allen,Cleveland,.938,Top 25
+336,1938,Complete Games,Bobo Newsom,St. Louis,31,Top 25
+337,1938,ERA,Lefty Grove,Boston,3.08,Top 25
+338,1938,Games,Johnny Humphries,Cleveland,45,Top 25
+339,1938,Saves,Johnny Murphy,New York,11,Top 25
+340,1938,Shutouts,Lefty Gomez,New York,4,Top 25
+341,1938,Strikeouts,Bob Feller,Cleveland,240,Top 25
+342,1938,Winning Percentage,Red Ruffing,New York,.750,Top 25
+343,1939,Complete Games,Bobo Newsom,St. Louis,24,Top 25
+344,1939,Complete Games,Bobo Newsom,Detroit,24,Top 25
+345,1939,ERA,Lefty Grove,Boston,2.54,Top 25
+346,1939,Games,Clint Brown,Chicago,61,Top 25
+347,1939,Saves,Johnny Murphy,New York,19,Top 25
+348,1939,Shutouts,Red Ruffing,New York,5,Top 25
+349,1939,Strikeouts,Bob Feller,Cleveland,246,Top 25
+350,1939,Winning Percentage,Lefty Grove,Boston,.789,Top 25
+351,1940,Complete Games,Bob Feller,Cleveland,31,Top 25
+352,1940,ERA,Bob Feller,Cleveland,2.61,Top 25
+353,1940,Games,Bob Feller,Cleveland,43,Top 25
+354,1940,Saves,Al Benton,Detroit,17,Top 25
+355,1940,Shutouts,Bob Feller,Cleveland,4,Top 25
+356,1940,Shutouts,Ted Lyons,Chicago,4,Top 25
+357,1940,Shutouts,Al Milnar,Cleveland,4,Top 25
+358,1940,Strikeouts,Bob Feller,Cleveland,261,Top 25
+359,1940,Winning Percentage,Schoolboy Rowe,Detroit,.842,Top 25
+360,1941,Complete Games,Thornton Lee,Chicago,30,Top 25
+361,1941,ERA,Thornton Lee,Chicago,2.37,Top 25
+362,1941,Games,Bob Feller,Cleveland,44,Top 25
+363,1941,Saves,Johnny Murphy,New York,15,Top 25
+364,1941,Shutouts,Bob Feller,Cleveland,6,Top 25
+365,1941,Strikeouts,Bob Feller,Cleveland,260,Top 25
+366,1941,Winning Percentage,Lefty Gomez,New York,.750,Top 25
+367,1941,Wins,Bob Feller,Cleveland,25,Top 25
+368,1942,Complete Games,Tiny Bonham,New York,22,Top 25
+369,1942,Complete Games,Tex Hughson,Boston,22,Top 25
+370,1942,ERA,Ted Lyons,Chicago,2.10,Top 25
+371,1942,Games,Joe Haynes,Chicago,40,Top 25
+372,1942,Saves,Johnny Murphy,New York,11,Top 25
+373,1942,Shutouts,Tiny Bonham,New York,6,Top 25
+374,1942,Strikeouts,Tex Hughson,Boston,113,Top 25
+375,1942,Strikeouts,Bobo Newsom,Washington,113,Top 25
+376,1942,Winning Percentage,Tiny Bonham,New York,.808,Top 25
+377,1942,Wins,Tex Hughson,Boston,22,Top 25
+378,1943,Complete Games,Spud Chandler,New York,20,Top 25
+379,1943,Complete Games,Tex Hughson,Boston,20,Top 25
+380,1943,ERA,Spud Chandler,New York,1.64,Top 25
+381,1943,Games,Mace Brown,Boston,49,Top 25
+382,1943,Saves,Gordon Maltzberger,Chicago,14,Top 25
+383,1943,Shutouts,Spud Chandler,New York,5,Top 25
+384,1943,Shutouts,Dizzy Trout,Detroit,5,Top 25
+385,1943,Strikeouts,Allie Reynolds,Cleveland,151,Top 25
+386,1943,Winning Percentage,Spud Chandler,New York,.833,Top 25
+387,1943,Wins,Spud Chandler,New York,20,Top 25
+388,1944,Complete Games,Dizzy Trout,Detroit,33,Top 25
+389,1944,ERA,Dizzy Trout,Detroit,2.12,Top 25
+390,1944,Games,Joe Heving,Cleveland,63,Top 25
+391,1944,Saves,Joe Berry,Philadelphia,12,Top 25
+392,1944,Saves,George Caster,St. Louis,12,Top 25
+393,1944,Saves,Gordon Maltzberger,Chicago,12,Top 25
+394,1944,Shutouts,Dizzy Trout,Detroit,7,Top 25
+395,1944,Strikeouts,Hal Newhouser,Detroit,187,Top 25
+396,1944,Winning Percentage,Tex Hughson,Boston,.783,Top 25
+397,1944,Wins,Hal Newhouser,Detroit,29,Top 25
+398,1945,Complete Games,Hal Newhouser,Detroit,29,Top 25
+399,1945,ERA,Hal Newhouser,Detroit,1.81,Top 25
+400,1945,Games,Joe Berry,Philadelphia,52,Top 25
+401,1945,Saves,Jim Turner,New York,10,Top 25
+402,1945,Shutouts,Hal Newhouser,Detroit,8,Top 25
+403,1945,Strikeouts,Hal Newhouser,Detroit,212,Top 25
+404,1945,Winning Percentage,Hal Newhouser,Detroit,.735,Top 25
+405,1945,Wins,Hal Newhouser,Detroit,25,Top 25
+406,1946,Complete Games,Bob Feller,Cleveland,36,Top 25
+407,1946,ERA,Hal Newhouser,Detroit,1.94,Top 25
+408,1946,Games,Bob Feller,Cleveland,48,Top 25
+409,1946,Saves,Bob Klinger,Boston,9,Top 25
+410,1946,Shutouts,Bob Feller,Cleveland,10,Top 25
+411,1946,Strikeouts,Bob Feller,Cleveland,348,Top 25
+412,1946,Winning Percentage,Dave Ferriss,Boston,.806,Top 25
+413,1946,Wins,Bob Feller,Cleveland,26,Top 25
+414,1947,Complete Games,Hal Newhouser,Detroit,24,Top 25
+415,1947,ERA,Joe Haynes,Chicago,2.42,Top 25
+416,1947,Games,Ed Klieman,Cleveland,58,Top 25
+417,1947,Saves,Ed Klieman,Cleveland,17,Top 25
+418,1947,Saves,Joe Page,New York,17,Top 25
+419,1947,Shutouts,Bob Feller,Cleveland,5,Top 25
+420,1947,Strikeouts,Bob Feller,Cleveland,196,Top 25
+421,1947,Winning Percentage,Allie Reynolds,New York,.704,Top 25
+422,1948,Complete Games,Bob Lemon,Cleveland,20,Top 25
+423,1948,ERA,Gene Bearden,Cleveland,2.43,Top 25
+424,1948,Games,Joe Page,New York,55,Top 25
+425,1948,Saves,Russ Christopher,Cleveland,17,Top 25
+426,1948,Shutouts,Bob Lemon,Cleveland,10,Top 25
+427,1948,Strikeouts,Bob Feller,Cleveland,164,Top 25
+428,1948,Winning Percentage,Jack Kramer,Boston,.783,Top 25
+429,1949,Complete Games,Mel Parnell,Boston,27,Top 25
+430,1949,ERA,Mike Garcia,Cleveland,2.36,Top 25
+431,1949,Games,Joe Page,New York,60,Top 25
+432,1949,Saves,Joe Page,New York,27,Top 25
+433,1949,Shutouts,Ellis Kinder,Boston,6,Top 25
+434,1949,Shutouts,Virgil Trucks,Detroit,6,Top 25
+435,1949,Strikeouts,Virgil Trucks,Detroit,153,Top 25
+436,1949,Winning Percentage,Ellis Kinder,Boston,.793,Top 25
+437,1950,Complete Games,Ned Garver,St. Louis,22,Top 25
+438,1950,Complete Games,Bob Lemon,Cleveland,22,Top 25
+439,1950,ERA,Early Wynn,Cleveland,3.20,Top 25
+440,1950,Games,Mickey Harris,Washington,53,Top 25
+441,1950,Saves,Mickey Harris,Washington,15,Top 25
+442,1950,Shutouts,Art Houtteman,Detroit,4,Top 25
+443,1950,Strikeouts,Bob Lemon,Cleveland,170,Top 25
+444,1950,Winning Percentage,Vic Raschi,New York,.724,Top 25
+445,1950,Wins,Bob Lemon,Cleveland,23,Top 25
+446,1951,Complete Games,Ned Garver,St. Louis,24,Top 25
+447,1951,ERA,Saul Rogovin,Detroit,2.78,Top 25
+448,1951,ERA,Saul Rogovin,Chicago,2.78,Top 25
+449,1951,Games,Ellis Kinder,Boston,63,Top 25
+450,1951,Saves,Ellis Kinder,Boston,14,Top 25
+451,1951,Shutouts,Allie Reynolds,New York,7,Top 25
+452,1951,Strikeouts,Vic Raschi,New York,164,Top 25
+453,1951,Winning Percentage,Bob Feller,Cleveland,.733,Top 25
+454,1951,Wins,Bob Feller,Cleveland,22,Top 25
+455,1952,Complete Games,Bob Lemon,Cleveland,28,Top 25
+456,1952,ERA,Allie Reynolds,New York,2.06,Top 25
+457,1952,Games,Bill Kennedy,Chicago,47,Top 25
+458,1952,Saves,Harry Dorish,Chicago,11,Top 25
+459,1952,Shutouts,Mike Garcia,Cleveland,6,Top 25
+460,1952,Shutouts,Allie Reynolds,New York,6,Top 25
+461,1952,Strikeouts,Allie Reynolds,New York,160,Top 25
+462,1952,Winning Percentage,Bobby Shantz,Philadelphia,.774,Top 25
+463,1952,Wins,Bobby Shantz,Philadelphia,24,Top 25
+464,1953,Complete Games,Bob Porterfield,Washington,24,Top 25
+465,1953,ERA,Ed Lopat,New York,2.42,Top 25
+466,1953,Games,Ellis Kinder,Boston,69,Top 25
+467,1953,Saves,Ellis Kinder,Boston,27,Top 25
+468,1953,Shutouts,Bob Porterfield,Washington,9,Top 25
+469,1953,Strikeouts,Billy Pierce,New York,186,Top 25
+470,1953,Winning Percentage,Ed Lopat,New York,.800,Top 25
+471,1953,Wins,Bob Porterfield,Washington,22,Top 25
+472,1954,Complete Games,Bob Lemon,Cleveland,21,Top 25
+473,1954,Complete Games,Bob Porterfield,Washington,21,Top 25
+474,1954,ERA,Mike Garcia,Cleveland,2.64,Top 25
+475,1954,Games,Sonny Dixon,Washington,54,Top 25
+476,1954,Games,Sonny Dixon,Philadelphia,54,Top 25
+477,1954,Saves,Johnny Sain,New York,22,Top 25
+478,1954,Shutouts,Mike Garcia,Cleveland,5,Top 25
+479,1954,Shutouts,Virgil Trucks,Chicago,5,Top 25
+480,1954,Strikeouts,Bob Turley,Baltimore,185,Top 25
+481,1954,Winning Percentage,Sandy Consuegra,Chicago,.842,Top 25
+482,1954,Wins,Bob Lemon,Cleveland,23,Top 25
+483,1954,Wins,Early Wynn,Cleveland,23,Top 25
+484,1955,Complete Games,Whitey Ford,New York,18,Top 25
+485,1955,ERA,Billy Pierce,Chicago,1.97,Top 25
+486,1955,Games,Ray Narleski,Cleveland,60,Top 25
+487,1955,Saves,Ray Narleski,Cleveland,19,Top 25
+488,1955,Shutouts,Billy Hoeft,Detroit,7,Top 25
+489,1955,Strikeouts,Herb Score,Cleveland,245,Top 25
+490,1955,Winning Percentage,Tommy Byrne,New York,.762,Top 25
+491,1955,Wins,Whitey Ford,New York,18,Top 25
+492,1955,Wins,Bob Lemon,Cleveland,18,Top 25
+493,1955,Wins,Frank Sullivan,Boston,18,Top 25
+494,1956,Complete Games,Bob Lemon,Cleveland,21,Top 25
+495,1956,Complete Games,Billy Pierce,Chicago,21,Top 25
+496,1956,ERA,Whitey Ford,New York,2.47,Top 25
+497,1956,Games,George Zuverink,Baltimore,62,Top 25
+498,1956,Saves,George Zuverink,Baltimore,16,Top 25
+499,1956,Shutouts,Herb Score,Cleveland,5,Top 25
+500,1956,Strikeouts,Herb Score,Cleveland,263,Top 25
+501,1956,Winning Percentage,Whitey Ford,New York,.760,Top 25
+502,1956,Wins,Frank Lary,Detroit,21,Top 25
+503,1957,Complete Games,Dick Donovan,Chicago,16,Top 25
+504,1957,Complete Games,Billy Pierce,Chicago,16,Top 25
+505,1957,ERA,Bobby Shantz,New York,2.45,Top 25
+506,1957,Games,George Zuverink,Baltimore,56,Top 25
+507,1957,Saves,Bob Grim,New York,19,Top 25
+508,1957,Shutouts,Jim Wilson,Chicago,5,Top 25
+509,1957,Strikeouts,Early Wynn,Cleveland,184,Top 25
+510,1957,Winning Percentage,Dick Donovan,Chicago,.727,Top 25
+511,1957,Winning Percentage,Tom Sturdivant,New York,.727,Top 25
+512,1957,Wins,Jim Bunning,Detroit,20,Top 25
+513,1957,Wins,Billy Pierce,Chicago,20,Top 25
+514,1958,Complete Games,Frank Lary,Detroit,19,Top 25
+515,1958,Complete Games,Billy Pierce,Chicago,19,Top 25
+516,1958,Complete Games,Bob Turley,New York,19,Top 25
+517,1958,ERA,Whitey Ford,New York,2.01,Top 25
+518,1958,Games,Tex Clevenger,Washington,55,Top 25
+519,1958,Saves,Ryne Duren,New York,20,Top 25
+520,1958,Shutouts,Whitey Ford,New York,7,Top 25
+521,1958,Strikeouts,Early Wynn,Chicago,179,Top 25
+522,1958,Winning Percentage,Bob Turley,New York,.750,Top 25
+523,1958,Wins,Bob Turley,New York,21,Top 25
+524,1959,Complete Games,Camilo Pascual,Washington,17,Top 25
+525,1959,ERA,Hoyt Wilhelm,Baltimore,2.19,Top 25
+526,1959,Games,Gerry Staley,Chicago,67,Top 25
+527,1959,Saves,Turk Lown,Chicago,15,Top 25
+528,1959,Shutouts,Camilo Pascual,Washington,6,Top 25
+529,1959,Strikeouts,Jim Bunning,Detroit,201,Top 25
+530,1959,Winning Percentage,Bob Shaw,Chicago,.750,Top 25
+531,1959,Wins,Early Wynn,Chicago,22,Top 25
+532,1960,Complete Games,Frank Lary,Detroit,15,Top 25
+533,1960,ERA,Frank Baumann,Chicago,2.67,Top 25
+534,1960,Games,Mike Fornieles,Boston,70,Top 25
+535,1960,Saves,Johnny Klippstein,Cleveland,14,Top 25
+536,1960,Saves,Mike Fornieles,Boston,14,Top 25
+537,1960,Shutouts,Whitey Ford,New York,4,Top 25
+538,1960,Shutouts,Jim Perry,Cleveland,4,Top 25
+539,1960,Shutouts,Early Wynn,Chicago,4,Top 25
+540,1960,Strikeouts,Jim Bunning,Detroit,201,Top 25
+541,1960,Winning Percentage,Jim Perry,Cleveland,.643,Top 25
+542,1960,Wins,Chuck Estrada,Baltimore,18,Top 25
+543,1960,Wins,Jim Perry,Cleveland,18,Top 25
+544,1961,Complete Games,Frank Lary,Detroit,22,Top 25
+545,1961,ERA,Dick Donovan,Washington,2.40,Top 25
+546,1961,Games,Luis Arroyo,New York,65,Top 25
+547,1961,Saves,Luis Arroyo,New York,29,Top 25
+548,1961,Shutouts,Steve Barber,Baltimore,8,Top 25
+549,1961,Shutouts,Camilo Pascual,Minnesota,8,Top 25
+550,1961,Strikeouts,Camilo Pascual,Minnesota,221,Top 25
+551,1961,Winning Percentage,Whitey Ford,New York,.862,Top 25
+552,1961,Wins,Whitey Ford,New York,25,Top 25
+553,1962,Complete Games,Camilo Pascual,Minnesota,18,Top 25
+554,1962,ERA,Hank Aguirre,Detroit,2.21,Top 25
+555,1962,Games,Dick Radatz,Boston,62,Top 25
+556,1962,Saves,Dick Radatz,Boston,24,Top 25
+557,1962,Shutouts,Dick Donovan,Cleveland,5,Top 25
+558,1962,Shutouts,Jim Kaat,Minnesota,5,Top 25
+559,1962,Shutouts,Camilo Pascual,Minnesota,5,Top 25
+560,1962,Strikeouts,Camilo Pascual,Minnesota,206,Top 25
+561,1962,Winning Percentage,Ray Herbert,Chicago,.690,Top 25
+562,1962,Wins,Ralph Terry,New York,23,Top 25
+563,1963,Complete Games,Camilo Pascual,Minnesota,18,Top 25
+564,1963,Complete Games,Ralph Terry,New York,18,Top 25
+565,1963,ERA,Gary Peters,Chicago,2.33,Top 25
+566,1963,Games,Stu Miller,Baltimore,71,Top 25
+567,1963,Saves,Stu Miller,Baltimore,27,Top 25
+568,1963,Shutouts,Ray Herbert,Chicago,7,Top 25
+569,1963,Strikeouts,Camilo Pascual,Minnesota,202,Top 25
+570,1963,Winning Percentage,Whitey Ford,New York,.774,Top 25
+571,1963,Wins,Whitey Ford,New York,24,Top 25
+572,1964,Complete Games,Dean Chance,Los Angeles,19,Top 25
+573,1964,ERA,Dean Chance,Los Angeles,1.65,Top 25
+574,1964,Games,John Wyatt,Kansas City,81,Top 25
+575,1964,Saves,Dick Radatz,Boston,29,Top 25
+576,1964,Shutouts,Dean Chance,Los Angeles,11,Top 25
+577,1964,Strikeouts,Al Downing,New York,217,Top 25
+578,1964,Winning Percentage,Wally Bunker,Baltimore,.792,Top 25
+579,1964,Wins,Dean Chance,Los Angeles,20,Top 25
+580,1964,Wins,Gary Peters,Chicago,20,Top 25
+581,1965,Complete Games,Mel Stottlemyre,New York,18,Top 25
+582,1965,ERA,Sam McDowell,Cleveland,2.18,Top 25
+583,1965,Games,Eddie Fisher,Chicago,82,Top 25
+584,1965,Saves,Ron Kline,Washington,29,Top 25
+585,1965,Shutouts,Mudcat Grant,Minnesota,6,Top 25
+586,1965,Strikeouts,Sam McDowell,Cleveland,325,Top 25
+587,1965,Winning Percentage,Mudcat Grant,Minnesota,.750,Top 25
+588,1965,Wins,Mudcat Grant,Minnesota,21,Top 25
+589,1966,Complete Games,Jim Kaat,Minnesota,19,Top 25
+590,1966,ERA,Gary Peters,Chicago,1.98,Top 25
+591,1966,Games,Eddie Fisher,Baltimore,67,Top 25
+592,1966,Games,Eddie Fisher,Chicago,67,Top 25
+593,1966,Saves,Jack Aker,Kansas City,32,Top 25
+594,1966,Shutouts,Tommy John,Chicago,5,Top 25
+595,1966,Shutouts,Sam McDowell,Cleveland,5,Top 25
+596,1966,Shutouts,Luis Tiant,Cleveland,5,Top 25
+597,1966,Strikeouts,Sam McDowell,Cleveland,225,Top 25
+598,1966,Winning Percentage,Sonny Siebert,Cleveland,.667,Top 25
+599,1966,Wins,Jim Kaat,Minnesota,25,Top 25
+600,1967,Complete Games,Dean Chance,Minnesota,18,Top 25
+601,1967,ERA,Joe Horlen,Chicago,2.06,Top 25
+602,1967,Games,Bob Locker,Chicago,77,Top 25
+603,1967,Saves,Minnie Rojas,California,27,Top 25
+604,1967,Shutouts,Steve Hargan,Cleveland,6,Top 25
+605,1967,Shutouts,Joe Horlen,Chicago,6,Top 25
+606,1967,Shutouts,Tommy John,Chicago,6,Top 25
+607,1967,Shutouts,Mickey Lolich,Detroit,6,Top 25
+608,1967,Shutouts,Jim McGlothin,California,6,Top 25
+609,1967,Strikeouts,Jim Lonborg,Boston,246,Top 25
+610,1967,Winning Percentage,Joe Horlen,Chicago,.731,Top 25
+611,1967,Wins,Jim Lonborg,Boston,22,Top 25
+612,1967,Wins,Earl Wilson,Detroit,22,Top 25
+613,1968,Complete Games,Denny McLain,Detroit,28,Top 25
+614,1968,ERA,Luis Tiant,Cleveland,1.60,Top 25
+615,1968,Games,Wilbur Wood,Chicago,88,Top 25
+616,1968,Saves,Al Worthington,Minnesota,18,Top 25
+617,1968,Shutouts,Luis Tiant,Cleveland,9,Top 25
+618,1968,Strikeouts,Sam McDowell,Cleveland,283,Top 25
+619,1968,Winning Percentage,Denny McLain,Detroit,.838,Top 25
+620,1968,Wins,Denny McLain,Detroit,31,Top 25
+621,1969,Complete Games,Mel Stottlemyre,New York,24,Top 25
+622,1969,ERA,Dick Bosman,Washington,2.19,Top 25
+623,1969,Games,Wilbur Wood,Chicago,76,Top 25
+624,1969,Saves,Ron Perranoski,Minnesota,31,Top 25
+625,1969,Shutouts,Denny McLain,Detroit,9,Top 25
+626,1969,Strikeouts,Sam McDowell,Cleveland,279,Top 25
+627,1969,Winning Percentage,Jim Palmer,Baltimore,.800,Top 25
+628,1969,Wins,Denny McLain,Detroit,24,Top 25
+629,1970,Complete Games,Mike Cuellar,Baltimore,21,Top 25
+630,1970,ERA,Diego Segui,Oakland,2.56,Top 25
+631,1970,Games,Wilbur Wood,Chicago,77,Top 25
+632,1970,Saves,Ron Perranoski,Minnesota,34,Top 25
+633,1970,Shutouts,Chuck Dobson,Oakland,5,Top 25
+634,1970,Shutouts,Jim Palmer,Baltimore,5,Top 25
+635,1970,Strikeouts,Sam McDowell,Cleveland,304,Top 25
+636,1970,Winning Percentage,Mike Cuellar,Baltimore,.750,Top 25
+637,1970,Wins,Mike Cuellar,Baltimore,24,Top 25
+638,1970,Wins,Dave McNally,Baltimore,24,Top 25
+639,1970,Wins,Jim Perry,Minnesota,24,Top 25
+640,1971,Complete Games,Mickey Lolich,Detroit,29,Top 25
+641,1971,ERA,Vida Blue,Oakland,1.82,Top 25
+642,1971,Games,Ken Sanders,Milwaukee,83,Top 25
+643,1971,Saves,Ken Sanders,Milwaukee,31,Top 25
+644,1971,Shutouts,Vida Blue,Oakland,8,Top 25
+645,1971,Strikeouts,Mickey Lolich,Detroit,308,Top 25
+646,1971,Winning Percentage,Dave McNally,Baltimore,.808,Top 25
+647,1971,Wins,Mickey Lolich,Detroit,25,Top 25
+648,1972,Complete Games,Gaylord Perry,Cleveland,29,Top 25
+649,1972,ERA,Luis Tiant,Boston,1.91,Top 25
+650,1972,Games,Paul Lindblad,Texas,66,Top 25
+651,1972,Saves,Sparky Lyle,New York,35,Top 25
+652,1972,Shutouts,Nolan Ryan,California,9,Top 25
+653,1972,Strikeouts,Nolan Ryan,California,329,Top 25
+654,1972,Winning Percentage,Catfish Hunter,Oakland,.750,Top 25
+655,1972,Wins,Gaylord Perry,Cleveland,24,Top 25
+656,1972,Wins,Wilbur Wood,Chicago,24,Top 25
+657,1973,Complete Games,Gaylord Perry,Cleveland,29,Top 25
+658,1973,ERA,Jim Palmer,Baltimore,2.40,Top 25
+659,1973,Games,John Hiller,Detroit,65,Top 25
+660,1973,Saves,John Hiller,Detroit,38,Top 25
+661,1973,Shutouts,Bert Blyleven,Minnesota,9,Top 25
+662,1973,Strikeouts,Nolan Ryan,California,383,Top 25
+663,1973,Winning Percentage,Catfish Hunter,Oakland,.808,Top 25
+664,1973,Wins,Wilbur Wood,Chicago,24,Top 25
+665,1974,Complete Games,Fergie Jenkins,Texas,29,Top 25
+666,1974,ERA,Catfish Hunter,Oakland,2.49,Top 25
+667,1974,Games,Rollie Fingers,Oakland,76,Top 25
+668,1974,Saves,Terry Forster,Chicago,24,Top 25
+669,1974,Shutouts,Luis Tiant,Boston,7,Top 25
+670,1974,Strikeouts,Nolan Ryan,California,367,Top 25
+671,1974,Winning Percentage,Mike Cuellar,Baltimore,.688,Top 25
+672,1974,Wins,Catfish Hunter,Oakland,25,Top 25
+673,1974,Wins,Fergie Jenkins,Texas,25,Top 25
+674,1975,Complete Games,Catfish Hunter,New York,30,Top 25
+675,1975,ERA,Jim Palmer,Baltimore,2.09,Top 25
+676,1975,Games,Rollie Fingers,Oakland,75,Top 25
+677,1975,Saves,Rich Gossage,Chicago,26,Top 25
+678,1975,Shutouts,Jim Palmer,Baltimore,10,Top 25
+679,1975,Strikeouts,Frank Tanana,California,269,Top 25
+680,1975,Winning Percentage,Mike Torrez,Baltimore,.690,Top 25
+681,1975,Wins,Catfish Hunter,New York,23,Top 25
+682,1975,Wins,Jim Palmer,Baltimore,23,Top 25
+683,1976,Complete Games,Mark Fidrych,Detroit,24,Top 25
+684,1976,ERA,Mark Fidrych,Detroit,2.34,Top 25
+685,1976,Games,Bill Campbell,Minnesota,78,Top 25
+686,1976,Saves,Sparky Lyle,New York,23,Top 25
+687,1976,Shutouts,Nolan Ryan,California,7,Top 25
+688,1976,Strikeouts,Nolan Ryan,California,327,Top 25
+689,1976,Winning Percentage,Bill Campbell,Minnesota,.773,Top 25
+690,1976,Wins,Jim Palmer,Baltimore,22,Top 25
+691,1977,Complete Games,Jim Palmer,Baltimore,22,Top 25
+692,1977,Complete Games,Nolan Ryan,California,22,Top 25
+693,1977,ERA,Frank Tanana,California,2.54,Top 25
+694,1977,Games,Sparky Lyle,New York,72,Top 25
+695,1977,Saves,Bill Campbell,Boston,31,Top 25
+696,1977,Shutouts,Frank Tanana,California,7,Top 25
+697,1977,Strikeouts,Nolan Ryan,California,341,Top 25
+698,1977,Winning Percentage,Paul Splittorff,Kansas City,.727,Top 25
+699,1977,Wins,Dave Goltz,Minnesota,20,Top 25
+700,1977,Wins,Dennis Leonard,Kansas City,20,Top 25
+701,1977,Wins,Jim Palmer,Baltimore,20,Top 25
+702,1978,Complete Games,Mike Caldwell,Milwaukee,23,Top 25
+703,1978,ERA,Ron Guidry,New York,1.74,Top 25
+704,1978,Games,Bob Lacey,Oakland,74,Top 25
+705,1978,Saves,Rich Gossage,New York,27,Top 25
+706,1978,Shutouts,Ron Guidry,New York,9,Top 25
+707,1978,Strikeouts,Nolan Ryan,California,260,Top 25
+708,1978,Winning Percentage,Ron Guidry,New York,.893,Top 25
+709,1978,Wins,Ron Guidry,New York,25,Top 25
+710,1979,Complete Games,Dennis Martinez,Baltimore,18,Top 25
+711,1979,ERA,Ron Guidry,New York,2.78,Top 25
+712,1979,Games,Mike Marshall,Minnesota,90,Top 25
+713,1979,Saves,Mike Marshall,Minnesota,32,Top 25
+714,1979,Shutouts,Dennis Leonard,Kansas City,5,Top 25
+715,1979,Shutouts,Nolan Ryan,California,5,Top 25
+716,1979,Strikeouts,Nolan Ryan,California,223,Top 25
+717,1979,Winning Percentage,Mike Caldwell,Milwaukee,.727,Top 25
+718,1979,Wins,Mike Flanagan,Baltimore,23,Top 25
+719,1980,Complete Games,Rick Langford,Oakland,28,Top 25
+720,1980,ERA,Rudy May,New York,2.46,Top 25
+721,1980,Games,Dan Quisenberry,Kansas City,75,Top 25
+722,1980,Saves,Rich Gossage,New York,33,Top 25
+723,1980,Saves,Dan Quisenberry,Kansas City,33,Top 25
+724,1980,Shutouts,Tommy John,New York,6,Top 25
+725,1980,Strikeouts,Len Barker,Cleveland,187,Top 25
+726,1980,Winning Percentage,Steve Stone,Baltimore,.781,Top 25
+727,1980,Wins,Steve Stone,Baltimore,25,Top 25
+728,1981,Complete Games,Rick Langford,Oakland,18,Top 25
+729,1981,ERA,Steve McCatty,Oakland,2.33,Top 25
+730,1981,Games,Doug Corbett,Minnesota,54,Top 25
+731,1981,Saves,Rollie Fingers,Milwaukee,28,Top 25
+732,1981,Shutouts,Richard Dotson,Chicago,4,Top 25
+733,1981,Shutouts,Ken Forsch,California,4,Top 25
+734,1981,Shutouts,Doc Medich,Texas,4,Top 25
+735,1981,Shutouts,Steve McCatty,Oakland,4,Top 25
+736,1981,Strikeouts,Len Barker,Cleveland,127,Top 25
+737,1981,Winning Percentage,Pete Vuckovich,Milwaukee,.778,Top 25
+738,1981,Wins,Dennis Martinez,Baltimore,14,Top 25
+739,1981,Wins,Steve McCatty,Oakland,14,Top 25
+740,1981,Wins,Jack Morris,Detroit,14,Top 25
+741,1981,Wins,Pete Vuckovich,Milwaukee,14,Top 25
+742,1982,Complete Games,Dave Stieb,Toronto,19,Top 25
+743,1982,ERA,Rick Sutcliffe,Cleveland,2.96,Top 25
+744,1982,Games,Ed Vande Berg,Seattle,78,Top 25
+745,1982,Saves,Dan Quisenberry,Kansas City,35,Top 25
+746,1982,Shutouts,Dave Stieb,Toronto,5,Top 25
+747,1982,Strikeouts,Floyd Bannister,Seattle,209,Top 25
+748,1982,Winning Percentage,Pete Vuckovich,Milwaukee,.750,Top 25
+749,1982,Wins,La Marr Hoyt,Chicago,19,Top 25
+750,1983,Complete Games,Ron Guidry,New York,21,Top 25
+751,1983,ERA,Rick Honeycutt,Texas,2.42,Top 25
+752,1983,Games,Dan Quisenberry,Kansas City,69,Top 25
+753,1983,Saves,Dan Quisenberry,Kansas City,45,Top 25
+754,1983,Shutouts,Mike Boddicker,Baltimore,5,Top 25
+755,1983,Strikeouts,Jack Morris,Detroit,232,Top 25
+756,1983,Winning Percentage,Richard Dotson,Chicago,.759,Top 25
+757,1983,Wins,La Marr Hoyt,Chicago,24,Top 25
+758,1984,Complete Games,Charlie Hough,Texas,17,Top 25
+759,1984,ERA,Mike Boddicker,Baltimore,2.79,Top 25
+760,1984,Games,Willie Hernandez,Detroit,80,Top 25
+761,1984,Saves,Dan Quisenberry,Kansas City,44,Top 25
+762,1984,Shutouts,Bob Ojeda,Boston,5,Top 25
+763,1984,Shutouts,Geoff Zahn,California,5,Top 25
+764,1984,Strikeouts,Mark Langston,Seattle,204,Top 25
+765,1984,Winning Percentage,Doyle Alexander,Toronto,.739,Top 25
+766,1984,Wins,Mike Boddicker,Baltimore,20,Top 25
+767,1985,Complete Games,Bert Blyleven,Cleveland,24,Top 25
+768,1985,Complete Games,Bert Blyleven,Minnesota,24,Top 25
+769,1985,ERA,Dave Stieb,Toronto,2.48,Top 25
+770,1985,Games,Dan Quisenberry,Kansas City,84,Top 25
+771,1985,Saves,Dan Quisenberry,Kansas City,37,Top 25
+772,1985,Shutouts,Bert Blyleven,Cleveland,5,Top 25
+773,1985,Shutouts,Bert Blyleven,Minnesota,5,Top 25
+774,1985,Strikeouts,Bert Blyleven,Cleveland,206,Top 25
+775,1985,Strikeouts,Bert Blyleven,Minnesota,206,Top 25
+776,1985,Winning Percentage,Ron Guidry,New York,.786,Top 25
+777,1985,Wins,Ron Guidry,New York,22,Top 25
+778,1986,Complete Games,Tom Candiotti,Cleveland,17,Top 25
+779,1986,ERA,Roger Clemens,Boston,2.48,Top 25
+780,1986,Games,Mitch Williams,Texas,80,Top 25
+781,1986,Saves,Dave Righetti,New York,46,Top 25
+782,1986,Shutouts,Jack Morris,Detroit,6,Top 25
+783,1986,Strikeouts,Mark Langston,Seattle,245,Top 25
+784,1986,Winning Percentage,Roger Clemens,Boston,.857,Top 25

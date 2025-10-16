@@ -1,0 +1,615 @@
+id,year,statistic,Team,value
+1,1901,Complete Games,Philadelphia,124
+2,1901,ERA,Chicago,2.98
+3,1901,Fewest Hits Allowed,Boston,"1,178"
+4,1901,Fewest Home Runs Allowed,Philadelphia,20
+5,1901,Fewest Walks Allowed,Washington,284
+6,1901,Saves,Cleveland,4
+7,1901,Saves,Milwaukee,4
+8,1901,Shutouts,Chicago,11
+9,1902,Complete Games,Washington,130
+10,1902,ERA,Boston,3.02
+11,1902,Fewest Hits Allowed,Cleveland,"1,199"
+12,1902,Fewest Home Runs Allowed,Detroit,20
+13,1902,Fewest Walks Allowed,Washington,312
+14,1902,Saves,Cleveland,3
+15,1902,Saves,Detroit,3
+16,1902,Shutouts,Cleveland,16
+17,1903,Complete Games,Cleveland,125
+18,1903,ERA,Boston,2.57
+19,1903,Fewest Hits Allowed,Philadelphia,"1,124"
+20,1903,Fewest Home Runs Allowed,Cleveland,16
+21,1903,Fewest Walks Allowed,St. Louis,237
+22,1903,Saves,Boston,4
+23,1903,Saves,Chicago,4
+24,1903,Shutouts,Boston,20
+25,1903,Shutouts,Cleveland,20
+26,1904,Complete Games,Boston,148
+27,1904,ERA,Boston,2.12
+28,1904,Fewest Hits Allowed,Philadelphia,"1,149"
+29,1904,Fewest Home Runs Allowed,Cleveland,10
+30,1904,Fewest Walks Allowed,Boston,233
+31,1904,Saves,Washington,4
+32,1904,Shutouts,Chicago,26
+33,1904,Shutouts,Philadelphia,26
+34,1905,Complete Games,Cleveland,140
+35,1905,ERA,Chicago,1.99
+36,1905,Fewest Hits Allowed,Philadelphia,"1,137"
+37,1905,Fewest Home Runs Allowed,Chicago,11
+38,1905,Fewest Home Runs Allowed,Detroit,11
+39,1905,Fewest Walks Allowed,Boston,292
+40,1905,Saves,New York,4
+41,1905,Shutouts,Philadelphia,19
+42,1906,Complete Games,Cleveland,133
+43,1906,Complete Games,St. Louis,133
+44,1906,ERA,Cleveland,2.09
+45,1906,Fewest Hits Allowed,St. Louis,"1,132"
+46,1906,Fewest Home Runs Allowed,Philadelphia,9
+47,1906,Fewest Walks Allowed,Chicago,255
+48,1906,Saves,Boston,6
+49,1906,Shutouts,Chicago,32
+50,1907,Complete Games,St. Louis,129
+51,1907,ERA,Chicago,2.22
+52,1907,Fewest Hits Allowed,Philadelphia,"1,106"
+53,1907,Fewest Home Runs Allowed,Cleveland,8
+54,1907,Fewest Home Runs Allowed,Detroit,8
+55,1907,Fewest Walks Allowed,Chicago,305
+56,1907,Saves,Chicago,9
+57,1907,Saves,St. Louis,9
+58,1907,Shutouts,Philadelphia,27
+59,1908,Complete Games,Detroit,119
+60,1908,ERA,Cleveland,2.02
+61,1908,Fewest Hits Allowed,St. Louis,"1,151"
+62,1908,Fewest Home Runs Allowed,St. Louis,7
+63,1908,Fewest Walks Allowed,Chicago,284
+64,1908,Saves,Chicago,10
+65,1908,Shutouts,Chicago,23
+66,1908,Shutouts,Philadelphia,23
+67,1909,Complete Games,Detroit,117
+68,1909,ERA,Philadelphia,1.93
+69,1909,Fewest Hits Allowed,Philadelphia,"1,069"
+70,1909,Fewest Home Runs Allowed,Chicago,8
+71,1909,Fewest Walks Allowed,Chicago,340
+72,1909,Saves,Boston,15
+73,1909,Shutouts,Philadelphia,27
+74,1910,Complete Games,Philadelphia,123
+75,1910,ERA,Philadelphia,1.79
+76,1910,Fewest Hits Allowed,Philadelphia,"1,103"
+77,1910,Fewest Home Runs Allowed,Philadelphia,8
+78,1910,Fewest Walks Allowed,New York,364
+79,1910,Saves,New York,8
+80,1910,Shutouts,Philadelphia,24
+81,1911,Complete Games,Detroit,108
+82,1911,ERA,Boston,2.74
+83,1911,Fewest Hits Allowed,Boston,"1,309"
+84,1911,Fewest Home Runs Allowed,Cleveland,17
+85,1911,Fewest Home Runs Allowed,Philadelphia,17
+86,1911,Fewest Walks Allowed,Chicago,384
+87,1911,Saves,Philadelphia,13
+88,1911,Shutouts,Chicago,17
+89,1912,Complete Games,Boston,108
+90,1912,ERA,Washington,2.69
+91,1912,Fewest Hits Allowed,Washington,"1,219"
+92,1912,Fewest Home Runs Allowed,Philadelphia,12
+93,1912,Fewest Walks Allowed,Boston,385
+94,1912,Saves,Chicago,16
+95,1912,Shutouts,Boston,18
+96,1913,Complete Games,St. Louis,104
+97,1913,ERA,Chicago,2.33
+98,1913,Fewest Hits Allowed,Washington,"1,177"
+99,1913,Fewest Home Runs Allowed,Boston,6
+100,1913,Fewest Walks Allowed,Chicago,438
+101,1913,Saves,Philadelphia,22
+102,1913,Shutouts,Washington,23
+103,1914,Complete Games,New York,98
+104,1914,ERA,Boston,2.36
+105,1914,Fewest Hits Allowed,Washington,"1,170"
+106,1914,Fewest Home Runs Allowed,Cleveland,10
+107,1914,Fewest Walks Allowed,New York,390
+108,1914,Saves,Washington,20
+109,1914,Shutouts,Washington,25
+110,1915,Complete Games,New York,101
+111,1915,ERA,Washington,2.31
+112,1915,Fewest Hits Allowed,Washington,"1,161"
+113,1915,Fewest Home Runs Allowed,Washington,12
+114,1915,Fewest Walks Allowed,Chicago,350
+115,1915,Saves,Detroit,20
+116,1915,Shutouts,Washington,21
+117,1916,Complete Games,Philadelphia,94
+118,1916,ERA,Chicago,2.36
+119,1916,Fewest Hits Allowed,Chicago,"1,189"
+120,1916,Fewest Home Runs Allowed,Boston,10
+121,1916,Fewest Walks Allowed,Chicago,405
+122,1916,Saves,New York,17
+123,1916,Shutouts,Boston,24
+124,1917,Complete Games,Boston,115
+125,1917,ERA,Chicago,2.16
+126,1917,Fewest Hits Allowed,Boston,"1,197"
+127,1917,Fewest Home Runs Allowed,Chicago,10
+128,1917,Fewest Walks Allowed,Boston,413
+129,1917,Fewest Walks Allowed,Chicago,413
+130,1917,Saves,Cleveland,22
+131,1917,Shutouts,Chicago,22
+132,1918,Complete Games,Boston,105
+133,1918,ERA,Washington,2.14
+134,1918,Fewest Hits Allowed,Boston,931
+135,1918,Fewest Home Runs Allowed,Boston,9
+136,1918,Fewest Home Runs Allowed,Chicago,9
+137,1918,Fewest Home Runs Allowed,Cleveland,9
+138,1918,Fewest Walks Allowed,Chicago,300
+139,1918,Saves,Cleveland,13
+140,1918,Saves,New York,13
+141,1918,Shutouts,Boston,26
+142,1919,Complete Games,Boston,89
+143,1919,ERA,New York,2.82
+144,1919,Fewest Hits Allowed,New York,"1,143"
+145,1919,Fewest Home Runs Allowed,Boston,16
+146,1919,Fewest Walks Allowed,Chicago,342
+147,1919,Saves,Cleveland,10
+148,1919,Saves,Washington,10
+149,1919,Shutouts,Boston,15
+150,1920,Complete Games,Chicago,109
+151,1920,ERA,New York,3.32
+152,1920,Fewest Hits Allowed,New York,"1,414"
+153,1920,Fewest Home Runs Allowed,Cleveland,31
+154,1920,Fewest Walks Allowed,Cleveland,401
+155,1920,Saves,St. Louis,14
+156,1920,Shutouts,New York,15
+157,1921,Complete Games,New York,92
+158,1921,ERA,New York,3.82
+159,1921,Fewest Hits Allowed,New York,"1,461"
+160,1921,Fewest Home Runs Allowed,Cleveland,43
+161,1921,Fewest Walks Allowed,Cleveland,431
+162,1921,Saves,Detroit,17
+163,1921,Shutouts,Cleveland,11
+164,1922,Complete Games,New York,100
+165,1922,ERA,St. Louis,3.38
+166,1922,Fewest Hits Allowed,New York,"1,402"
+167,1922,Fewest Home Runs Allowed,Boston,48
+168,1922,Fewest Walks Allowed,St. Louis,419
+169,1922,Saves,St. Louis,22
+170,1922,Shutouts,Cleveland,14
+171,1923,Complete Games,New York,101
+172,1923,ERA,New York,3.63
+173,1923,Fewest Hits Allowed,New York,"1,365"
+174,1923,Fewest Home Runs Allowed,Cleveland,36
+175,1923,Fewest Walks Allowed,Detroit,449
+176,1923,Saves,Washington,16
+177,1923,Shutouts,Cleveland,10
+178,1923,Shutouts,St. Louis,10
+179,1924,Complete Games,Cleveland,87
+180,1924,ERA,Washington,3.35
+181,1924,Fewest Hits Allowed,Washington,"1,329"
+182,1924,Fewest Home Runs Allowed,Washington,34
+183,1924,Fewest Walks Allowed,Detroit,467
+184,1924,Saves,Washington,25
+185,1924,Shutouts,New York,13
+186,1924,Shutouts,Washington,13
+187,1925,Complete Games,Cleveland,93
+188,1925,ERA,Washington,3.70
+189,1925,Fewest Hits Allowed,Washington,"1,434"
+190,1925,Fewest Home Runs Allowed,Cleveland,41
+191,1925,Fewest Walks Allowed,Chicago,489
+192,1925,Saves,Washington,21
+193,1925,Shutouts,Chicago,12
+194,1926,Complete Games,Cleveland,96
+195,1926,ERA,Philadelphia,3.00
+196,1926,Fewest Hits Allowed,Philadelphia,"1,362"
+197,1926,Fewest Home Runs Allowed,Philadelphia,38
+198,1926,Fewest Walks Allowed,Cleveland,450
+199,1926,Saves,Washington,26
+200,1926,Shutouts,Chicago,11
+201,1926,Shutouts,Cleveland,11
+202,1927,Complete Games,Chicago,85
+203,1927,ERA,New York,3.20
+204,1927,Fewest Hits Allowed,New York,"1,403"
+205,1927,Fewest Home Runs Allowed,Cleveland,37
+206,1927,Fewest Walks Allowed,New York,409
+207,1927,Saves,Philadelphia,24
+208,1927,Shutouts,New York,11
+209,1927,Strikeouts,Philadelphia,553
+210,1928,Complete Games,Chicago,88
+211,1928,ERA,Philadelphia,3.37
+212,1928,Fewest Hits Allowed,Philadelphia,"1,349"
+213,1928,Fewest Home Runs Allowed,Washington,40
+214,1928,Fewest Walks Allowed,Philadelphia,424
+215,1928,Saves,New York,21
+216,1928,Shutouts,Philadelphia,15
+217,1928,Shutouts,Washington,15
+218,1929,Complete Games,Boston,84
+219,1929,ERA,Philadelphia,3.44
+220,1929,Fewest Hits Allowed,Philadelphia,"1,371"
+221,1929,Fewest Home Runs Allowed,Washington,48
+222,1929,Fewest Walks Allowed,St. Louis,462
+223,1929,Saves,Philadelphia,24
+224,1929,Shutouts,St. Louis,15
+225,1930,Complete Games,Washington,78
+226,1930,ERA,Washington,3.97
+227,1930,Fewest Hits Allowed,Washington,"1,367"
+228,1930,Fewest Home Runs Allowed,Washington,52
+229,1930,Fewest Walks Allowed,Chicago,407
+230,1930,Saves,Philadelphia,21
+231,1930,Shutouts,Philadelphia,8
+232,1931,Complete Games,Philadelphia,97
+233,1931,ERA,Philadelphia,3.47
+234,1931,Fewest Hits Allowed,Philadelphia,"1,342"
+235,1931,Fewest Home Runs Allowed,Boston,54
+236,1931,Fewest Walks Allowed,St. Louis,448
+237,1931,Saves,Washington,24
+238,1931,Shutouts,Philadelphia,12
+239,1932,Complete Games,New York,96
+240,1932,ERA,New York,3.99
+241,1932,Fewest Hits Allowed,Detroit,"1,421"
+242,1932,Fewest Home Runs Allowed,Cleveland,70
+243,1932,Fewest Walks Allowed,Cleveland,446
+244,1932,Saves,Washington,22
+245,1932,Shutouts,New York,11
+246,1932,Strikeouts,New York,780
+247,1933,Complete Games,Cleveland,74
+248,1933,ERA,Cleveland,3.71
+249,1933,Fewest Hits Allowed,Cleveland,"1,382"
+250,1933,Fewest Home Runs Allowed,Cleveland,60
+251,1933,Fewest Walks Allowed,Washington,452
+252,1933,Saves,Washington,26
+253,1933,Shutouts,Cleveland,12
+254,1934,Complete Games,New York,83
+255,1934,ERA,New York,3.76
+256,1934,Fewest Hits Allowed,New York,"1,349"
+257,1934,Fewest Home Runs Allowed,Cleveland,70
+258,1934,Fewest Home Runs Allowed,Boston,70
+259,1934,Fewest Walks Allowed,Detroit,488
+260,1934,Saves,St. Louis,20
+261,1934,Shutouts,Detroit,13
+262,1934,Shutouts,New York,13
+263,1935,Complete Games,Detroit,87
+264,1935,ERA,New York,3.60
+265,1935,Fewest Hits Allowed,New York,"1,276"
+266,1935,Fewest Home Runs Allowed,Boston,67
+267,1935,Fewest Walks Allowed,Cleveland,457
+268,1935,Saves,Cleveland,21
+269,1936,Complete Games,Chicago,80
+270,1936,ERA,New York,4.18
+271,1936,Fewest Hits Allowed,New York,"1,474"
+272,1936,Fewest Home Runs Allowed,Cleveland,73
+273,1936,Fewest Home Runs Allowed,Washington,73
+274,1936,Fewest Walks Allowed,Boston,552
+275,1936,Saves,New York,21
+276,1936,Shutouts,Detroit,13
+277,1936,Strikeouts,New York,624
+278,1937,Complete Games,New York,82
+279,1937,ERA,New York,3.65
+280,1937,Fewest Hits Allowed,New York,"1,417"
+281,1937,Fewest Home Runs Allowed,Cleveland,61
+282,1937,Fewest Walks Allowed,New York,506
+283,1937,Saves,Chicago,21
+284,1937,Saves,New York,21
+285,1937,Shutouts,Chicago,15
+286,1937,Shutouts,New York,15
+287,1938,Complete Games,New York,91
+288,1938,ERA,New York,3.92
+289,1938,Fewest Hits Allowed,Cleveland,"1,416"
+290,1938,Fewest Home Runs Allowed,New York,85
+291,1938,Fewest Walks Allowed,Boston,528
+292,1938,Saves,Cleveland,17
+293,1938,Shutouts,New York,11
+294,1938,Strikeouts,Cleveland,717
+295,1939,Complete Games,New York,87
+296,1939,ERA,New York,3.31
+297,1939,Fewest Hits Allowed,New York,"1,208"
+298,1939,Fewest Home Runs Allowed,Cleveland,75
+299,1939,Fewest Home Runs Allowed,Washington,75
+300,1939,Fewest Walks Allowed,Chicago,454
+301,1939,Saves,New York,26
+302,1939,Shutouts,New York,15
+303,1940,Complete Games,Chicago,83
+304,1940,ERA,Cleveland,3.64
+305,1940,Fewest Hits Allowed,Cleveland,"1,328"
+306,1940,Fewest Home Runs Allowed,Cleveland,86
+307,1940,Fewest Walks Allowed,Chicago,480
+308,1940,Saves,Detroit,23
+309,1940,Shutouts,Cleveland,13
+310,1941,Complete Games,Chicago,106
+311,1941,ERA,Chicago,3.52
+312,1941,Fewest Hits Allowed,New York,"1,309"
+313,1941,Fewest Home Runs Allowed,Washington,69
+314,1941,Fewest Walks Allowed,Chicago,521
+315,1941,Saves,New York,26
+316,1941,Shutouts,Chicago,14
+317,1942,Complete Games,New York,88
+318,1942,ERA,New York,2.91
+319,1942,Fewest Hits Allowed,New York,"1,259"
+320,1942,Fewest Home Runs Allowed,Washington,50
+321,1942,Fewest Walks Allowed,New York,431
+322,1942,Saves,Boston,17
+323,1942,Saves,New York,17
+324,1942,Shutouts,New York,18
+325,1943,Complete Games,New York,83
+326,1943,ERA,New York,2.93
+327,1943,Fewest Hits Allowed,Detroit,"1,226"
+328,1943,Fewest Home Runs Allowed,Washington,48
+329,1943,Fewest Walks Allowed,St. Louis,488
+330,1943,Saves,Washington,21
+331,1943,Shutouts,Detroit,18
+332,1944,Complete Games,Detroit,87
+333,1944,ERA,Detroit,3.09
+334,1944,Fewest Hits Allowed,Philadelphia,"1,345"
+335,1944,Fewest Home Runs Allowed,Detroit,39
+336,1944,Fewest Walks Allowed,Philadelphia,390
+337,1944,Saves,Cleveland,18
+338,1944,Shutouts,Detroit,20
+339,1944,Strikeouts,St. Louis,581
+340,1945,Complete Games,St. Louis,91
+341,1945,ERA,Washington,2.93
+342,1945,Fewest Hits Allowed,Cleveland,"1,269"
+343,1945,Fewest Home Runs Allowed,Cleveland,39
+344,1945,Fewest Walks Allowed,Washington,440
+345,1945,Saves,Detroit,16
+346,1945,Shutouts,Detroit,19
+347,1945,Shutouts,Washington,19
+348,1946,Complete Games,Detroit,94
+349,1946,ERA,Chicago,3.10
+350,1946,Fewest Hits Allowed,New York,"1,232"
+351,1946,Fewest Home Runs Allowed,New York,66
+352,1946,Fewest Walks Allowed,Detroit,497
+353,1946,Saves,Boston,20
+354,1946,Shutouts,Detroit,18
+355,1947,Complete Games,Detroit,77
+356,1947,ERA,New York,3.40
+357,1947,Fewest Hits Allowed,New York,"1,221"
+358,1947,Fewest Home Runs Allowed,Washington,63
+359,1947,Fewest Walks Allowed,Detroit,531
+360,1947,Saves,Cleveland,29
+361,1947,Shutouts,Detroit,15
+362,1947,Shutouts,Washington,15
+363,1948,Complete Games,Philadelphia,74
+364,1948,ERA,Cleveland,3.23
+365,1948,Fewest Hits Allowed,Cleveland,"1,246"
+366,1948,Fewest Home Runs Allowed,Washington,81
+367,1948,Fewest Walks Allowed,Detroit,589
+368,1948,Saves,Cleveland,30
+369,1948,Shutouts,Cleveland,26
+370,1949,Complete Games,Philadelphia,85
+371,1949,ERA,Cleveland,3.36
+372,1949,Fewest Hits Allowed,New York,"1,231"
+373,1949,Fewest Home Runs Allowed,Washington,79
+374,1949,Fewest Walks Allowed,Cleveland,611
+375,1949,Saves,New York,36
+376,1949,Shutouts,Detroit,19
+377,1950,Complete Games,Detroit,72
+378,1950,ERA,Cleveland,3.76
+379,1950,Fewest Hits Allowed,Cleveland,"1,289"
+380,1950,Fewest Home Runs Allowed,Washington,99
+381,1950,Fewest Walks Allowed,Detroit,553
+382,1950,Saves,New York,31
+383,1951,Complete Games,Cleveland,76
+384,1951,ERA,Cleveland,3.39
+385,1951,Fewest Hits Allowed,Cleveland,"1,287"
+386,1951,Fewest Home Runs Allowed,Cleveland,85
+387,1951,Fewest Walks Allowed,Chicago,549
+388,1951,Saves,Boston,24
+389,1952,Complete Games,Cleveland,80
+390,1952,ERA,New York,3.15
+391,1952,Fewest Hits Allowed,New York,"1,240"
+392,1952,Fewest Home Runs Allowed,Washington,78
+393,1952,Fewest Walks Allowed,Philadelphia,526
+394,1952,Saves,Chicago,28
+395,1953,Complete Games,Cleveland,81
+396,1953,ERA,New York,3.21
+397,1953,Fewest Hits Allowed,New York,"1,286"
+398,1953,Fewest Home Runs Allowed,Boston,92
+399,1953,Fewest Home Runs Allowed,Cleveland,92
+400,1953,Fewest Walks Allowed,Washington,478
+401,1953,Saves,New York,39
+402,1954,Complete Games,Cleveland,77
+403,1954,ERA,Cleveland,2.79
+404,1954,Fewest Hits Allowed,Cleveland,"1,220"
+405,1954,Fewest Home Runs Allowed,Baltimore,78
+406,1954,Fewest Walks Allowed,Cleveland,486
+407,1954,Saves,New York,37
+408,1955,Complete Games,Detroit,66
+409,1955,ERA,New York,3.23
+410,1955,Fewest Hits Allowed,New York,"1,163"
+411,1955,Fewest Home Runs Allowed,Washington,99
+412,1955,Fewest Walks Allowed,Chicago,497
+413,1955,Saves,Cleveland,36
+414,1956,Complete Games,Cleveland,67
+415,1956,ERA,Cleveland,3.33
+416,1956,Fewest Hits Allowed,Cleveland,"1,233"
+417,1956,Fewest Home Runs Allowed,Baltimore,99
+418,1956,Fewest Walks Allowed,Chicago,524
+419,1956,Saves,New York,35
+420,1957,Complete Games,Chicago,59
+421,1957,ERA,New York,3.00
+422,1957,Fewest Hits Allowed,New York,"1,198"
+423,1957,Fewest Home Runs Allowed,Baltimore,95
+424,1957,Fewest Walks Allowed,Chicago,470
+425,1957,Saves,New York,42
+426,1958,Complete Games,Detroit,59
+427,1958,ERA,New York,3.22
+428,1958,Fewest Hits Allowed,New York,"1,201"
+429,1958,Fewest Home Runs Allowed,Baltimore,106
+430,1958,Fewest Walks Allowed,Baltimore,403
+431,1958,Saves,New York,33
+432,1959,Complete Games,Cleveland,58
+433,1959,ERA,Chicago,3.29
+434,1959,Fewest Hits Allowed,Cleveland,"1,230"
+435,1959,Fewest Home Runs Allowed,Baltimore,111
+436,1959,Fewest Walks Allowed,Detroit,432
+437,1959,Saves,Chicago,36
+438,1959,Shutouts,Baltimore,15
+439,1960,Complete Games,Baltimore,48
+440,1960,ERA,New York,3.52
+441,1960,Fewest Hits Allowed,Baltimore,"1,222"
+442,1960,Fewest Home Runs Allowed,Baltimore,117
+443,1960,Fewest Walks Allowed,Detroit,474
+444,1960,Saves,New York,42
+445,1961,Complete Games,Detroit,62
+446,1961,ERA,Baltimore,3.22
+447,1961,Fewest Hits Allowed,Baltimore,"1,226"
+448,1961,Fewest Home Runs Allowed,Baltimore,109
+449,1961,Fewest Walks Allowed,Detroit,469
+450,1961,Saves,New York,39
+451,1961,Shutouts,Baltimore,21
+452,1962,Complete Games,Minnesota,53
+453,1962,ERA,Baltimore,3.70
+454,1962,Fewest Hits Allowed,Baltimore,"1,373"
+455,1962,Fewest Home Runs Allowed,Los Angeles,118
+456,1962,Fewest Walks Allowed,Minnesota,493
+457,1962,Saves,Los Angeles,47
+458,1963,Complete Games,New York,59
+459,1963,ERA,Chicago,2.98
+460,1963,Fewest Hits Allowed,New York,"1,239"
+461,1963,Fewest Home Runs Allowed,Chicago,100
+462,1963,Fewest Walks Allowed,Chicago,440
+463,1963,Saves,Baltimore,43
+464,1964,Complete Games,Minnesota,47
+465,1964,ERA,Chicago,2.73
+466,1964,Fewest Hits Allowed,Chicago,"1,216"
+467,1964,Fewest Home Runs Allowed,Los Angeles,100
+468,1964,Fewest Walks Allowed,Chicago,401
+469,1964,Saves,Chicago,45
+470,1964,Saves,New York,45
+471,1965,Complete Games,Detroit,45
+472,1965,ERA,Baltimore,2.98
+473,1965,Fewest Hits Allowed,Cleveland,"1,254"
+474,1965,Fewest Home Runs Allowed,California,91
+475,1965,Fewest Walks Allowed,Chicago,460
+476,1965,Saves,Chicago,53
+477,1965,Shutouts,Baltimore,15
+478,1966,Complete Games,Minnesota,52
+479,1966,ERA,Chicago,2.69
+480,1966,Fewest Hits Allowed,Chicago,"1,229"
+481,1966,Fewest Home Runs Allowed,Chicago,101
+482,1966,Fewest Walks Allowed,Minnesota,392
+483,1966,Saves,Baltimore,51
+484,1966,Shutouts,Chicago,22
+485,1966,Strikeouts,Cleveland,"1,111"
+486,1967,Complete Games,Minnesota,58
+487,1967,ERA,Chicago,2.45
+488,1967,Fewest Hits Allowed,Chicago,"1,197"
+489,1967,Fewest Home Runs Allowed,Chicago,87
+490,1967,Fewest Walks Allowed,Minnesota,396
+491,1967,Saves,California,46
+492,1967,Shutouts,Chicago,24
+493,1968,Complete Games,Detroit,59
+494,1968,ERA,Cleveland,2.66
+495,1968,Fewest Hits Allowed,Cleveland,"1,087"
+496,1968,Fewest Home Runs Allowed,Minnesota,92
+497,1968,Fewest Walks Allowed,Minnesota,414
+498,1968,Saves,Chicago,40
+499,1969,Complete Games,Detroit,55
+500,1969,ERA,Baltimore,2.83
+501,1969,Fewest Hits Allowed,Baltimore,"1,194"
+502,1969,Fewest Home Runs Allowed,Baltimore,117
+503,1969,Fewest Walks Allowed,Baltimore,498
+504,1969,Saves,Minnesota,43
+505,1969,Shutouts,Baltimore,20
+506,1970,Complete Games,Baltimore,60
+507,1970,ERA,Baltimore,3.15
+508,1970,Fewest Hits Allowed,Oakland,"1,253"
+509,1970,Fewest Home Runs Allowed,Minnesota,130
+510,1970,Fewest Home Runs Allowed,New York,130
+511,1970,Fewest Walks Allowed,New York,451
+512,1970,Saves,Minnesota,58
+513,1971,Complete Games,Baltimore,71
+514,1971,ERA,Baltimore,2.99
+515,1971,Fewest Hits Allowed,Oakland,"1,299"
+516,1971,Fewest Home Runs Allowed,Kansas City,84
+517,1971,Fewest Walks Allowed,Baltimore,416
+518,1971,Saves,Kansas City,44
+519,1971,Shutouts,Milwaukee,23
+520,1972,Complete Games,Baltimore,62
+521,1972,ERA,Baltimore,2.53
+522,1972,Fewest Hits Allowed,California,"1,109"
+523,1972,Fewest Home Runs Allowed,Baltimore,85
+524,1972,Fewest Home Runs Allowed,Kansas City,85
+525,1972,Fewest Walks Allowed,Baltimore,395
+526,1972,Saves,Oakland,43
+527,1973,Complete Games,California,72
+528,1973,ERA,Baltimore,3.07
+529,1973,Fewest Hits Allowed,Baltimore,"1,297"
+530,1973,Fewest Home Runs Allowed,California,104
+531,1973,Fewest Walks Allowed,New York,457
+532,1973,Saves,Detroit,46
+533,1974,Complete Games,Boston,71
+534,1974,ERA,Oakland,2.96
+535,1974,Fewest Hits Allowed,Oakland,"1,322"
+536,1974,Fewest Home Runs Allowed,Oakland,90
+537,1974,Fewest Walks Allowed,Oakland,430
+538,1974,Saves,Chicago,29
+539,1974,Saves,Minnesota,29
+540,1974,Shutouts,Baltimore,16
+541,1975,Complete Games,Baltimore,70
+542,1975,Complete Games,New York,70
+543,1975,ERA,Baltimore,3.17
+544,1975,Fewest Hits Allowed,Oakland,"1,267"
+545,1975,Fewest Home Runs Allowed,Oakland,102
+546,1975,Fewest Walks Allowed,Boston,490
+547,1975,Saves,Oakland,44
+548,1975,Shutouts,Baltimore,19
+549,1976,Complete Games,California,64
+550,1976,ERA,New York,3.20
+551,1976,Fewest Hits Allowed,New York,"1,300"
+552,1976,Fewest Home Runs Allowed,Baltimore,90
+553,1976,Fewest Home Runs Allowed,Cleveland,90
+554,1976,Fewest Walks Allowed,Boston,409
+555,1976,Saves,Cleveland,46
+556,1977,Complete Games,Baltimore,65
+557,1977,ERA,Kansas City,3.52
+558,1977,Fewest Hits Allowed,Kansas City,"1,377"
+559,1977,Fewest Home Runs Allowed,Kansas City,110
+560,1977,Fewest Walks Allowed,Boston,378
+561,1977,Saves,Kansas City,42
+562,1978,Complete Games,Baltimore,65
+563,1978,ERA,New York,3.18
+564,1978,Fewest Hits Allowed,New York,"1,321"
+565,1978,Fewest Home Runs Allowed,Cleveland,100
+566,1978,Fewest Walks Allowed,Milwaukee,398
+567,1978,Saves,New York,36
+568,1978,Shutouts,Milwaukee,19
+569,1979,Complete Games,Milwaukee,61
+570,1979,ERA,Baltimore,3.26
+571,1979,Fewest Hits Allowed,Baltimore,"1,279"
+572,1979,Fewest Home Runs Allowed,Chicago,114
+573,1979,Fewest Walks Allowed,Milwaukee,381
+574,1979,Saves,Texas,42
+575,1979,Shutouts,Baltimore,12
+576,1980,Complete Games,Oakland,94
+577,1980,ERA,Oakland,3.46
+578,1980,Fewest Hits Allowed,Oakland,"1,347"
+579,1980,Fewest Home Runs Allowed,New York,102
+580,1980,Fewest Walks Allowed,Milwaukee,420
+581,1980,Saves,New York,50
+582,1981,Complete Games,Oakland,60
+583,1981,ERA,New York,2.90
+584,1981,Fewest Hits Allowed,New York,827
+585,1981,Fewest Home Runs Allowed,New York,64
+586,1981,Fewest Walks Allowed,Kansas City,273
+587,1981,Saves,Milwaukee,35
+588,1981,Shutouts,Detroit,13
+589,1981,Shutouts,New York,13
+590,1982,Complete Games,Detroit,45
+591,1982,ERA,Detroit,3.80
+592,1982,Fewest Hits Allowed,Detroit,"1,371"
+593,1982,Fewest Home Runs Allowed,Chicago,99
+594,1982,Fewest Walks Allowed,Chicago,460
+595,1982,Saves,Milwaukee,47
+596,1983,Complete Games,New York,47
+597,1983,ERA,Texas,3.31
+598,1983,Fewest Hits Allowed,Detroit,"1,318"
+599,1983,Fewest Home Runs Allowed,Texas,97
+600,1983,Fewest Walks Allowed,Chicago,447
+601,1983,Saves,Kansas City,49
+602,1984,Complete Games,Baltimore,48
+603,1984,ERA,Detroit,3.49
+604,1984,Fewest Hits Allowed,Detroit,"1,358"
+605,1984,Fewest Home Runs Allowed,New York,120
+606,1984,Fewest Walks Allowed,Kansas City,433
+607,1984,Saves,Detroit,51
+608,1985,Complete Games,Minnesota,41
+609,1985,ERA,Toronto,3.31
+610,1985,Fewest Hits Allowed,Toronto,"1,312"
+611,1985,Fewest Home Runs Allowed,Kansas City,103
+612,1985,Fewest Walks Allowed,Minnesota,462
+613,1985,Saves,New York,49
+614,1985,Shutouts,Detroit,11
