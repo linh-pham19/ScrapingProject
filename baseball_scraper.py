@@ -28,6 +28,7 @@ header_map = {
     "GB": "games_behind",
 }
 
+
 # CSV file mapping for different table types
 CSV_FILES = {
     "hitters": "hitters_data.csv",
