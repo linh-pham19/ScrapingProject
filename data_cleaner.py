@@ -17,11 +17,9 @@ def clean_hitters(df):
     :return: Cleaned DataFrame.
     """
     # Drop rows with missing values in critical columns
-    df = df.dropna(subset=["name", "team", "statistic"])
+    df = df.dropna(subset=["name", "team"])
     # Remove duplicates
     df = df.drop_duplicates()
-    # Ensure "statistic" is numeric
-    df["statistic"] = pd.to_numeric(df["statistic"], errors="coerce")
     return df
 
 
@@ -32,11 +30,9 @@ def clean_pitchers(df):
     :return: Cleaned DataFrame.
     """
     # Drop rows with missing values in critical columns
-    df = df.dropna(subset=["name", "team", "statistic"])
+    df = df.dropna(subset=["name", "team"])
     # Remove duplicates
     df = df.drop_duplicates()
-    # Ensure "statistic" is numeric
-    df["statistic"] = pd.to_numeric(df["statistic"], errors="coerce")
     # Reset index
     df = df.reset_index(drop=True)
     return df
@@ -96,9 +92,6 @@ def clean_leaderboard(df):
     :param df: DataFrame containing leaderboard data.
     :return: Cleaned DataFrame.
     """
-    # Debug: Print the initial state of the DataFrame
-    print("Initial leaderboard DataFrame shape:", df.shape)
-    print("Initial leaderboard DataFrame columns:", df.columns.tolist())
 
     # Define the expected columns
     expected_columns = ["id", "year", "statistic", "team", "value"]
@@ -117,14 +110,8 @@ def clean_leaderboard(df):
         print("DataFrame shape at error:", df.shape)
         return df
 
-    # Debug: Print the state of the DataFrame after renaming columns
-    print("DataFrame shape after renaming columns:", df.shape)
-
     # Drop rows with missing values in critical columns
     df = df.dropna(subset=["statistic", "team", "value"])
-
-    # Debug: Print the state of the DataFrame after dropping missing values
-    print("DataFrame shape after dropping missing values:", df.shape)
 
     # Ensure "value" is numeric where applicable
     try:
@@ -144,9 +131,6 @@ def clean_leaderboard(df):
 
     # Reset the index
     df = df.reset_index(drop=True)
-
-    # Debug: Print the final state of the DataFrame
-    print("Final leaderboard DataFrame shape:", df.shape)
 
     return df
 
@@ -185,9 +169,6 @@ def load_csv_with_fallback(file_path, expected_columns):
 
     # Create a DataFrame from the collected rows
     df = pd.DataFrame(rows, columns=expected_columns)
-
-    # Debug: Print the shape of the DataFrame after loading
-    print(f"Loaded DataFrame shape for {file_path}: {df.shape}")
 
     return df
 
@@ -242,14 +223,12 @@ def load_and_process_dataframes():
     # Load the CSV files into DataFrames
     try:
         hitters_df = pd.read_csv(CSV_FILES["hitters"], on_bad_lines="skip")
-        print("Loaded hitters DataFrame shape:", hitters_df.shape)
     except Exception as e:
         print("Error loading hitters CSV:", e)
         hitters_df = pd.DataFrame()
 
     try:
         pitchers_df = pd.read_csv(CSV_FILES["pitchers"], on_bad_lines="skip")
-        print("Loaded pitchers DataFrame shape:", pitchers_df.shape)
     except Exception as e:
         print("Error loading pitchers CSV:", e)
         pitchers_df = pd.DataFrame()
@@ -258,7 +237,6 @@ def load_and_process_dataframes():
         team_standings_df = load_csv_with_fallback(
             CSV_FILES["team_standings"], team_standings_columns
         )
-        print("Loaded team standings DataFrame shape:", team_standings_df.shape)
     except Exception as e:
         print("Error loading team standings CSV:", e)
         team_standings_df = pd.DataFrame()
@@ -267,10 +245,6 @@ def load_and_process_dataframes():
         hitter_leaderboard_df = load_csv_with_fallback(
             CSV_FILES["hitter_leaderboard"], leaderboard_columns
         )
-        print(
-            "Loaded hitter leaderboard DataFrame shape:",
-            hitter_leaderboard_df.shape,
-        )
     except Exception as e:
         print("Error loading hitter leaderboard CSV:", e)
         hitter_leaderboard_df = pd.DataFrame()
@@ -278,10 +252,6 @@ def load_and_process_dataframes():
     try:
         pitcher_leaderboard_df = load_csv_with_fallback(
             CSV_FILES["pitcher_leaderboard"], leaderboard_columns
-        )
-        print(
-            "Loaded pitcher leaderboard DataFrame shape:",
-            pitcher_leaderboard_df.shape,
         )
     except Exception as e:
         print("Error loading pitcher leaderboard CSV:", e)
