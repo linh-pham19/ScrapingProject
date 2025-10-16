@@ -737,3 +737,175 @@ id,year,statistic,Team,value
 736,1985,On Base Percentage,Boston,.350
 737,1985,Runs,New York,839
 738,1985,Slugging Average,Baltimore,.430
+739,1986,Base on Balls,California,671
+740,1986,Batting Average,Cleveland,.284
+741,1986,Doubles,Boston,320
+742,1986,Hits,Cleveland,"1,620"
+743,1986,Home Runs,Detroit,198
+744,1986,On Base Percentage,New York,.350
+745,1986,Runs,Cleveland,831
+746,1986,Slugging Average,New York,.430
+747,1987,Base on Balls,Detroit,653
+748,1987,Batting Average,Boston,.278
+749,1987,Doubles,Chicago,283
+750,1987,Hits,Boston,"1,554"
+751,1987,Home Runs,Detroit,225
+752,1987,On Base Percentage,Boston,.355
+753,1987,Runs,Detroit,896
+754,1987,Slugging Average,Detroit,.451
+755,1988,Base on Balls,Boston,623
+756,1988,Batting Average,Boston,.283
+757,1988,Doubles,Boston,310
+758,1988,Hits,Boston,"1,569"
+759,1988,Home Runs,Toronto,158
+760,1988,On Base Percentage,Boston,.360
+761,1988,Runs,Boston,813
+762,1988,Slugging Average,Minnesota,.421
+763,1989,Base on Balls,Boston,643
+764,1989,Batting Average,Boston,.277
+765,1989,Doubles,Boston,326
+766,1989,Hits,Boston,"1,571"
+767,1989,Home Runs,California,145
+768,1989,On Base Percentage,Boston,.355
+769,1989,Runs,Boston,774
+770,1989,Slugging Average,Boston,.403
+771,1990,Base on Balls,Baltimore,660
+772,1990,Batting Average,Boston,.272
+773,1990,Doubles,Kansas City,316
+774,1990,Hits,Boston,"1,502"
+775,1990,Home Runs,Detroit,172
+776,1990,On Base Percentage,Boston,.346
+777,1990,Runs,Toronto,767
+778,1990,Slugging Average,Toronto,.419
+779,1991,Base on Balls,Detroit,699
+780,1991,Batting Average,Minnesota,.280
+781,1991,Doubles,Boston,305
+782,1991,Hits,Minnesota,"1,557"
+783,1991,Home Runs,Detroit,209
+784,1991,On Base Percentage,Minnesota,.347
+785,1991,Runs,Texas,829
+786,1991,Slugging Average,Texas,.424
+787,1991,Stolen Bases,Oakland,151
+788,1992,Base on Balls,Oakland,707
+789,1992,Batting Average,Minnesota,.277
+790,1992,Doubles,Kansas City,284
+791,1992,Hits,Minnesota,"1,544"
+792,1992,Home Runs,Detroit,182
+793,1992,On Base Percentage,Oakland,.349
+794,1992,Runs,Detroit,791
+795,1992,Slugging Average,Toronto,.414
+796,1993,Base on Balls,Detroit,44
+797,1993,Batting Average,New York,.279
+798,1993,Batting Average,Toronto,.279
+799,1993,Doubles,Boston,319
+800,1993,Hits,New York,"1,568"
+801,1993,Home Runs,Texas,181
+802,1993,On Base Percentage,Detroit,.365
+803,1993,Runs,Detroit,899
+804,1993,Slugging Average,Toronto,.436
+805,1994,Base on Balls,New York,530
+806,1994,Batting Average,Cleveland,.290
+807,1994,Batting Average,New York,.290
+808,1994,Doubles,Cleveland,240
+809,1994,Hits,Cleveland,"1,165"
+810,1994,Home Runs,Cleveland,167
+811,1994,On Base Percentage,New York,.377
+812,1994,Runs,Cleveland,679
+813,1994,Slugging Average,Cleveland,.484
+814,1995,Base on Balls,New York,625
+815,1995,Batting Average,Cleveland,.291
+816,1995,Doubles,Boston,286
+817,1995,Hits,Cleveland,"1,461"
+818,1995,Home Runs,Cleveland,207
+819,1995,On Base Percentage,Cleveland,.364
+820,1995,Runs,Cleveland,840
+821,1995,Slugging Average,Cleveland,.479
+822,1996,Base on Balls,Chicago,701
+823,1996,Batting Average,Cleveland,.293
+824,1996,Doubles,Seattle,343
+825,1996,Hits,Cleveland,"1,665"
+826,1996,Home Runs,Baltimore,257
+827,1996,On Base Percentage,Cleveland,.372
+828,1996,Runs,Seattle,993
+829,1996,Slugging Average,Seattle,.484
+830,1997,Base on Balls,New York,676
+831,1997,Batting Average,Boston,.291
+832,1997,Doubles,Boston,373
+833,1997,Hits,Boston,"1,684"
+834,1997,Home Runs,Seattle,264
+835,1997,On Base Percentage,New York,.366
+836,1997,Runs,Seattle,925
+837,1997,Slugging Average,Seattle,.485
+838,1997,Stolen Bases,Detroit,161
+839,1998,Base on Balls,New York,653
+840,1998,Batting Average,Texas,.289
+841,1998,Doubles,Boston,338
+842,1998,Hits,Texas,"1,637"
+843,1998,Home Runs,Seattle,234
+844,1998,On Base Percentage,New York,.368
+845,1998,Runs,New York,965
+846,1998,Slugging Average,Seattle,.468
+847,1999,Base on Balls,Oakland,770
+848,1999,Batting Average,Texas,.293
+849,1999,Doubles,Toronto,337
+850,1999,Hits,Texas,"1,653"
+851,1999,Home Runs,Seattle,244
+852,1999,On Base Percentage,Cleveland,.373
+853,1999,Runs,Cleveland,"1,009"
+854,1999,Slugging Average,Texas,.479
+855,2000,Base on Balls,Seattle,775
+856,2000,Batting Average,Cleveland,.288
+857,2000,Doubles,Texas,330
+858,2000,Hits,Kansas City,"1,644"
+859,2000,Home Runs,Toronto,244
+860,2000,On Base Percentage,Cleveland,.367
+861,2000,Runs,Chicago,978
+862,2000,Slugging Average,Anaheim,.472
+863,2001,Base on Balls,Oakland,640
+864,2001,Batting Average,Seattle,.288
+865,2001,Doubles,Oakland,334
+866,2001,Hits,Seattle,"1,637"
+867,2001,Home Runs,Texas,246
+868,2001,On Base Percentage,Seattle,.360
+869,2001,Runs,Seattle,927
+870,2001,Slugging Average,Texas,.471
+871,2002,Anaheim,162,"5,678",851,"1,603",333,32,152,811,"2,456",462,805,117,51,.341,.433,.282
+872,2002,Baltimore,162,"5,491",667,"1,353",311,27,165,636,"2,213",452,993,110,48,.309,.403,.246
+873,2002,Boston,162,"5,640",859,"1,560",348,33,177,810,"2,505",545,944,80,28,.345,.444,.277
+874,2002,Chicago,162,"5,502",856,"1,475",289,29,217,819,"2,473",555,952,75,31,.338,.449,.268
+875,2002,Cleveland,162,"5,423",739,"1,349",255,26,192,706,"2,232",542,"1,000",52,37,.321,.412,.249
+876,2002,Detroit,161,"5,406",575,"1,340",265,37,124,546,"2,051",363,"1,035",65,44,.300,.379,.248
+877,2002,Kansas City,162,"5,535",737,"1,415",285,42,140,695,"2,204",524,921,140,65,.323,.398,.256
+878,2002,Minnesota,161,"5,582",768,"1,518",348,36,167,731,"2,439",472,"1,089",79,62,.332,.437,.272
+879,2002,New York,161,"5,601",897,"1,540",314,12,223,857,"2,547",640,"1,171",100,38,.354,.455,.275
+880,2002,Oakland,162,"5,558",800,"1,450",279,28,205,772,"2,400",609,"1,008",46,20,.339,.432,.261
+881,2002,Seattle,162,"5,569",814,"1,531",285,31,152,771,"2,334",629,"1,003",137,58,.350,.419,.275
+882,2002,Tampa Bay,161,"5,604",673,"1,418",297,35,133,640,"2,184",456,"1,115",102,45,.314,.390,.253
+883,2002,Texas,162,"5,618",843,"1,510",304,27,230,806,"2,558",554,"1,055",62,34,.338,.455,.269
+884,2003,Anaheim,162,"5,487",736,"1,473",276,33,150,687,"2,265",476,838,129,61,.330,.413,.268
+885,2003,Baltimore,163,"5,665",743,"1,516",277,24,152,695,"2,297",431,902,89,36,.323,.405,.268
+886,2003,Boston,162,"5,769",961,"1,667",371,40,238,932,"2,832",620,943,88,35,.360,.491,.289
+887,2003,Chicago,162,"5,487",791,"1,445",303,19,220,766,"2,446",519,916,77,29,.331,.446,.263
+888,2003,Cleveland,162,"5,572",699,"1,413",296,26,158,660,"2,235",466,"1,062",86,61,.316,.401,.254
+889,2003,Detroit,162,"5,466",591,"1,312",201,39,153,553,"2,050",443,"1,099",98,63,.300,.375,.240
+890,2003,Kansas City,162,"5,568",836,"1,526",288,39,162,781,"2,378",476,926,120,42,.336,.427,.274
+891,2003,Minnesota,162,"5,655",801,"1,567",318,45,155,755,"2,440",512,"1,027",94,44,.341,.431,.277
+892,2003,New York,163,"5,605",877,"1,518",304,14,230,845,"2,540",684,"1,042",98,33,.356,.453,.271
+893,2003,Oakland,162,"5,497",768,"1,398",317,24,176,742,"2,291",556,898,48,14,.327,.417,.254
+894,2003,Seattle,162,"5,561",795,"1,509",290,33,139,759,"2,282",586,989,108,37,.344,.410,.271
+895,2003,Tampa Bay,162,"5,654",715,"1,501",298,38,137,678,"2,286",420,"1,030",142,42,.320,.404,.265
+896,2003,Texas,162,"5,664",826,"1,506",274,36,239,799,"2,569",488,"1,052",65,25,.330,.454,.266
+897,2004,Anaheim,162,"5,675",836,"1,603",272,37,162,783,"2,435",450,942,143,46,.341,.429,.282
+898,2004,Baltimore,162,"5,736",842,"1,614",319,18,169,803,"2,476",528,949,101,41,.345,.432,.281
+899,2004,Boston,162,"5,720",949,"1,613",373,25,222,912,"2,702",659,"1,189",68,30,.360,.472,.282
+900,2004,Chicago,162,"5,534",865,"1,481",284,19,242,823,"2,529",499,"1,030",78,51,.333,.457,.268
+901,2004,Cleveland,162,"5,676",858,"1,565",345,29,184,820,"2,520",606,"1,009",94,55,.351,.444,.276
+902,2004,Detroit,162,"5,623",827,"1,531",284,54,201,800,"2,526",518,"1,144",86,50,.337,.449,.272
+903,2004,Kansas City,162,"5,538",720,"1,432",261,29,150,675,"2,201",461,"1,057",67,48,.322,.397,.259
+904,2004,Minnesota,162,"5,623",780,"1,494",310,24,191,735,"2,425",513,982,116,46,.332,.431,.266
+905,2004,New York,162,"5,527",897,"1,483",281,20,242,863,"2,530",670,982,84,33,.353,.458,.268
+906,2004,Oakland,162,"5,728",793,"1,545",336,15,189,752,"2,478",608,"1,061",47,22,.343,.433,.270
+907,2004,Seattle,162,"5,722",698,"1,544",276,20,136,658,"2,268",492,"1,058",110,42,.331,.396,.270
+908,2004,Tampa Bay,161,"5,483",714,"1,416",278,46,145,685,"2,221",469,944,132,42,.320,.405,.258
+909,2004,Texas,162,"5,615",860,"1,492",323,34,227,825,"2,564",500,"1,099",69,36,.329,.457,.266
+910,2004,Toronto,161,"5,531",719,"1,438",290,34,145,680,"2,231",513,"1,083",58,31,.328,.403,.260

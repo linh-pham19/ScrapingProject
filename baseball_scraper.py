@@ -53,6 +53,10 @@ def initialize_driver():
     """Initialize the Selenium WebDriver."""
     chrome_options = Options()
     chrome_options.add_argument("--headless")  # Run in headless mode
+    chrome_options.add_argument(
+        "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    )
+
     chrome_options.add_argument("--disable-gpu")
     chrome_options.add_argument("--no-sandbox")
     driver = webdriver.Chrome(
@@ -258,8 +262,10 @@ def save_data_to_csv(data, headers, csv_file, start_id=1, year=None):
 
         # Add a unique ID and year to each row and write to the file
         for i, row in enumerate(data, start=start_id):
+            # Filter out unexpected fields
+            filtered_row = {key: row[key] for key in headers if key in row}
             row_with_id_and_year = {"id": i, "year": year}  # Add unique ID and year
-            row_with_id_and_year.update(row)
+            row_with_id_and_year.update(filtered_row)
             writer.writerow(row_with_id_and_year)
 
 

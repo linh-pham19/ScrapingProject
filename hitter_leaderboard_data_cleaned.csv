@@ -1,0 +1,912 @@
+id,year,statistic,team,value
+id,year,statistic,Team,
+1,1901,Base on Balls,Chicago,475.0
+2,1901,Batting Average,Baltimore,0.294
+3,1901,Doubles,Philadelphia,239.0
+4,1901,Hits,Philadelphia,1.0
+5,1901,Home Runs,Boston,37.0
+6,1901,On Base Percentage,Baltimore,0.353
+7,1901,Runs,Chicago,819.0
+8,1901,Slugging Average,Baltimore,0.397
+9,1901,Stolen Bases,Chicago,280.0
+10,1902,Base on Balls,Baltimore,417.0
+11,1902,Batting Average,Cleveland,0.289
+12,1902,Doubles,Washington,261.0
+13,1902,Hits,Cleveland,1.0
+14,1902,Home Runs,Washington,47.0
+15,1902,On Base Percentage,Baltimore,0.342
+16,1902,Runs,Philadelphia,775.0
+17,1902,Slugging Average,Washington,0.395
+18,1902,Stolen Bases,Chicago,265.0
+19,1903,Base on Balls,New York,332.0
+20,1903,Batting Average,Boston,0.272
+21,1903,Doubles,Cleveland,231.0
+22,1903,Hits,Boston,1.0
+23,1903,Home Runs,Boston,48.0
+24,1903,On Base Percentage,Detroit,0.318
+25,1903,Runs,Boston,708.0
+26,1903,Slugging Average,Boston,0.392
+27,1903,Stolen Bases,Chicago,180.0
+28,1904,Base on Balls,Chicago,373.0
+29,1904,Batting Average,Cleveland,0.26
+30,1904,Doubles,Cleveland,225.0
+31,1904,Hits,New York,1.0
+32,1904,Home Runs,Philadelphia,31.0
+33,1904,On Base Percentage,Cleveland,0.308
+34,1904,Runs,Cleveland,647.0
+35,1904,Slugging Average,Cleveland,0.354
+36,1904,Stolen Bases,Chicago,216.0
+37,1905,Base on Balls,Boston,486.0
+38,1905,Batting Average,Philadelphia,0.255
+39,1905,Doubles,Philadelphia,256.0
+40,1905,Hits,Cleveland,1.0
+41,1905,Home Runs,Boston,29.0
+42,1905,On Base Percentage,Philadelphia,0.31
+43,1905,Runs,Philadelphia,623.0
+44,1905,Slugging Average,Philadelphia,0.338
+45,1906,Base on Balls,Chicago,453.0
+46,1906,Batting Average,Cleveland,0.279
+47,1906,Doubles,Cleveland,240.0
+48,1906,Hits,Cleveland,1.0
+49,1906,Home Runs,Philadelphia,32.0
+50,1906,On Base Percentage,Cleveland,0.325
+51,1906,Runs,Cleveland,663.0
+52,1906,Slugging Average,Cleveland,0.357
+53,1906,Stolen Bases,Washington,233.0
+54,1907,Base on Balls,Chicago,421.0
+55,1907,Batting Average,Detroit,0.266
+56,1907,Doubles,Philadelphia,220.0
+57,1907,Hits,Detroit,1.0
+58,1907,Home Runs,Philadelphia,22.0
+59,1907,On Base Percentage,Detroit,0.313
+60,1907,Runs,Detroit,694.0
+61,1907,Slugging Average,Detroit,0.335
+62,1907,Stolen Bases,Washington,223.0
+63,1908,Base on Balls,Chicago,463.0
+64,1908,Batting Average,Detroit,0.263
+65,1908,Doubles,Detroit,199.0
+66,1908,Hits,Detroit,1.0
+67,1908,Home Runs,Philadelphia,21.0
+68,1908,On Base Percentage,Detroit,0.312
+69,1908,Runs,Detroit,647.0
+70,1908,Slugging Average,Detroit,0.347
+71,1908,Stolen Bases,New York,231.0
+72,1909,Base on Balls,Chicago,441.0
+73,1909,Batting Average,Detroit,0.267
+74,1909,Doubles,Detroit,209.0
+75,1909,Hits,Detroit,1.0
+76,1909,Home Runs,Philadelphia,21.0
+77,1909,On Base Percentage,Detroit,0.325
+78,1909,Runs,Detroit,666.0
+79,1909,Slugging Average,Philadelphia,0.343
+80,1909,Stolen Bases,Detroit,280.0
+81,1910,Base on Balls,New York,464.0
+82,1910,Batting Average,Philadelphia,0.266
+83,1910,Doubles,Philadelphia,191.0
+84,1910,Hits,Philadelphia,1.0
+85,1910,Home Runs,Boston,43.0
+86,1910,On Base Percentage,Detroit,0.329
+87,1910,Runs,Detroit,679.0
+88,1910,Slugging Average,Philadelphia,0.355
+89,1910,Stolen Bases,New York,288.0
+90,1911,Base on Balls,Boston,506.0
+91,1911,Batting Average,Philadelphia,0.296
+92,1911,Doubles,Cleveland,238.0
+93,1911,Hits,Detroit,1.0
+94,1911,Home Runs,Boston,35.0
+95,1911,Home Runs,Philadelphia,35.0
+96,1911,On Base Percentage,Philadelphia,0.357
+97,1911,Runs,Philadelphia,861.0
+98,1911,Slugging Average,Philadelphia,0.398
+99,1911,Stolen Bases,Detroit,276.0
+100,1911,Triples,Detroit,96.0
+101,1912,Base on Balls,Boston,565.0
+102,1912,Batting Average,Philadelphia,0.282
+103,1912,Doubles,Boston,269.0
+104,1912,Hits,Philadelphia,1.0
+105,1912,Home Runs,Boston,29.0
+106,1912,On Base Percentage,Boston,0.355
+107,1912,Runs,Boston,799.0
+108,1912,Slugging Average,Boston,0.38
+109,1912,Stolen Bases,Washington,274.0
+110,1913,Base on Balls,New York,534.0
+111,1913,Base on Balls,Philadelphia,534.0
+112,1913,Batting Average,Philadelphia,0.28
+113,1913,Doubles,Philadelphia,223.0
+114,1913,Hits,Philadelphia,1.0
+115,1913,Home Runs,Philadelphia,33.0
+116,1913,On Base Percentage,Philadelphia,0.356
+117,1913,Runs,Philadelphia,794.0
+118,1913,Slugging Average,Philadelphia,0.375
+119,1913,Stolen Bases,Washington,287.0
+120,1913,Triples,Boston,101.0
+121,1914,Base on Balls,New York,577.0
+122,1914,Batting Average,Philadelphia,0.272
+123,1914,Doubles,Boston,226.0
+124,1914,Hits,Philadelphia,1.0
+125,1914,Home Runs,Philadelphia,29.0
+126,1914,On Base Percentage,Philadelphia,0.348
+127,1914,Runs,Philadelphia,749.0
+128,1914,Slugging Average,Philadelphia,0.352
+129,1914,Stolen Bases,New York,251.0
+130,1915,Base on Balls,Detroit,681.0
+131,1915,Batting Average,Detroit,0.268
+132,1915,Doubles,Detroit,207.0
+133,1915,Hits,Detroit,1.0
+134,1915,Home Runs,New York,31.0
+135,1915,On Base Percentage,Detroit,0.357
+136,1915,Runs,Detroit,778.0
+137,1915,Slugging Average,Detroit,0.358
+138,1915,Stolen Bases,Detroit,241.0
+139,1916,Base on Balls,St. Louis,626.0
+140,1916,Batting Average,Detroit,0.264
+141,1916,Doubles,Cleveland,233.0
+142,1916,Hits,Detroit,1.0
+143,1916,Home Runs,New York,35.0
+144,1916,On Base Percentage,Detroit,0.337
+145,1916,Runs,Detroit,673.0
+146,1916,Slugging Average,Detroit,0.35
+147,1916,Stolen Bases,St. Louis,234.0
+148,1917,Base on Balls,Cleveland,549.0
+149,1917,Batting Average,Detroit,0.259
+150,1917,Doubles,Cleveland,218.0
+151,1917,Hits,Detroit,1.0
+152,1917,Home Runs,New York,27.0
+153,1917,On Base Percentage,Chicago,0.329
+154,1917,Runs,Chicago,656.0
+155,1917,Slugging Average,Detroit,0.344
+156,1917,Stolen Bases,Chicago,219.0
+157,1918,Base on Balls,Cleveland,491.0
+158,1918,Batting Average,Cleveland,0.26
+159,1918,Doubles,Cleveland,176.0
+160,1918,Hits,Washington,1.0
+161,1918,Home Runs,Philadelphia,22.0
+162,1918,On Base Percentage,Cleveland,0.344
+163,1918,Runs,Cleveland,504.0
+164,1918,Slugging Average,Cleveland,0.341
+165,1918,Stolen Bases,Cleveland,165.0
+166,1919,Base on Balls,Cleveland,498.0
+167,1919,Batting Average,Chicago,0.287
+168,1919,Doubles,Cleveland,254.0
+169,1919,Hits,Chicago,1.0
+170,1919,Home Runs,New York,45.0
+171,1919,On Base Percentage,Cleveland,0.354
+172,1919,Runs,Chicago,667.0
+173,1919,Slugging Average,Cleveland,0.381
+174,1919,Stolen Bases,Chicago,150.0
+175,1920,Base on Balls,Cleveland,574.0
+176,1920,Batting Average,St. Louis,0.308
+177,1920,Doubles,Cleveland,301.0
+178,1920,Hits,St. Louis,1.0
+179,1920,Home Runs,New York,115.0
+180,1920,On Base Percentage,Cleveland,0.376
+181,1920,Runs,Cleveland,856.0
+182,1920,Slugging Average,New York,0.426
+183,1920,Stolen Bases,Washington,160.0
+184,1921,Base on Balls,Cleveland,619.0
+185,1921,Batting Average,Detroit,0.316
+186,1921,Doubles,Cleveland,355.0
+187,1921,Hits,Detroit,1.0
+188,1921,Home Runs,New York,134.0
+189,1921,On Base Percentage,Detroit,0.385
+190,1921,Runs,New York,948.0
+191,1921,Slugging Average,New York,0.464
+192,1921,Stolen Bases,Washington,112.0
+193,1922,Base on Balls,Cleveland,550.0
+194,1922,Batting Average,St. Louis,0.31
+195,1922,Doubles,Cleveland,320.0
+196,1922,Hits,St. Louis,1.0
+197,1922,Home Runs,Philadelphia,111.0
+198,1922,On Base Percentage,Detroit,0.373
+199,1922,Runs,St. Louis,867.0
+200,1922,Slugging Average,St. Louis,0.453
+201,1922,Stolen Bases,St. Louis,136.0
+202,1923,Base on Balls,Cleveland,633.0
+203,1923,Batting Average,Cleveland,0.301
+204,1923,Doubles,Cleveland,301.0
+205,1923,Hits,Cleveland,1.0
+206,1923,Home Runs,New York,105.0
+207,1923,On Base Percentage,Cleveland,0.381
+208,1923,Runs,Cleveland,888.0
+209,1923,Slugging Average,New York,0.422
+210,1924,Base on Balls,Detroit,607.0
+211,1924,Batting Average,Detroit,0.298
+212,1924,Doubles,Detroit,315.0
+213,1924,Hits,Detroit,1.0
+214,1924,Home Runs,New York,98.0
+215,1924,On Base Percentage,Detroit,0.373
+216,1924,Runs,Detroit,849.0
+217,1924,Slugging Average,New York,0.426
+218,1925,Base on Balls,Chicago,662.0
+219,1925,Batting Average,Philadelphia,0.307
+220,1925,Doubles,St. Louis,304.0
+221,1925,Hits,Philadelphia,1.0
+222,1925,Home Runs,New York,110.0
+223,1925,Home Runs,St. Louis,110.0
+224,1925,On Base Percentage,Detroit,0.379
+225,1925,Runs,Detroit,903.0
+226,1925,Slugging Average,St. Louis,0.439
+227,1926,Base on Balls,New York,642.0
+228,1926,Batting Average,Washington,0.292
+229,1926,Doubles,Cleveland,333.0
+230,1926,Hits,Detroit,1.0
+231,1926,Home Runs,New York,121.0
+232,1926,On Base Percentage,New York,0.369
+233,1926,Runs,New York,847.0
+234,1926,Slugging Average,New York,0.437
+235,1927,Base on Balls,New York,635.0
+236,1927,Batting Average,New York,0.307
+237,1927,Doubles,Cleveland,321.0
+238,1927,Hits,New York,1.0
+239,1927,Home Runs,New York,158.0
+240,1927,On Base Percentage,New York,0.383
+241,1927,Runs,New York,975.0
+242,1927,Slugging Average,New York,0.489
+243,1927,Stolen Bases,Detroit,139.0
+244,1927,Triples,New York,103.0
+245,1928,Base on Balls,New York,562.0
+246,1928,Batting Average,New York,0.296
+247,1928,Doubles,Philadelphia,323.0
+248,1928,Hits,New York,1.0
+249,1928,Home Runs,New York,133.0
+250,1928,On Base Percentage,New York,0.365
+251,1928,Runs,New York,894.0
+252,1928,Slugging Average,New York,0.45
+253,1929,Base on Balls,St. Louis,589.0
+254,1929,Batting Average,Detroit,0.299
+255,1929,Doubles,Detroit,339.0
+256,1929,Hits,Detroit,1.0
+257,1929,Home Runs,New York,142.0
+258,1929,On Base Percentage,Philadelphia,0.365
+259,1929,Runs,Detroit,926.0
+260,1929,Slugging Average,Detroit,0.453
+261,1930,Base on Balls,New York,644.0
+262,1930,Batting Average,New York,0.309
+263,1930,Doubles,Cleveland,358.0
+264,1930,Hits,New York,1.0
+265,1930,Home Runs,New York,152.0
+266,1930,On Base Percentage,New York,0.384
+267,1930,Runs,New York,1.0
+268,1930,Slugging Average,New York,0.488
+269,1931,Base on Balls,New York,748.0
+270,1931,Batting Average,New York,0.297
+271,1931,Doubles,Cleveland,321.0
+272,1931,Hits,New York,1.0
+273,1931,Home Runs,New York,155.0
+274,1931,On Base Percentage,New York,0.383
+275,1931,Runs,New York,1.0
+276,1931,Slugging Average,New York,0.457
+277,1932,Base on Balls,New York,766.0
+278,1932,Batting Average,Philadelphia,0.29
+279,1932,Doubles,Cleveland,310.0
+280,1932,Hits,Philadelphia,1.0
+281,1932,Home Runs,Philadelphia,172.0
+282,1932,On Base Percentage,New York,0.376
+283,1932,Runs,New York,1.0
+284,1932,Slugging Average,Philadelphia,0.457
+285,1932,Stolen Bases,Detroit,103.0
+286,1932,Triples,Washington,100.0
+287,1933,Base on Balls,New York,700.0
+288,1933,Batting Average,Washington,0.287
+289,1933,Doubles,Philadelphia,297.0
+290,1933,Hits,Washington,1.0
+291,1933,Home Runs,New York,144.0
+292,1933,On Base Percentage,New York,0.369
+293,1933,Runs,New York,927.0
+294,1933,Slugging Average,New York,0.44
+295,1933,Slugging Average,Philadelphia,0.44
+296,1934,Base on Balls,New York,700.0
+297,1934,Batting Average,Detroit,0.3
+298,1934,Doubles,Detroit,349.0
+299,1934,Hits,Detroit,1.0
+300,1934,Home Runs,Philadelphia,144.0
+301,1934,On Base Percentage,Detroit,0.376
+302,1934,Runs,Detroit,958.0
+303,1934,Slugging Average,Philadelphia,0.425
+304,1935,Base on Balls,Detroit,627.0
+305,1935,Batting Average,Detroit,0.29
+306,1935,Doubles,Cleveland,324.0
+307,1935,Hits,Washington,1.0
+308,1935,Home Runs,Philadelphia,112.0
+309,1935,On Base Percentage,Detroit,0.366
+310,1935,Runs,Detroit,919.0
+311,1935,Slugging Average,Detroit,0.435
+312,1936,Base on Balls,New York,700.0
+313,1936,Batting Average,Cleveland,0.304
+314,1936,Doubles,Cleveland,357.0
+315,1936,Hits,Cleveland,1.0
+316,1936,Home Runs,New York,182.0
+317,1936,On Base Percentage,New York,0.381
+318,1936,Runs,New York,1.0
+319,1936,Slugging Average,New York,0.483
+320,1936,Stolen Bases,Washington,104.0
+321,1936,Triples,Washington,84.0
+322,1937,Base on Balls,New York,709.0
+323,1937,Batting Average,Detroit,0.292
+324,1937,Doubles,St. Louis,327.0
+325,1937,Hits,Detroit,1.0
+326,1937,Home Runs,New York,174.0
+327,1937,On Base Percentage,Detroit,0.37
+328,1937,Runs,New York,979.0
+329,1937,Slugging Average,New York,0.456
+330,1938,Base on Balls,New York,749.0
+331,1938,Batting Average,Boston,0.299
+332,1938,Doubles,Cleveland,300.0
+333,1938,Hits,Washington,1.0
+334,1938,Home Runs,New York,174.0
+335,1938,On Base Percentage,Boston,0.378
+336,1938,Runs,New York,966.0
+337,1938,Slugging Average,New York,0.446
+338,1938,Stolen Bases,New York,91.0
+339,1939,Base on Balls,New York,701.0
+340,1939,Batting Average,Boston,0.291
+341,1939,Doubles,Cleveland,291.0
+342,1939,Hits,Boston,1.0
+343,1939,Home Runs,New York,166.0
+344,1939,On Base Percentage,New York,0.374
+345,1939,Runs,New York,967.0
+346,1939,Slugging Average,New York,0.451
+347,1939,Stolen Bases,Chicago,113.0
+348,1940,Base on Balls,Detroit,664.0
+349,1940,Batting Average,Detroit,0.286
+350,1940,Doubles,Detroit,312.0
+351,1940,Hits,Boston,1.0
+352,1940,Home Runs,New York,155.0
+353,1940,On Base Percentage,Detroit,0.366
+354,1940,Runs,Detroit,888.0
+355,1940,Slugging Average,Boston,0.449
+356,1941,Base on Balls,St. Louis,775.0
+357,1941,Batting Average,Boston,0.283
+358,1941,Doubles,Boston,304.0
+359,1941,Hits,Boston,1.0
+360,1941,Home Runs,New York,151.0
+361,1941,On Base Percentage,Boston,0.366
+362,1941,Runs,Boston,865.0
+363,1941,Slugging Average,Boston,0.43
+364,1941,Stolen Bases,Chicago,91.0
+365,1942,Base on Balls,St. Louis,609.0
+366,1942,Batting Average,Boston,0.276
+367,1942,Doubles,Boston,244.0
+368,1942,Hits,Boston,1.0
+369,1942,Home Runs,New York,108.0
+370,1942,On Base Percentage,Boston,0.352
+371,1942,Runs,New York,801.0
+372,1942,Slugging Average,Boston,0.403
+373,1942,Stolen Bases,Chicago,114.0
+374,1943,Base on Balls,New York,624.0
+375,1943,Batting Average,Detroit,0.261
+376,1943,Doubles,Cleveland,246.0
+377,1943,Hits,Detroit,1.0
+378,1943,Home Runs,New York,100.0
+379,1943,On Base Percentage,New York,0.337
+380,1943,Runs,New York,669.0
+381,1943,Slugging Average,New York,0.376
+382,1944,Base on Balls,Detroit,532.0
+383,1944,Batting Average,Boston,0.27
+384,1944,Doubles,Boston,277.0
+385,1944,Hits,Cleveland,1.0
+386,1944,Home Runs,New York,96.0
+387,1944,On Base Percentage,Boston,0.336
+388,1944,Runs,Boston,739.0
+389,1944,Slugging Average,New York,0.387
+390,1944,Stolen Bases,Washington,127.0
+391,1944,Triples,New York,74.0
+392,1945,Base on Balls,New York,618.0
+393,1945,Batting Average,Chicago,0.262
+394,1945,Doubles,Detroit,227.0
+395,1945,Hits,Boston,1.0
+396,1945,Home Runs,New York,93.0
+397,1945,On Base Percentage,New York,0.343
+398,1945,Runs,New York,676.0
+399,1945,Slugging Average,New York,0.373
+400,1945,Stolen Bases,Washington,110.0
+401,1946,Base on Balls,Boston,687.0
+402,1946,Batting Average,Boston,0.271
+403,1946,Doubles,Boston,268.0
+404,1946,Hits,Boston,1.0
+405,1946,Home Runs,New York,136.0
+406,1946,On Base Percentage,Boston,0.356
+407,1946,Runs,Boston,792.0
+408,1946,Slugging Average,Boston,0.402
+409,1947,Base on Balls,Detroit,762.0
+410,1947,Batting Average,New York,0.271
+411,1947,Doubles,Cleveland,234.0
+412,1947,Doubles,Detroit,234.0
+413,1947,Hits,New York,1.0
+414,1947,Home Runs,New York,115.0
+415,1947,On Base Percentage,Detroit,0.353
+416,1947,Runs,New York,794.0
+417,1947,Slugging Average,New York,0.407
+418,1948,Base on Balls,Boston,823.0
+419,1948,Batting Average,Cleveland,0.282
+420,1948,Doubles,Boston,277.0
+421,1948,Hits,Cleveland,1.0
+422,1948,Home Runs,Cleveland,155.0
+423,1948,On Base Percentage,Boston,0.374
+424,1948,Runs,Boston,907.0
+425,1948,Slugging Average,New York,0.432
+426,1948,Stolen Bases,Washington,76.0
+427,1949,Base on Balls,Boston,835.0
+428,1949,Batting Average,Boston,0.282
+429,1949,Doubles,Boston,272.0
+430,1949,Hits,Boston,1.0
+431,1949,Home Runs,Boston,131.0
+432,1949,On Base Percentage,Boston,0.381
+433,1949,Runs,Boston,896.0
+434,1949,Slugging Average,Boston,0.42
+435,1950,Base on Balls,Detroit,722.0
+436,1950,Batting Average,Boston,0.302
+437,1950,Doubles,Boston,287.0
+438,1950,Hits,Boston,1.0
+439,1950,Home Runs,Cleveland,164.0
+440,1950,On Base Percentage,Boston,0.385
+441,1950,Runs,Boston,1.0
+442,1950,Slugging Average,Boston,0.464
+443,1950,Stolen Bases,Philadelphia,42.0
+444,1951,Base on Balls,Boston,756.0
+445,1951,Batting Average,Chicago,0.27
+446,1951,Doubles,Philadelphia,262.0
+447,1951,Hits,Chicago,1.0
+448,1951,Home Runs,Cleveland,140.0
+449,1951,Home Runs,New York,140.0
+450,1951,On Base Percentage,Boston,0.358
+451,1951,Runs,Boston,804.0
+452,1951,Slugging Average,New York,0.408
+453,1952,Base on Balls,Philadelphia,683.0
+454,1952,Batting Average,New York,0.267
+455,1952,Doubles,Boston,233.0
+456,1952,Hits,New York,1.0
+457,1952,Home Runs,Cleveland,148.0
+458,1952,On Base Percentage,Philadelphia,0.343
+459,1952,Runs,Cleveland,763.0
+460,1952,Slugging Average,Cleveland,0.404
+461,1953,Base on Balls,New York,656.0
+462,1953,Batting Average,New York,0.273
+463,1953,Doubles,Detroit,259.0
+464,1953,Hits,Detroit,1.0
+465,1953,Home Runs,Cleveland,160.0
+466,1953,On Base Percentage,New York,0.359
+467,1953,Runs,New York,801.0
+468,1953,Slugging Average,New York,0.417
+469,1953,Stolen Bases,Chicago,73.0
+470,1954,Base on Balls,Boston,654.0
+471,1954,Batting Average,New York,0.268
+472,1954,Doubles,Boston,244.0
+473,1954,Hits,Boston,1.0
+474,1954,Home Runs,Cleveland,156.0
+475,1954,On Base Percentage,New York,0.351
+476,1954,Runs,New York,805.0
+477,1954,Slugging Average,New York,0.408
+478,1955,Base on Balls,Cleveland,723.0
+479,1955,Batting Average,Chicago,0.268
+480,1955,Doubles,Boston,241.0
+481,1955,Hits,Detroit,1.0
+482,1955,Home Runs,New York,175.0
+483,1955,On Base Percentage,Boston,0.354
+484,1955,Runs,Detroit,775.0
+485,1955,Slugging Average,New York,0.418
+486,1956,Base on Balls,Boston,727.0
+487,1956,Batting Average,Detroit,0.279
+488,1956,Doubles,Boston,261.0
+489,1956,Hits,Detroit,1.0
+490,1956,Home Runs,New York,190.0
+491,1956,On Base Percentage,Boston,0.365
+492,1956,Runs,New York,857.0
+493,1956,Slugging Average,New York,0.434
+494,1957,Base on Balls,Chicago,633.0
+495,1957,Batting Average,New York,0.268
+496,1957,Doubles,Boston,231.0
+497,1957,Hits,New York,1.0
+498,1957,Home Runs,Kansas City,166.0
+499,1957,On Base Percentage,Chicago,0.347
+500,1957,Runs,New York,723.0
+501,1957,Slugging Average,New York,0.409
+502,1958,Base on Balls,Boston,638.0
+503,1958,Batting Average,New York,0.268
+504,1958,Doubles,Boston,229.0
+505,1958,Doubles,Detroit,229.0
+506,1958,Hits,New York,1.0
+507,1958,Home Runs,New York,164.0
+508,1958,On Base Percentage,Boston,0.34
+509,1958,Runs,New York,759.0
+510,1958,Slugging Average,New York,0.416
+511,1959,Base on Balls,Boston,626.0
+512,1959,Batting Average,Kansas City,0.263
+513,1959,Doubles,Boston,248.0
+514,1959,Hits,New York,1.0
+515,1959,Home Runs,Cleveland,167.0
+516,1959,On Base Percentage,Detroit,0.338
+517,1959,Runs,Cleveland,745.0
+518,1959,Slugging Average,Cleveland,0.408
+519,1960,Base on Balls,Detroit,636.0
+520,1960,Batting Average,Chicago,0.27
+521,1960,Doubles,Chicago,242.0
+522,1960,Hits,Cleveland,1.0
+523,1960,Home Runs,New York,193.0
+524,1960,On Base Percentage,Chicago,0.348
+525,1960,Runs,New York,746.0
+526,1960,Slugging Average,New York,0.426
+527,1961,Base on Balls,Los Angeles,681.0
+528,1961,Batting Average,Detroit,0.266
+529,1961,Doubles,Cleveland,257.0
+530,1961,Hits,Cleveland,1.0
+531,1961,Home Runs,New York,240.0
+532,1961,On Base Percentage,Detroit,0.349
+533,1961,Runs,Detroit,841.0
+534,1961,Slugging Average,New York,0.442
+535,1961,Stolen Bases,Chicago,100.0
+536,1962,Base on Balls,Detroit,651.0
+537,1962,Batting Average,New York,0.267
+538,1962,Doubles,Boston,257.0
+539,1962,Hits,New York,1.0
+540,1962,Home Runs,Detroit,209.0
+541,1962,On Base Percentage,Minnesota,0.34
+542,1962,Runs,New York,817.0
+543,1962,Slugging Average,New York,0.426
+544,1963,Base on Balls,Detroit,592.0
+545,1963,Batting Average,Minnesota,0.255
+546,1963,Doubles,Boston,247.0
+547,1963,Hits,Minnesota,1.0
+548,1963,Home Runs,Minnesota,225.0
+549,1963,On Base Percentage,Detroit,0.329
+550,1963,Runs,Minnesota,767.0
+551,1963,Slugging Average,Minnesota,0.43
+552,1964,Base on Balls,Chicago,562.0
+553,1964,Batting Average,Boston,0.258
+554,1964,Doubles,Boston,253.0
+555,1964,Hits,New York,1.0
+556,1964,Home Runs,Minnesota,221.0
+557,1964,On Base Percentage,Minnesota,0.324
+558,1964,Runs,Minnesota,737.0
+559,1964,Slugging Average,Minnesota,0.427
+560,1965,Base on Balls,Boston,607.0
+561,1965,Batting Average,Minnesota,0.254
+562,1965,Doubles,Minnesota,257.0
+563,1965,Hits,Minnesota,1.0
+564,1965,Home Runs,Boston,165.0
+565,1965,On Base Percentage,Boston,0.329
+566,1965,Runs,Minnesota,774.0
+567,1965,Slugging Average,Boston,0.4
+568,1965,Stolen Bases,Kansas City,110.0
+569,1966,Base on Balls,Detroit,551.0
+570,1966,Batting Average,Baltimore,0.258
+571,1966,Doubles,Baltimore,243.0
+572,1966,Hits,Baltimore,1.0
+573,1966,Home Runs,Detroit,179.0
+574,1966,On Base Percentage,Baltimore,0.325
+575,1966,Runs,Baltimore,755.0
+576,1966,Slugging Average,Baltimore,0.409
+577,1966,Stolen Bases,Chicago,153.0
+578,1966,Triples,Kansas City,56.0
+579,1967,Base on Balls,Detroit,626.0
+580,1967,Batting Average,Boston,0.255
+581,1967,Doubles,Boston,216.0
+582,1967,Doubles,Minnesota,216.0
+583,1967,Hits,Boston,1.0
+584,1967,Home Runs,Boston,158.0
+585,1967,On Base Percentage,Detroit,0.327
+586,1967,Runs,Boston,722.0
+587,1967,Slugging Average,Boston,0.395
+588,1967,Stolen Bases,Kansas City,132.0
+589,1968,Base on Balls,Boston,582.0
+590,1968,Batting Average,Oakland,0.24
+591,1968,Doubles,Baltimore,215.0
+592,1968,Hits,Oakland,1.0
+593,1968,Home Runs,Detroit,185.0
+594,1968,On Base Percentage,Boston,0.316
+595,1968,Runs,Detroit,671.0
+596,1968,Slugging Average,Detroit,0.385
+597,1969,Base on Balls,Boston,658.0
+598,1969,Batting Average,Minnesota,0.268
+599,1969,Doubles,Minnesota,246.0
+600,1969,Hits,Minnesota,1.0
+601,1969,Home Runs,Boston,197.0
+602,1969,On Base Percentage,Baltimore,0.346
+603,1969,Runs,Minnesota,790.0
+604,1969,Slugging Average,Boston,0.415
+605,1970,Base on Balls,Baltimore,717.0
+606,1970,Batting Average,Minnesota,0.262
+607,1970,Doubles,Boston,252.0
+608,1970,Hits,Boston,1.0
+609,1970,Home Runs,Boston,203.0
+610,1970,On Base Percentage,Baltimore,0.346
+611,1970,Runs,Baltimore,792.0
+612,1970,Slugging Average,Boston,0.428
+613,1970,Stolen Bases,Oakland,131.0
+614,1970,Triples,Kansas City,41.0
+615,1971,Base on Balls,Baltimore,672.0
+616,1971,Batting Average,Baltimore,0.261
+617,1971,Doubles,Boston,246.0
+618,1971,Hits,Minnesota,1.0
+619,1971,Home Runs,Detroit,179.0
+620,1971,On Base Percentage,Baltimore,0.349
+621,1971,Runs,Baltimore,742.0
+622,1971,Slugging Average,Detroit,0.405
+623,1971,Stolen Bases,Kansas City,130.0
+624,1972,Base on Balls,Kansas City,534.0
+625,1972,Batting Average,Kansas City,0.255
+626,1972,Doubles,Boston,229.0
+627,1972,Hits,Kansas City,1.0
+628,1972,Home Runs,Oakland,134.0
+629,1972,On Base Percentage,Kansas City,0.329
+630,1972,Runs,Boston,640.0
+631,1972,Slugging Average,Boston,0.376
+632,1973,Base on Balls,Baltimore,648.0
+633,1973,Batting Average,Minnesota,0.27
+634,1973,Doubles,Minnesota,240.0
+635,1973,Hits,Minnesota,1.0
+636,1973,Home Runs,Cleveland,158.0
+637,1973,On Base Percentage,Baltimore,0.348
+638,1973,Runs,Oakland,758.0
+639,1973,Slugging Average,Boston,0.401
+640,1974,Base on Balls,Boston,569.0
+641,1974,Batting Average,Texas,0.272
+642,1974,Doubles,Boston,236.0
+643,1974,Hits,Minnesota,1.0
+644,1974,Home Runs,Chicago,135.0
+645,1974,On Base Percentage,Texas,0.338
+646,1974,Runs,Boston,696.0
+647,1974,Slugging Average,Chicago,0.389
+648,1975,Base on Balls,Texas,613.0
+649,1975,Batting Average,Boston,0.275
+650,1975,Doubles,Boston,284.0
+651,1975,Hits,Boston,1.0
+652,1975,Home Runs,Cleveland,153.0
+653,1975,On Base Percentage,Boston,0.347
+654,1975,Runs,Boston,796.0
+655,1975,Slugging Average,Boston,0.417
+656,1976,Base on Balls,Oakland,592.0
+657,1976,Batting Average,Minnesota,0.274
+658,1976,Doubles,Kansas City,259.0
+659,1976,Hits,Minnesota,1.0
+660,1976,Home Runs,Boston,134.0
+661,1976,On Base Percentage,Minnesota,0.343
+662,1976,Runs,Minnesota,743.0
+663,1976,Slugging Average,Boston,0.402
+664,1977,Base on Balls,Texas,596.0
+665,1977,Batting Average,Minnesota,0.282
+666,1977,Doubles,Kansas City,299.0
+667,1977,Hits,Minnesota,1.0
+668,1977,Home Runs,Boston,213.0
+669,1977,On Base Percentage,Minnesota,0.351
+670,1977,Runs,Minnesota,867.0
+671,1977,Slugging Average,Boston,0.465
+672,1978,Base on Balls,Texas,624.0
+673,1978,Batting Average,Milwaukee,0.276
+674,1978,Doubles,Kansas City,305.0
+675,1978,Hits,Milwaukee,1.0
+676,1978,Home Runs,Milwaukee,173.0
+677,1978,On Base Percentage,Milwaukee,0.342
+678,1978,Runs,Milwaukee,804.0
+679,1978,Slugging Average,Milwaukee,0.432
+680,1978,Stolen Bases,Kansas City,216.0
+681,1979,Base on Balls,Cleveland,657.0
+682,1979,Batting Average,Boston,0.283
+683,1979,Doubles,Boston,310.0
+684,1979,Hits,Kansas City,1.0
+685,1979,Home Runs,Boston,194.0
+686,1979,On Base Percentage,California,0.354
+687,1979,Runs,California,866.0
+688,1979,Slugging Average,Boston,0.456
+689,1980,Base on Balls,Detroit,645.0
+690,1980,Batting Average,Kansas City,0.286
+691,1980,Doubles,Milwaukee,298.0
+692,1980,Hits,Kansas City,1.0
+693,1980,Home Runs,Milwaukee,203.0
+694,1980,On Base Percentage,Cleveland,0.355
+695,1980,Runs,Detroit,830.0
+696,1980,Slugging Average,Milwaukee,0.448
+697,1981,Base on Balls,Baltimore,404.0
+698,1981,Base on Balls,Detroit,404.0
+699,1981,Batting Average,Boston,0.275
+700,1981,Doubles,Texas,178.0
+701,1981,Hits,Boston,1.0
+702,1981,Home Runs,Oakland,104.0
+703,1981,On Base Percentage,Boston,0.343
+704,1981,Runs,Boston,519.0
+705,1981,Slugging Average,Boston,0.399
+706,1982,Base on Balls,Cleveland,651.0
+707,1982,Batting Average,Kansas City,0.285
+708,1982,Doubles,Kansas City,295.0
+709,1982,Hits,Kansas City,1.0
+710,1982,Home Runs,Milwaukee,216.0
+711,1982,On Base Percentage,California,0.35
+712,1982,Runs,Milwaukee,891.0
+713,1982,Slugging Average,Milwaukee,0.455
+714,1983,Base on Balls,Cleveland,605.0
+715,1983,Batting Average,Toronto,0.277
+716,1983,Doubles,Boston,287.0
+717,1983,Hits,Milwaukee,1.0
+718,1983,Home Runs,Baltimore,168.0
+719,1983,On Base Percentage,Baltimore,0.343
+720,1983,Runs,Chicago,800.0
+721,1983,Slugging Average,Toronto,0.436
+722,1984,Base on Balls,Baltimore,620.0
+723,1984,Batting Average,Boston,0.283
+724,1984,Doubles,Toronto,275.0
+725,1984,Doubles,New York,275.0
+726,1984,Hits,Boston,1.0
+727,1984,Home Runs,Detroit,187.0
+728,1984,On Base Percentage,Detroit,0.345
+729,1984,Runs,Detroit,829.0
+730,1984,Slugging Average,Boston,0.441
+731,1985,Base on Balls,California,648.0
+732,1985,Batting Average,Boston,0.282
+733,1985,Doubles,Boston,292.0
+734,1985,Hits,Boston,1.0
+735,1985,Home Runs,Baltimore,214.0
+736,1985,On Base Percentage,Boston,0.35
+737,1985,Runs,New York,839.0
+738,1985,Slugging Average,Baltimore,0.43
+739,1986,Base on Balls,California,671.0
+740,1986,Batting Average,Cleveland,0.284
+741,1986,Doubles,Boston,320.0
+742,1986,Hits,Cleveland,1.0
+743,1986,Home Runs,Detroit,198.0
+744,1986,On Base Percentage,New York,0.35
+745,1986,Runs,Cleveland,831.0
+746,1986,Slugging Average,New York,0.43
+747,1987,Base on Balls,Detroit,653.0
+748,1987,Batting Average,Boston,0.278
+749,1987,Doubles,Chicago,283.0
+750,1987,Hits,Boston,1.0
+751,1987,Home Runs,Detroit,225.0
+752,1987,On Base Percentage,Boston,0.355
+753,1987,Runs,Detroit,896.0
+754,1987,Slugging Average,Detroit,0.451
+755,1988,Base on Balls,Boston,623.0
+756,1988,Batting Average,Boston,0.283
+757,1988,Doubles,Boston,310.0
+758,1988,Hits,Boston,1.0
+759,1988,Home Runs,Toronto,158.0
+760,1988,On Base Percentage,Boston,0.36
+761,1988,Runs,Boston,813.0
+762,1988,Slugging Average,Minnesota,0.421
+763,1989,Base on Balls,Boston,643.0
+764,1989,Batting Average,Boston,0.277
+765,1989,Doubles,Boston,326.0
+766,1989,Hits,Boston,1.0
+767,1989,Home Runs,California,145.0
+768,1989,On Base Percentage,Boston,0.355
+769,1989,Runs,Boston,774.0
+770,1989,Slugging Average,Boston,0.403
+771,1990,Base on Balls,Baltimore,660.0
+772,1990,Batting Average,Boston,0.272
+773,1990,Doubles,Kansas City,316.0
+774,1990,Hits,Boston,1.0
+775,1990,Home Runs,Detroit,172.0
+776,1990,On Base Percentage,Boston,0.346
+777,1990,Runs,Toronto,767.0
+778,1990,Slugging Average,Toronto,0.419
+779,1991,Base on Balls,Detroit,699.0
+780,1991,Batting Average,Minnesota,0.28
+781,1991,Doubles,Boston,305.0
+782,1991,Hits,Minnesota,1.0
+783,1991,Home Runs,Detroit,209.0
+784,1991,On Base Percentage,Minnesota,0.347
+785,1991,Runs,Texas,829.0
+786,1991,Slugging Average,Texas,0.424
+787,1991,Stolen Bases,Oakland,151.0
+788,1992,Base on Balls,Oakland,707.0
+789,1992,Batting Average,Minnesota,0.277
+790,1992,Doubles,Kansas City,284.0
+791,1992,Hits,Minnesota,1.0
+792,1992,Home Runs,Detroit,182.0
+793,1992,On Base Percentage,Oakland,0.349
+794,1992,Runs,Detroit,791.0
+795,1992,Slugging Average,Toronto,0.414
+796,1993,Base on Balls,Detroit,44.0
+797,1993,Batting Average,New York,0.279
+798,1993,Batting Average,Toronto,0.279
+799,1993,Doubles,Boston,319.0
+800,1993,Hits,New York,1.0
+801,1993,Home Runs,Texas,181.0
+802,1993,On Base Percentage,Detroit,0.365
+803,1993,Runs,Detroit,899.0
+804,1993,Slugging Average,Toronto,0.436
+805,1994,Base on Balls,New York,530.0
+806,1994,Batting Average,Cleveland,0.29
+807,1994,Batting Average,New York,0.29
+808,1994,Doubles,Cleveland,240.0
+809,1994,Hits,Cleveland,1.0
+810,1994,Home Runs,Cleveland,167.0
+811,1994,On Base Percentage,New York,0.377
+812,1994,Runs,Cleveland,679.0
+813,1994,Slugging Average,Cleveland,0.484
+814,1995,Base on Balls,New York,625.0
+815,1995,Batting Average,Cleveland,0.291
+816,1995,Doubles,Boston,286.0
+817,1995,Hits,Cleveland,1.0
+818,1995,Home Runs,Cleveland,207.0
+819,1995,On Base Percentage,Cleveland,0.364
+820,1995,Runs,Cleveland,840.0
+821,1995,Slugging Average,Cleveland,0.479
+822,1996,Base on Balls,Chicago,701.0
+823,1996,Batting Average,Cleveland,0.293
+824,1996,Doubles,Seattle,343.0
+825,1996,Hits,Cleveland,1.0
+826,1996,Home Runs,Baltimore,257.0
+827,1996,On Base Percentage,Cleveland,0.372
+828,1996,Runs,Seattle,993.0
+829,1996,Slugging Average,Seattle,0.484
+830,1997,Base on Balls,New York,676.0
+831,1997,Batting Average,Boston,0.291
+832,1997,Doubles,Boston,373.0
+833,1997,Hits,Boston,1.0
+834,1997,Home Runs,Seattle,264.0
+835,1997,On Base Percentage,New York,0.366
+836,1997,Runs,Seattle,925.0
+837,1997,Slugging Average,Seattle,0.485
+838,1997,Stolen Bases,Detroit,161.0
+839,1998,Base on Balls,New York,653.0
+840,1998,Batting Average,Texas,0.289
+841,1998,Doubles,Boston,338.0
+842,1998,Hits,Texas,1.0
+843,1998,Home Runs,Seattle,234.0
+844,1998,On Base Percentage,New York,0.368
+845,1998,Runs,New York,965.0
+846,1998,Slugging Average,Seattle,0.468
+847,1999,Base on Balls,Oakland,770.0
+848,1999,Batting Average,Texas,0.293
+849,1999,Doubles,Toronto,337.0
+850,1999,Hits,Texas,1.0
+851,1999,Home Runs,Seattle,244.0
+852,1999,On Base Percentage,Cleveland,0.373
+853,1999,Runs,Cleveland,1.0
+854,1999,Slugging Average,Texas,0.479
+855,2000,Base on Balls,Seattle,775.0
+856,2000,Batting Average,Cleveland,0.288
+857,2000,Doubles,Texas,330.0
+858,2000,Hits,Kansas City,1.0
+859,2000,Home Runs,Toronto,244.0
+860,2000,On Base Percentage,Cleveland,0.367
+861,2000,Runs,Chicago,978.0
+862,2000,Slugging Average,Anaheim,0.472
+863,2001,Base on Balls,Oakland,640.0
+864,2001,Batting Average,Seattle,0.288
+865,2001,Doubles,Oakland,334.0
+866,2001,Hits,Seattle,1.0
+867,2001,Home Runs,Texas,246.0
+868,2001,On Base Percentage,Seattle,0.36
+869,2001,Runs,Seattle,927.0
+870,2001,Slugging Average,Texas,0.471
+871,2002,Anaheim,162,5.0
+872,2002,Baltimore,162,5.0
+873,2002,Boston,162,5.0
+874,2002,Chicago,162,5.0
+875,2002,Cleveland,162,5.0
+876,2002,Detroit,161,5.0
+877,2002,Kansas City,162,5.0
+878,2002,Minnesota,161,5.0
+879,2002,New York,161,5.0
+880,2002,Oakland,162,5.0
+881,2002,Seattle,162,5.0
+882,2002,Tampa Bay,161,5.0
+883,2002,Texas,162,5.0
+884,2003,Anaheim,162,5.0
+885,2003,Baltimore,163,5.0
+886,2003,Boston,162,5.0
+887,2003,Chicago,162,5.0
+888,2003,Cleveland,162,5.0
+889,2003,Detroit,162,5.0
+890,2003,Kansas City,162,5.0
+891,2003,Minnesota,162,5.0
+892,2003,New York,163,5.0
+893,2003,Oakland,162,5.0
+894,2003,Seattle,162,5.0
+895,2003,Tampa Bay,162,5.0
+896,2003,Texas,162,5.0
+897,2004,Anaheim,162,5.0
+898,2004,Baltimore,162,5.0
+899,2004,Boston,162,5.0
+900,2004,Chicago,162,5.0
+901,2004,Cleveland,162,5.0
+902,2004,Detroit,162,5.0
+903,2004,Kansas City,162,5.0
+904,2004,Minnesota,162,5.0
+905,2004,New York,162,5.0
+906,2004,Oakland,162,5.0
+907,2004,Seattle,162,5.0
+908,2004,Tampa Bay,161,5.0
+909,2004,Texas,162,5.0
+910,2004,Toronto,161,5.0

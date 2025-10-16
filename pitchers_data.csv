@@ -783,3 +783,396 @@ id,year,statistic,name,team,value,top_25
 782,1986,Shutouts,Jack Morris,Detroit,6,Top 25
 783,1986,Strikeouts,Mark Langston,Seattle,245,Top 25
 784,1986,Winning Percentage,Roger Clemens,Boston,.857,Top 25
+785,1987,Complete Games,Roger Clemens,Boston,18,Top 25
+786,1987,ERA,Jimmy Key,Toronto,2.76,Top 25
+787,1987,Games,Mark Eichhorn,Toronto,89,Top 25
+788,1987,Saves,Tom Henke,Toronto,34,Top 25
+789,1987,Shutouts,Roger Clemens,Boston,7,Top 25
+790,1987,Strikeouts,Mark Langston,Seattle,262,Top 25
+791,1987,Winning Percentage,Roger Clemens,Boston,.690,Top 25
+792,1987,Wins,Roger Clemens,Boston,20,Top 25
+793,1988,Complete Games,Roger Clemens,Boston,14,Top 25
+794,1988,Complete Games,Dave Stewart,Oakland,14,Top 25
+795,1988,ERA,Allan Anderson,Minnesota,2.45,Top 25
+796,1988,Games,Chuck Crim,Milwaukee,70,Top 25
+797,1988,Saves,Dennis Eckersley,Oakland,45,Top 25
+798,1988,Shutouts,Roger Clemens,Boston,8,Top 25
+799,1988,Strikeouts,Roger Clemens,Boston,291,Top 25
+800,1988,Winning Percentage,Frank Viola,Minnesota,.774,Top 25
+801,1989,Complete Games,Bret Saberhagen,Kansas City,12,Top 25
+802,1989,ERA,Bret Saberhagen,Kansas City,2.16,Top 25
+803,1989,Games,Chuck Crim,Milwaukee,76,Top 25
+804,1989,Saves,Jeff Russell,Texas,38,Top 25
+805,1989,Shutouts,Bert Blyleven,California,5,Top 25
+806,1989,Strikeouts,Nolan Ryan,Texas,301,Top 25
+807,1989,Winning Percentage,Bret Saberhagen,Kansas City,.793,Top 25
+808,1990,Complete Games,Jack Morris,Detroit,11,Top 25
+809,1990,Complete Games,Dave Stewart,Oakland,11,Top 25
+810,1990,ERA,Roger Clemens,Boston,1.93,Top 25
+811,1990,Games,Bobby Thigpen,Chicago,77,Top 25
+812,1990,Saves,Bobby Thigpen,Chicago,57,Top 25
+813,1990,Shutouts,Roger Clemens,Boston,4,Top 25
+814,1990,Shutouts,Dave Stewart,Oakland,4,Top 25
+815,1990,Strikeouts,Nolan Ryan,Texas,269,Top 25
+816,1990,Winning Percentage,Bob Welch,Oakland,.818,Top 25
+817,1991,Complete Games,Jack McDowell,Chicago,15,Top 25
+818,1991,ERA,Roger Clemens,Boston,2.62,Top 25
+819,1991,Games,Duane Ward,Toronto,81,Top 25
+820,1991,Saves,Bryan Harvey,California,46,Top 25
+821,1991,Shutouts,Roger Clemens,Boston,4,Top 25
+822,1991,Strikeouts,Roger Clemens,Boston,241,Top 25
+823,1991,Winning Percentage,Scott Erickson,Minnesota,.714,Top 25
+824,1991,Wins,Scott Erickson,Minnesota,20,Top 25
+825,1991,Wins,Bill Gullickson,Detroit,20,Top 25
+826,1992,Complete Games,Jack McDowell,Chicago,13,Top 25
+827,1992,ERA,Roger Clemens,Boston,2.41,Top 25
+828,1992,Games,Kenny Rogers,Texas,81,Top 25
+829,1992,Saves,Dennis Eckersley,Oakland,51,Top 25
+830,1992,Shutouts,Roger Clemens,Boston,5,Top 25
+831,1992,Strikeouts,Randy Johnson,Seattle,241,Top 25
+832,1992,Winning Percentage,Mike Mussina,Baltimore,.783,Top 25
+833,1992,Wins,Kevin Brown,Texas,21,Top 25
+834,1993,Complete Games,Chuck Finley,California,13,Top 25
+835,1993,ERA,Kevin Appier,Kansas City,2.56,Top 25
+836,1993,Games,Greg Harris,Boston,80,Top 25
+837,1993,Saves,Jeff Montgomery,Kansas City,45,Top 25
+838,1993,Saves,Duane Ward,Toronto,45,Top 25
+839,1993,Shutouts,Jack McDowell,Chicago,4,Top 25
+840,1993,Strikeouts,Randy Johnson,Seattle,308,Top 25
+841,1993,Winning Percentage,Jimmy Key,New York,.750,Top 25
+842,1994,Complete Games,Randy Johnson,Seattle,9,Top 25
+843,1994,ERA,Steve Ontiveros,Oakland,2.65,Top 25
+844,1994,Games,Bob Wickman,New York,53,Top 25
+845,1994,Saves,Lee Smith,Baltimore,33,Top 25
+846,1994,Shutouts,Randy Johnson,Seattle,4,Top 25
+847,1994,Strikeouts,Randy Johnson,Seattle,204,Top 25
+848,1994,Winning Percentage,Jason Bere,Chicago,.857,Top 25
+849,1995,Complete Games,Jack McDowell,New York,8,Top 25
+850,1995,ERA,Randy Johnson,Seattle,2.48,Top 25
+851,1995,Games,Jesse Orosco,Baltimore,65,Top 25
+852,1995,Saves,Jose Mesa,Cleveland,46,Top 25
+853,1995,Shutouts,Mike Mussina,Baltimore,4,Top 25
+854,1995,Strikeouts,Randy Johnson,Seattle,294,Top 25
+855,1995,Winning Percentage,Randy Johnson,Seattle,.900,Top 25
+856,1996,Complete Games,Pat Hentgen,Toronto,10,Top 25
+857,1996,ERA,Juan Guzman,Toronto,2.93,Top 25
+858,1996,Games,Eddie Guardado,Minnesota,83,Top 25
+859,1996,Games,Mike Myers,Detroit,83,Top 25
+860,1996,Saves,John Wetteland,New York,43,Top 25
+861,1996,Shutouts,Pat Hentgen,Toronto,3,Top 25
+862,1996,Shutouts,Ken Hill,Texas,3,Top 25
+863,1996,Shutouts,Rich Robertson,Minnesota,3,Top 25
+864,1996,Strikeouts,Roger Clemens,Boston,257,Top 25
+865,1996,Winning Percentage,Charles Nagy,Cleveland,.773,Top 25
+866,1997,Complete Games,Roger Clemens,Toronto,9,Top 25
+867,1997,Complete Games,Pat Hentgen,Toronto,9,Top 25
+868,1997,ERA,Roger Clemens,Toronto,2.05,Top 25
+869,1997,Games,Mike Myers,Detroit,88,Top 25
+870,1997,Saves,Randy Myers,Baltimore,45,Top 25
+871,1997,Shutouts,Roger Clemens,Toronto,3,Top 25
+872,1997,Shutouts,Pat Hentgen,Toronto,3,Top 25
+873,1997,Strikeouts,Roger Clemens,Toronto,292,Top 25
+874,1997,Winning Percentage,Randy Johnson,Seattle,.833,Top 25
+875,1998,Complete Games,Scott Erickson,Baltimore,11,Top 25
+876,1998,ERA,Roger Clemens,Toronto,2.65,Top 25
+877,1998,Games,Sean Runyan,Detroit,88,Top 25
+878,1998,Saves,Tom Gordon,Boston,46,Top 25
+879,1998,Shutouts,David Wells,New York,5,Top 25
+880,1998,Strikeouts,Roger Clemens,Toronto,271,Top 25
+881,1998,Winning Percentage,David Wells,New York,.818,Top 25
+882,1998,Wins,Roger Clemens,Toronto,20,Top 25
+883,1998,Wins,David Cone,New York,20,Top 25
+884,1999,Complete Games,David Wells,Toronto,7,Top 25
+885,1999,ERA,Pedro Martinez,Boston,2.07,Top 25
+886,1999,Games,Buddy Groom,Oakland,76,Top 25
+887,1999,Games,Bob Wells,Minnesota,76,Top 25
+888,1999,Saves,Mariano Rivera,New York,45,Top 25
+889,1999,Shutouts,Scott Erickson,Baltimore,3,Top 25
+890,1999,Strikeouts,Pedro Martinez,Boston,313,Top 25
+891,1999,Winning Percentage,Pedro Martinez,Boston,.852,Top 25
+892,2000,Complete Games,David Wells,Toronto,9,Top 25
+893,2000,ERA,Pedro Martinez,Boston,1.74,Top 25
+894,2000,Games,Kelly Wunsch,Chicago,83,Top 25
+895,2000,Saves,Todd Jones,Detroit,42,Top 25
+896,2000,Saves,Derek Lowe,Boston,42,Top 25
+897,2000,Shutouts,Pedro Martinez,Boston,4,Top 25
+898,2000,Strikeouts,Pedro Martinez,Boston,284,Top 25
+899,2000,Winning Percentage,Tim Hudson,Oakland,.769,Top 25
+900,2000,Wins,Tim Hudson,Oakland,20,Top 25
+901,2001,Complete Games,Steve Sparks,Detroit,8,Top 25
+902,2001,ERA,Freddy Garcia,Seattle,3.05,Top 25
+903,2001,Games,Paul Quantrill,Toronto,80,Top 25
+904,2001,Saves,Mariano Rivera,New York,50,Top 25
+905,2001,Shutouts,Mark Mulder,Oakland,4,Top 25
+906,2001,Strikeouts,Hideo Nomo,Boston,220,Top 25
+907,2001,Winning Percentage,Roger Clemens,New York,.870,Top 25
+908,2002,Complete Games,Paul Byrd,Kansas City,7,Top 25
+909,2002,ERA,Pedro Martinez,Boston,2.26,Top 25
+910,2002,Games,Billy Koch,Oakland,84,Top 25
+911,2002,Saves,Eddie Guardado,Minnesota,45,Top 25
+912,2002,Shutouts,Jeff Weaver,New York,3,Top 25
+913,2002,Strikeouts,Pedro Martinez,Boston,239,Top 25
+914,2002,Winning Percentage,Pedro Martinez,Boston,.833,Top 25
+915,2003,Complete Games,Bartolo Colon,Chicago,9,Top 25
+916,2003,Complete Games,Roy Halladay,Toronto,9,Top 25
+917,2003,Complete Games,Mark Mulder,Oakland,9,Top 25
+918,2003,ERA,Pedro Martinez,Boston,2.22,Top 25
+919,2003,Games,Trever Miller,Toronto,79,Top 25
+920,2003,Saves,Keith Foulke,Oakland,43,Top 25
+921,2003,Shutouts,Roy Halladay,Toronto,2,Top 25
+922,2003,Shutouts,Tim Hudson,Oakland,2,Top 25
+923,2003,Shutouts,John Lackey,Anaheim,2,Top 25
+924,2003,Shutouts,Mark Mulder,Oakland,2,Top 25
+925,2003,Shutouts,Joel Pineiro,Seattle,2,Top 25
+926,2003,Strikeouts,Esteban Loaiza,Chicago,207,Top 25
+927,2003,Winning Percentage,Roy Halladay,Toronto,.759,Top 25
+928,2004,Complete Games,Mark Mulder,Oakland,5,Top 25
+929,2004,Complete Games,Sidney Ponson,Baltimore,5,Top 25
+930,2004,Complete Games,Jake Westbrook,Cleveland,5,Top 25
+931,2004,ERA,Johan Santana,Minnesota,2.61,Top 25
+932,2004,Games,Paul Quantrill,New York,86,Top 25
+933,2004,Saves,Mariano Rivera,New York,53,Top 25
+934,2004,Shutouts,Jeremy Bonderman,Detroit,2,Top 25
+935,2004,Shutouts,Tim Hudson,Oakland,2,Top 25
+936,2004,Shutouts,Sidney Ponson,Baltimore,2,Top 25
+937,2004,Strikeouts,Johan Santana,Minnesota,265,Top 25
+938,2004,Winning Percentage,Curt Schilling,Boston,.778,Top 25
+939,2005,Complete Games,Roy Halladay,Toronto,5,Top 25
+940,2005,ERA,Kevin Millwood,Cleveland,2.86,Top 25
+941,2005,Games,Mike Timlin,Boston,81,Top 25
+942,2005,Saves,Francisco Rodriguez,Los Angeles,45,Top 25
+943,2005,Saves,Bob Wickman,Cleveland,45,Top 25
+944,2005,Shutouts,Jon Garland,Chicago,3,Top 25
+945,2005,Strikeouts,Johan Santana,Minnesota,238,Top 25
+946,2005,Winning Percentage,Cliff Lee,Cleveland,.783,Top 25
+947,2006,Complete Games,C.C. Sabathia,Cleveland,6,Top 25
+948,2006,ERA,Johan Santana,Minnesota,2.77,Top 25
+949,2006,Games,Scott Proctor,New York,83,Top 25
+950,2006,Saves,Francisco Rodriguez,Los Angeles,47,Top 25
+951,2006,Shutouts,John Lackey,Los Angeles,2,Top 25
+952,2006,Shutouts,C.C. Sabathia,Cleveland,2,Top 25
+953,2006,Shutouts,Jeremy Sowers,Cleveland,2,Top 25
+954,2006,Shutouts,Jake Westbrook,Cleveland,2,Top 25
+955,2006,Strikeouts,Johan Santana,Minnesota,245,Top 25
+956,2006,Winning Percentage,Roy Halladay,Toronto,.762,Top 25
+957,2006,Wins,Johan Santana,Minnesota,19,Top 25
+958,2006,Wins,Chien-Ming Wang,New York,19,Top 25
+959,2007,Complete Games,Roy Halladay,Toronto,7,Top 25
+960,2007,ERA,John Lackey,Los Angeles,3.01,Top 25
+961,2007,Games,Jamie Walker,Baltimore,81,Top 25
+962,2007,Saves,Joe Borowski,Cleveland,45,Top 25
+963,2007,Shutouts,Paul Byrd,Cleveland,2,Top 25
+964,2007,Shutouts,Jose Contreras,Chicago,2,Top 25
+965,2007,Shutouts,John Lackey,Cleveland,2,Top 25
+966,2007,Shutouts,Jeff Weaver,Seattle,2,Top 25
+967,2007,Strikeouts,Scott Kazmir,Tampa Bay,239,Top 25
+968,2007,Winning Percentage,Justin Verlander,Detroit,.762,Top 25
+969,2007,Wins,Josh Beckett,Boston,20,Top 25
+970,2008,Complete Games,Roy Halladay,Toronto,9,Top 25
+971,2008,ERA,Cliff Lee,Cleveland,2.54,Top 25
+972,2008,Games,Matt Guerrier,Minnesota,76,Top 25
+973,2008,Games,Francisco Rodriguez,Los Angeles,76,Top 25
+974,2008,Saves,Francisco Rodriguez,Los Angeles,62,Top 25
+975,2008,Shutouts,Matt Garza,Tampa Bay,2,Top 25
+976,2008,Shutouts,Roy Halladay,Toronto,2,Top 25
+977,2008,Shutouts,Cliff Lee,Cleveland,2,Top 25
+978,2008,Shutouts,Jon Lester,Boston,2,Top 25
+979,2008,Shutouts,Jesse Litsch,Toronto,2,Top 25
+980,2008,Shutouts,C.C. Sabathia,Cleveland,2,Top 25
+981,2008,Shutouts,James Shields,Tampa Bay,2,Top 25
+982,2008,Shutouts,Kevin Slowey,Minnesota,2,Top 25
+983,2008,Strikeouts,A.J. Burnett,Toronto,231,Top 25
+984,2008,Winning Percentage,Cliff Lee,Cleveland,.880,Top 25
+985,2008,Wins,Cliff Lee,Cleveland,22,Top 25
+986,2009,Complete Games,Roy Halladay,Toronto,9,Top 25
+987,2009,ERA,Zack Greinke,Kansas City,2.16,Top 25
+988,2009,Games,Matt Guerrier,Minnesota,79,Top 25
+989,2009,Saves,Brian Fuentes,Los Angeles,48,Top 25
+990,2009,Shutouts,Roy Halladay,Toronto,4,Top 25
+991,2009,Strikeouts,Justin Verlander,Detroit,269,Top 25
+992,2009,Winning Percentage,Felix Hernandez,Seattle,.792,Top 25
+993,2009,Wins,Felix Hernandez,Seattle,19,Top 25
+994,2009,Wins,C.C. Sabathia,New York,19,Top 25
+995,2010,Complete Games,Cliff Lee,Seattle / Texas,7,Top 25
+996,2010,Complete Games,Carl Pavano,Minnesota,7,Top 25
+997,2010,ERA,Felix Hernandez,Seattle,2.27,Top 25
+998,2010,Games,Randy Choate,Tampa Bay,85,Top 25
+999,2010,Saves,Rafael Soriano,Tampa Bay,45,Top 25
+1000,2010,Shutouts,Dallas Braden,Oakland,2,Top 25
+1001,2010,Shutouts,Carl Pavano,Minnesota,2,Top 25
+1002,2010,Strikeouts,Jered Weaver,Los Angeles,233,Top 25
+1003,2010,Winning Percentage,Tommy Hunter,Texas,.765,Top 25
+1004,2010,Wins,C.C. Sabathia,New York,21,Top 25
+1005,2011,Complete Games,James Shields,Tampa Bay,11,Top 25
+1006,2011,ERA,Justin Verlander,Detroit,2.40,Top 25
+1007,2011,Games,Jose Valverde,Detroit,75,Top 25
+1008,2011,Saves,Jose Valverde,Detroit,49,Top 25
+1009,2011,Shutouts,Derek Holland,Texas,4,Top 25
+1010,2011,Shutouts,James Shields,Tampa Bay,4,Top 25
+1011,2011,Strikeouts,Justin Verlander,Detroit,250,Top 25
+1012,2011,Winning Percentage,Justin Verlander,Detroit,.828,Top 25
+1013,2011,Wins,Justin Verlander,Detroit,24,Top 25
+1014,2012,Complete Games,Justin Verlander,Detroit,6,Top 25
+1015,2012,ERA,David Price,Tampa Bay,2.56,Top 25
+1016,2012,Games,Boone Logan,New York,80,Top 25
+1017,2012,Saves,Jim Johnson,Baltimore,51,Top 25
+1018,2012,Shutouts,Felix Hernandez,Seattle,5,Top 25
+1019,2012,Strikeouts,Justin Verlander,Detroit,239,Top 25
+1020,2012,Winning Percentage,David Price,Tampa Bay,.800,Top 25
+1021,2012,Winning Percentage,Jered Weaver,Los Angeles,.800,Top 25
+1022,2012,Wins,David Price,Tampa Bay,20,Top 25
+1023,2012,Wins,Jered Weaver,Los Angeles,20,Top 25
+1024,2013,Complete Games,David Price,Tampa Bay,4,Top 25
+1025,2013,Complete Games,Chris Sale,Chicago,4,Top 25
+1026,2013,ERA,Anibal Sanchez,Detroit,2.57,Top 25
+1027,2013,Games,Joel Peralta,Tampa Bay,80,Top 25
+1028,2013,Saves,Jim Johnson,Baltimore,50,Top 25
+1029,2013,Shutouts,Bartolo Colon,Oakland,3,Top 25
+1030,2013,Shutouts,Justin Masterson,Cleveland,3,Top 25
+1031,2013,Strikeouts,Yu Darvish,Texas,277,Top 25
+1032,2013,Winning Percentage,Max Scherzer,Detroit,.875,Top 25
+1033,2014,Complete Games,Dallas Keuchel,Houston,5,Top 25
+1034,2014,ERA,Felix Hernandez,Seattle,2.14,Top 25
+1035,2014,Games,Bryan Shaw,Cleveland,80,Top 25
+1036,2014,Saves,Fernando Rodney,Seattle,48,Top 25
+1037,2014,Shutouts,Rick Porcello,Detroit,3,Top 25
+1038,2014,Strikeouts,David Price,Tampa Bay / Detroit,271,Top 25
+1039,2014,Winning Percentage,Max Scherzer,Detroit,.783,Top 25
+1040,2014,Wins,Corey Kluber,Texas,18,Top 25
+1041,2014,Wins,Max Scherzer,Detroit,18,Top 25
+1042,2014,Wins,Jered Weaver,Los Angeles,18,Top 25
+1043,2015,Complete Games,Mark Buehrle,Toronto,4,Top 25
+1044,2015,Complete Games,Corey Kluber,Cleveland,4,Top 25
+1045,2015,ERA,David Price,Detroit / Toronto,2.45,Top 25
+1046,2015,Games,Kevin Jepsen,Tampa Bay / Minnesota,75,Top 25
+1047,2015,Saves,Brad Boxberger,Tampa Bay,41,Top 25
+1048,2015,Shutouts,Sonny Gray,Oakland,2,Top 25
+1049,2015,Shutouts,Felix Hernandez,Seattle,2,Top 25
+1050,2015,Shutouts,Dallas Keuchel,Houston,2,Top 25
+1051,2015,Shutouts,Mike Montgomery,Seattle,2,Top 25
+1052,2015,Shutouts,Jeff Samardzija,Chicago,2,Top 25
+1053,2015,Strikeouts,Chris Sale,Chicago,274,Top 25
+1054,2015,Winning Percentage,David Price,Detroit / Toronto,.783,Top 25
+1055,2016,Complete Games,Chris Sale,Chicago,6,Top 25
+1056,2016,ERA,Aaron Sanchez,Toronto,3.00,Top 25
+1057,2016,Games,Bryan Shaw,Cleveland,75,Top 25
+1058,2016,Saves,Zach Britton,Baltimore,47,Top 25
+1059,2016,Shutouts,Corey Kluber,Cleveland,2,Top 25
+1060,2016,Strikeouts,Justin Verlander,Detroit,254,Top 25
+1061,2016,Winning Percentage,Aaron Sanchez,Toronto,.882,Top 25
+1062,2017,Complete Games,Corey Kluber,Cleveland Indians,5,Top 25
+1063,2017,Complete Games,Ervin Santana,Minnesota Twins,5,Top 25
+1064,2017,ERA,Corey Kluber,Cleveland Indians,2.25,Top 25
+1065,2017,Games,Bryan Shaw,Cleveland Indians,79,Top 25
+1066,2017,Saves,Alex Colome,Tampa Bay Rays,46,Top 25
+1067,2017,Shutouts,Corey Kluber,Cleveland Indians,3,Top 25
+1068,2017,Shutouts,Ervin Santana,Minnesota Twins,3,Top 25
+1069,2017,Strikeouts,Chris Sale,Boston Red Sox,308,Top 25
+1070,2017,Winning Percentage,Corey Kluber,Cleveland Indians,.818,Top 25
+1071,2017,Wins,Carlos Carrasco,Cleveland Indians,18,Top 25
+1072,2017,Wins,Corey Kluber,Cleveland Indians,18,Top 25
+1073,2017,Wins,Jason Vargas,Kansas City Royals,18,Top 25
+1074,2018,Complete Games,Jose Berrios,Minnesota Twins,2,Top 25
+1075,2018,Complete Games,Carlos Carrasco,Cleveland Indians,2,Top 25
+1076,2018,Complete Games,Corey Kluber,Cleveland Indians,2,Top 25
+1077,2018,Complete Games,James Paxton,Seattle Mariners,2,Top 25
+1078,2018,ERA,Blake Snell,Tampa Bay Rays,1.89,Top 25
+1079,2018,Games,Ryan Pressly,Minnesota Twins,77,Top 25
+1080,2018,Games,Ryan Pressly,Houston Astros,77,Top 25
+1081,2018,Saves,Edwin Diaz,Seattle Mariners,57,Top 25
+1082,2018,Shutouts,Jose Berrios,Minnesota Twins,1,Top 25
+1083,2018,Shutouts,Mike Clevinger,Cleveland Indians,1,Top 25
+1084,2018,Shutouts,Gerrit Cole,Houston Astros,1,Top 25
+1085,2018,Shutouts,Andrew Heaney,Los Angeles Angels,1,Top 25
+1086,2018,Shutouts,Corey Kluber,Cleveland Indians,1,Top 25
+1087,2018,Shutouts,Sean Manaea,Oakland Athletics,1,Top 25
+1088,2018,Shutouts,Daniel Mengden,Oakland Athletics,1,Top 25
+1089,2018,Shutouts,James Paxton,Seattle Mariners,1,Top 25
+1090,2018,Shutouts,Luis Severino,New York Yankees,1,Top 25
+1091,2018,Shutouts,Masahiro Tanaka,New York Yankees,1,Top 25
+1092,2018,Shutouts,Justin Verlander,Houston Astros,1,Top 25
+1093,2018,Strikeouts,Justin Verlander,Houston Astros,290,Top 25
+1094,2018,Winning Percentage,Charlie Morton,Houston Astros,.833,Top 25
+1095,2018,Wins,Blake Snell,Tampa Bay Rays,21,Top 25
+1096,2019,Complete Games,Shane Bieber,Cleveland Indians,3,Top 25
+1097,2019,Complete Games,Lucas Giolito,Chicago White Sox,3,Top 25
+1098,2019,ERA,Gerrit Cole,Houston Astros,2.50,Top 25
+1099,2019,Games,Yusmeiro Petit,Oakland Athletics,80,Top 25
+1100,2019,Saves,Roberto Osuna,Houston Astros,38,Top 25
+1101,2019,Shutouts,Shane Bieber,Cleveland Indians,2,Top 25
+1102,2019,Shutouts,Lucas Giolito,Chicago White Sox,2,Top 25
+1103,2019,Strikeouts,Gerrit Cole,Houston Astros,326,Top 25
+1104,2019,Winning Percentage,Gerrit Cole,Houston Astros,.800,Top 25
+1105,2020,Complete Games,Gerrit Cole,New York Yankees,2,Top 25
+1106,2020,ERA,Shane Bieber,Cleveland Indians,1.63,Top 25
+1107,2020,Games,Scott Barlow,Kansas City Royals,32,Top 25
+1108,2020,Saves,Brad Hand,Cleveland Indians,16,Top 25
+1109,2020,Shutouts,Gerrit Cole,New York Yankees,1,Top 25
+1110,2020,Shutouts,Kyle Gibson,Texas Rangers,1,Top 25
+1111,2020,Shutouts,Lucas Giolito,Chicago White Sox,1,Top 25
+1112,2020,Shutouts,Brad Keller,Kansas City Royals,1,Top 25
+1113,2020,Shutouts,Mike Minor,Oakland Athletics,1,Top 25
+1114,2020,Strikeouts,Shane Bieber,Cleveland Indians,122,Top 25
+1115,2020,Winning Percentage,Shane Bieber,Cleveland Indians,.889,Top 25
+1116,2020,Wins,Shane Bieber,Cleveland Indians,8,Top 25
+1117,2021,Complete Games,Gerrit Cole,New York Yankees,2,Top 25
+1118,2021,Complete Games,Sean Manaea,Oakland Athletics,2,Top 25
+1119,2021,ERA,Robbie Ray,Toronto Blue Jays,2.84,Top 25
+1120,2021,Games,Bryan Shaw,Cleveland Indians,81,Top 25
+1121,2021,Saves,Liam Hendriks,Chicago White Sox,38,Top 25
+1122,2021,Shutouts,Sean Manaea,Oakland Athletics,2,Top 25
+1123,2021,Strikeouts,Robbie Ray,Toronto Blue Jays,248,Top 25
+1124,2021,Winning Percentage,"Lance McCullers, Jr.",Houston Astros,.722,Top 25
+1125,2021,Wins,Gerrit Cole,New York Yankees,16,Top 25
+1126,2022,Complete Games,Framber Valdez,Houston Astros,3,Top 25
+1127,2022,ERA,Justin Verlander,Houston Astros,1.75,Top 25
+1128,2022,Games,Adam Cimber,Toronto Blue Jays,77,Top 25
+1129,2022,Games,Emmanuel Clase,Cleveland Guardians,77,Top 25
+1130,2022,Saves,Emmanuel Clase,Cleveland Guardians,42,Top 25
+1131,2022,Shutouts,Dylan Cease,Chicago White Sox,1,Top 25
+1132,2022,Shutouts,Nestor Cortes,New York Yankees,1,Top 25
+1133,2022,Shutouts,Reid Detmers,Los Angeles Angels,1,Top 25
+1134,2022,Shutouts,Nathan Eovaldi,Boston Red Sox,1,Top 25
+1135,2022,Shutouts,Dean Kremer,Baltimore Orioles,1,Top 25
+1136,2022,Shutouts,Martín Pérez,Texas Rangers,1,Top 25
+1137,2022,Shutouts,Patrick Sandoval,Los Angeles Angels,1,Top 25
+1138,2022,Shutouts,Framber Valdez,Houston Astros,1,Top 25
+1139,2022,Shutouts,Michael Wacha,Boston Red Sox,1,Top 25
+1140,2022,Strikeouts,Corbin Burnes,Milwaukee Brewers,243,Top 25
+1141,2022,Winning Percentage,Justin Verlander,Houston Astros,.818,Top 25
+1142,2022,Wins,Justin Verlander,Houston Astros,18,Top 25
+1143,2023,Complete Games,Jordan Lyles,Kansas City Royals,3,Top 25
+1144,2023,ERA,Gerrit Cole,New York Yankees,2.63,Top 25
+1145,2023,Games,Matt Brash,Seattle Mariners,78,Top 25
+1146,2023,Saves,Emmanuel Clase,Cleveland Guardians,44,Top 25
+1147,2023,Shutouts,Gerrit Cole,New York Yankees,2,Top 25
+1148,2023,Shutouts,Framber Valdez,Houston Astros,2,Top 25
+1149,2023,Strikeouts,Kevin Gausman,Toronto Blue Jays,237,Top 25
+1150,2023,Winning Percentage,Gerrit Cole,New York Yankees,.789,Top 25
+1151,2023,Wins,Chris Bassitt,Toronto Blue Jays,16,Top 25
+1152,2023,Wins,Zach Eflin,Tampa Bay Rays,16,Top 25
+1153,2024,Complete Games,Kevin Gausman,Toronto,2,Top 25
+1154,2024,ERA,Tarik Skubal,Detroit,2.39,Top 25
+1155,2024,Games,T.J. McFarland,Oakland,79,Top 25
+1156,2024,Saves,Emmanuel Clase,Cleveland,47,Top 25
+1157,2024,Shutouts,Ronel Blanco,Houston,1,Top 25
+1158,2024,Shutouts,Joey Estes,Oakland,1,Top 25
+1159,2024,Shutouts,Kevin Gausman,Toronto,1,Top 25
+1160,2024,Shutouts,Tanner Houck,Boston,1,Top 25
+1161,2024,Shutouts,Keider Montero,Detroit,1,Top 25
+1162,2024,Strikeouts,Tarik Skubal,Detroit,228,Top 25
+1163,2024,Winning Percentage,Tarik Skubal,Detroit,.818,Top 25
+1164,2024,Wins,Tarik Skubal,Detroit,18,Top 25
+1165,2025,Complete Games,Tanner Bibee,Cleveland,2,Top 25
+1166,2025,Complete Games,Framber Valdez,Houston,2,Top 25
+1167,2025,ERA,Tarik Skubal,Detroit,2.21,Top 25
+1168,2025,Games,Brendon Little,Toronto,79,Top 25
+1169,2025,Saves,Carlos Estévez,Kansas City,42,Top 25
+1170,2025,Shutouts,Tanner Bibee,Cleveland,1,Top 25
+1171,2025,Shutouts,Garrett Crochet,Boston,1,Top 25
+1172,2025,Shutouts,Nathan Eovaldi,Texas,1,Top 25
+1173,2025,Shutouts,Kevin Gausman,Toronto,1,Top 25
+1174,2025,Shutouts,Tarik Skubal,Detroit,1,Top 25
+1175,2025,Strikeouts,Garrett Crochet,Boston,255,Top 25
+1176,2025,Winning Percentage,Max Fried,New York,.792,Top 25
+1177,2025,Wins,Max Fried,New York,19,Top 25

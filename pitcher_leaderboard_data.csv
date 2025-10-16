@@ -613,3 +613,168 @@ id,year,statistic,Team,value
 612,1985,Fewest Walks Allowed,Minnesota,462
 613,1985,Saves,New York,49
 614,1985,Shutouts,Detroit,11
+615,1986,Complete Games,Minnesota,39
+616,1986,ERA,Kansas City,3.82
+617,1986,Fewest Hits Allowed,Oakland,"1,334"
+618,1986,Fewest Home Runs Allowed,Kansas City,121
+619,1986,Fewest Walks Allowed,Boston,474
+620,1986,Saves,New York,58
+621,1986,Shutouts,Kansas City,13
+622,1987,Complete Games,Boston,47
+623,1987,ERA,Toronto,3.74
+624,1987,Fewest Hits Allowed,Toronto,"1,323"
+625,1987,Fewest Home Runs Allowed,Kansas City,128
+626,1987,Fewest Walks Allowed,Seattle,497
+627,1987,Saves,New York,47
+628,1987,Shutouts,Boston,13
+629,1988,Complete Games,Texas,41
+630,1988,ERA,Oakland,3.44
+631,1988,Fewest Hits Allowed,Texas,"1,310"
+632,1988,Fewest Home Runs Allowed,Kansas City,102
+633,1988,Fewest Walks Allowed,Milwaukee,437
+634,1988,Saves,Oakland,64
+635,1988,Shutouts,Toronto,17
+636,1989,Complete Games,California,32
+637,1989,ERA,Oakland,3.09
+638,1989,Fewest Hits Allowed,Texas,"1,279"
+639,1989,Fewest Home Runs Allowed,Kansas City,86
+640,1989,Fewest Walks Allowed,Cleveland,452
+641,1989,Saves,Oakland,57
+642,1989,Shutouts,California,20
+643,1989,Shutouts,Oakland,20
+644,1990,Complete Games,Texas,25
+645,1990,ERA,Oakland,3.18
+646,1990,Fewest Hits Allowed,Oakland,"1,287"
+647,1990,Fewest Home Runs Allowed,Boston,92
+648,1990,Fewest Walks Allowed,Toronto,445
+649,1990,Saves,Chicago,68
+650,1990,Shutouts,Oakland,16
+651,1991,Complete Games,Chicago,28
+652,1991,ERA,Toronto,3.50
+653,1991,Fewest Hits Allowed,Toronto,"1,301"
+654,1991,Fewest Home Runs Allowed,Kansas City,105
+655,1991,Fewest Walks Allowed,Cleveland,441
+656,1991,Saves,Toronto,60
+657,1991,Shutouts,Toronto,16
+658,1992,Complete Games,California,26
+659,1992,ERA,Milwaukee,3.43
+660,1992,Fewest Hits Allowed,Milwaukee,"1,344"
+661,1992,Fewest Home Runs Allowed,Kansas City,106
+662,1992,Fewest Walks Allowed,Milwaukee,435
+663,1992,Saves,Oakland,58
+664,1992,Shutouts,Baltimore,16
+665,1993,Complete Games,California,26
+666,1993,Complete Games,Milwaukee,26
+667,1993,ERA,Chicago,3.70
+668,1993,Fewest Hits Allowed,Boston,"1,379"
+669,1993,Fewest Hits Allowed,Kansas City,"1,379"
+670,1993,Fewest Home Runs Allowed,Kansas City,105
+671,1993,Fewest Walks Allowed,Minnesota,514
+672,1993,Saves,Toronto,50
+673,1993,Shutouts,New York,13
+674,1994,Complete Games,Cleveland,17
+675,1994,ERA,Chicago,3.96
+676,1994,Fewest Hits Allowed,Chicago,964
+677,1994,Fewest Home Runs Allowed,Cleveland,94
+678,1994,Fewest Walks Allowed,Baltimore,351
+679,1994,Saves,Kansas City,38
+680,1994,Shutouts,Chicago,9
+681,1994,Shutouts,Oakland,9
+682,1995,Complete Games,Baltimore,19
+683,1995,ERA,Cleveland,3.83
+684,1995,Fewest Hits Allowed,Baltimore,"1,165"
+685,1995,Fewest Home Runs Allowed,Boston,127
+686,1995,Fewest Walks Allowed,Cleveland,445
+687,1995,Saves,Cleveland,50
+688,1995,Shutouts,Baltimore,10
+689,1995,Shutouts,Cleveland,10
+690,1995,Shutouts,Kansas City,10
+691,1996,Complete Games,Texas,19
+692,1996,Complete Games,Toronto,19
+693,1996,ERA,Cleveland,4.34
+694,1996,Fewest Hits Allowed,New York,"1,469"
+695,1996,Fewest Home Runs Allowed,New York,143
+696,1996,Fewest Walks Allowed,Kansas City,460
+697,1996,Saves,New York,52
+698,1996,Shutouts,Cleveland,9
+699,1996,Shutouts,New York,9
+700,1997,Complete Games,Toronto,19
+701,1997,ERA,New York,3.84
+702,1997,Fewest Hits Allowed,Baltimore,"1,404"
+703,1997,Fewest Home Runs Allowed,New York,144
+704,1997,Fewest Walks Allowed,Minnesota,495
+705,1997,Saves,Baltimore,59
+706,1997,Shutouts,Toronto,16
+707,1998,Complete Games,New York,22
+708,1998,ERA,New York,3.82
+709,1998,Fewest Hits Allowed,New York,"1,357"
+710,1998,Fewest Home Runs Allowed,New York,156
+711,1998,Fewest Walks Allowed,Minnesota,458
+712,1998,Saves,Boston,53
+713,1998,Shutouts,New York,16
+714,1999,Complete Games,Baltimore,17
+715,1999,ERA,Boston,4.00
+716,1999,Fewest Hits Allowed,Boston,"1,396"
+717,1999,Fewest Home Runs Allowed,New York,158
+718,1999,Fewest Walks Allowed,Boston,469
+719,1999,Saves,Boston,50
+720,1999,Saves,New York,50
+721,1999,Shutouts,Baltimore,4
+722,1999,Shutouts,New York,4
+723,2000,Complete Games,Toronto,15
+724,2000,ERA,Boston,4.24
+725,2000,Fewest Hits Allowed,Boston,"1,433"
+726,2000,Fewest Home Runs Allowed,Oakland,158
+727,2000,Fewest Walks Allowed,Detroit,496
+728,2000,Saves,Anaheim,46
+729,2000,Saves,Boston,46
+730,2000,Shutouts,Boston,12
+731,2001,Complete Games,Detroit,16
+732,2001,ERA,Seattle,3.54
+733,2001,Fewest Hits Allowed,Seattle,"1,293"
+734,2001,Fewest Home Runs Allowed,Boston,146
+735,2001,Fewest Walks Allowed,Oakland,440
+736,2001,Saves,New York,57
+737,2001,Shutouts,Seattle,14
+738,2002,Anaheim,99,63,3.69,7,14,54,70,1452.1,"1,345",644,595,169,49,509,999
+739,2002,Baltimore,67,95,4.46,8,3,31,46,1450.2,"1,491",773,719,208,54,549,967
+740,2002,Boston,93,69,3.75,5,17,51,68,1446.0,"1,339",665,603,146,84,430,"1,157"
+741,2002,Chicago,81,81,4.53,7,7,35,46,1423.0,"1,422",798,716,190,60,528,945
+742,2002,Cleveland,74,88,4.91,9,4,34,53,1424.2,"1,508",837,777,142,57,603,"1,058"
+743,2002,Detroit,55,106,4.92,11,7,33,53,1414.0,"1,593",864,773,163,62,463,794
+744,2002,Kansas City,62,100,5.21,12,6,30,54,1441.0,"1,587",891,834,212,52,572,909
+745,2002,Minnesota,94,67,4.12,8,9,47,65,1444.2,"1,454",712,662,184,45,439,"1,026"
+746,2002,New York,103,58,3.87,9,11,53,69,1452.0,"1,441",697,625,144,48,403,"1,135"
+747,2002,Oakland,103,59,3.68,9,19,48,68,1452.0,"1,391",654,593,135,62,474,"1,021"
+748,2002,Seattle,93,69,4.07,8,12,43,64,1445.1,"1,422",699,654,178,49,441,"1,063"
+749,2002,Tampa Bay,55,106,5.29,12,3,25,46,1440.1,"1,567",918,846,215,94,620,925
+750,2002,Texas,72,90,5.15,4,4,33,65,1439.2,"1,528",882,824,194,76,669,"1,030"
+751,2002,Toronto,78,84,4.80,6,6,41,70,1438.1,"1,504",828,767,177,71,590,991
+752,2003,Anaheim,77,85,4.28,162,5,9,39,"1,431.1","1,444",743,680,190,76,486,980
+753,2003,Baltimore,71,91,4.76,163,9,3,41,"1,449.2","1,579",820,767,198,80,526,981
+754,2003,Boston,95,67,4.48,162,5,6,36,"1,464.2","1,503",809,729,153,76,488,"1,141"
+755,2003,Chicago,86,76,4.17,162,12,4,36,"1,431.0","1,364",715,663,162,53,518,"1,056"
+756,2003,Cleveland,68,94,4.21,162,5,7,34,"1,459.1","1,477",778,682,179,64,501,943
+757,2003,Detroit,43,119,5.30,162,3,5,27,"1,438.2","1,616",928,847,195,56,557,764
+758,2003,Kansas City,83,79,5.05,162,7,10,36,"1,438.2","1,569",867,808,190,66,566,865
+759,2003,Minnesota,90,72,4.41,162,7,8,45,"1,462.0","1,526",758,716,187,50,402,997
+760,2003,New York,101,61,4.02,163,8,12,49,"1,462.0","1,512",716,653,145,49,375,"1,119"
+761,2003,Oakland,96,66,3.63,162,16,14,48,"1,441.2","1,336",643,582,140,54,499,"1,018"
+762,2003,Seattle,93,69,3.76,162,8,15,38,"1,441.0","1,340",637,602,173,54,466,"1,001"
+763,2003,Tampa Bay,63,99,4.93,162,7,7,30,"1,436.2","1,454",852,787,196,95,639,877
+764,2003,Texas,71,91,5.67,162,4,3,43,"1,433.1","1,625",969,903,208,63,603,"1,009"
+765,2003,Toronto,86,76,4.69,162,14,6,36,"1,435.0","1,560",826,748,184,57,485,984
+766,2004,Anaheim,92,70,4.28,2,11,50,1454.1,"1,476",734,692,170,44,502,"1,164"
+767,2004,Baltimore,78,84,4.70,8,10,27,1455.1,"1,488",830,760,159,62,687,"1,090"
+768,2004,Boston,98,64,4.18,4,12,36,1451.1,"1,430",768,674,159,92,447,"1,132"
+769,2004,Chicago,83,79,4.91,8,8,34,1432.1,"1,505",831,782,224,48,527,"1,013"
+770,2004,Cleveland,80,82,4.81,8,8,32,1466.2,"1,553",857,784,201,62,579,"1,115"
+771,2004,Detroit,72,90,4.93,7,9,35,1439.2,"1,542",844,788,190,54,530,995
+772,2004,Kansas City,58,104,5.15,6,3,25,1420.1,"1,638",905,813,208,56,518,887
+773,2004,Minnesota,92,70,4.03,4,9,48,1476.0,"1,523",715,661,167,54,431,"1,123"
+774,2004,New York,101,61,4.69,1,5,59,1443.2,"1,532",808,752,182,60,445,"1,058"
+775,2004,Oakland,91,71,4.17,10,8,35,1471.1,"1,466",742,682,164,68,544,"1,034"
+776,2004,Seattle,63,99,4.76,7,7,28,1459.1,"1,498",823,772,212,72,575,"1,036"
+777,2004,Tampa Bay,70,91,4.81,3,5,35,1417.0,"1,459",842,757,192,93,580,923
+778,2004,Texas,89,73,4.53,5,9,52,1439.2,"1,536",794,724,182,81,547,979
+779,2004,Toronto,67,94,4.91,6,11,37,1421.0,"1,505",823,775,181,58,608,956

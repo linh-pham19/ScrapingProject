@@ -1,0 +1,1578 @@
+id,year,statistic,name,team,value,top_25
+1,1901,,Dummy Hoy,Chicago,86.0,Top 25
+2,1901,,Nap Lajoie,Philadelphia,0.426,Top 25
+3,1901,,Nap Lajoie,Philadelphia,48.0,Top 25
+4,1901,,Nap Lajoie,Philadelphia,232.0,Top 25
+5,1901,,Nap Lajoie,Philadelphia,14.0,Top 25
+6,1901,,Nap Lajoie,Philadelphia,0.463,Top 25
+7,1901,,Nap Lajoie,Philadelphia,125.0,Top 25
+8,1901,,Nap Lajoie,Philadelphia,145.0,Top 25
+9,1901,,Nap Lajoie,Philadelphia,0.643,Top 25
+10,1901,,Frank Isbell,Chicago,52.0,Top 25
+11,1901,,Nap Lajoie,Philadelphia,350.0,Top 25
+12,1901,,Bill Keister,Baltimore,21.0,Top 25
+13,1901,,Jimmy Williams,Baltimore,21.0,Top 25
+14,1902,,Topsy Hartsel,Philadelphia,87.0,Top 25
+15,1902,,Ed Delahanty,Washington,0.376,Top 25
+16,1902,,Harry Davis,Philadelphia,43.0,Top 25
+17,1902,,Ed Delahanty,Washington,43.0,Top 25
+18,1902,,Charlie Hickman,Boston,193.0,Top 25
+19,1902,,Charlie Hickman,Cleveland,193.0,Top 25
+20,1902,,Socks Seybold,Philadelphia,16.0,Top 25
+21,1902,,Ed Delahanty,Washington,0.453,Top 25
+22,1902,,Buck Freeman,Boston,121.0,Top 25
+23,1902,,Dave Fultz,Philadelphia,109.0,Top 25
+24,1902,,Topsy Hartsel,Philadelphia,109.0,Top 25
+25,1902,,Ed Delahanty,Washington,0.59,Top 25
+26,1902,,Topsy Hartsel,Philadelphia,47.0,Top 25
+27,1902,,Charlie Hickman,Boston,288.0,Top 25
+28,1902,,Charlie Hickman,Cleveland,288.0,Top 25
+29,1902,,Jimmy Williams,Baltimore,21.0,Top 25
+30,1903,,Jimmy Barrett,Detroit,74.0,Top 25
+31,1903,,Nap Lajoie,Cleveland,0.344,Top 25
+32,1903,,Socks Seybold,Philadelphia,45.0,Top 25
+33,1903,,Patsy Dougherty,Boston,195.0,Top 25
+34,1903,,Buck Freeman,Boston,13.0,Top 25
+35,1903,,Jimmy Barrett,Detroit,0.407,Top 25
+36,1903,,Buck Freeman,Boston,104.0,Top 25
+37,1903,,Patsy Dougherty,Boston,107.0,Top 25
+38,1903,,Nap Lajoie,Cleveland,0.518,Top 25
+39,1903,,Harry Bay,Cleveland,45.0,Top 25
+40,1903,,Buck Freeman,Boston,281.0,Top 25
+41,1903,,Sam Crawford,Detroit,25.0,Top 25
+42,1904,,Jimmy Barrett,Detroit,79.0,Top 25
+43,1904,,Nap Lajoie,Cleveland,0.376,Top 25
+44,1904,,Nap Lajoie,Cleveland,49.0,Top 25
+45,1904,,Nap Lajoie,Cleveland,211.0,Top 25
+46,1904,,Harry Davis,Philadelphia,10.0,Top 25
+47,1904,,Nap Lajoie,Cleveland,0.413,Top 25
+48,1904,,Nap Lajoie,Cleveland,102.0,Top 25
+49,1904,,Patsy Dougherty,Boston,113.0,Top 25
+50,1904,,Patsy Dougherty,New York,113.0,Top 25
+51,1904,,Nap Lajoie,Cleveland,0.552,Top 25
+52,1904,,Harry Bay,Cleveland,38.0,Top 25
+53,1904,,Elmer Flick,Cleveland,38.0,Top 25
+54,1904,,Nap Lajoie,Cleveland,305.0,Top 25
+55,1904,,Joe Cassidy,Washington,19.0,Top 25
+56,1904,,Buck Freeman,Boston,19.0,Top 25
+57,1904,,Chick Stahl,Boston,19.0,Top 25
+58,1905,,Topsy Hartsel,Philadelphia,121.0,Top 25
+59,1905,,Elmer Flick,Cleveland,0.308,Top 25
+60,1905,,Harry Davis,Philadelphia,47.0,Top 25
+61,1905,,George Stone,St. Louis,187.0,Top 25
+62,1905,,Harry Davis,Philadelphia,8.0,Top 25
+63,1905,,Topsy Hartsel,Philadelphia,0.409,Top 25
+64,1905,,Harry Davis,Philadelphia,83.0,Top 25
+65,1905,,Harry Davis,Philadelphia,93.0,Top 25
+66,1905,,Elmer Flick,Cleveland,0.462,Top 25
+67,1905,,Danny Hoffman,Philadelphia,46.0,Top 25
+68,1905,,George Stone,St. Louis,259.0,Top 25
+69,1906,,Topsy Hartsel,Philadelphia,88.0,Top 25
+70,1906,,George Stone,St. Louis,0.358,Top 25
+71,1906,,Nap Lajoie,Cleveland,48.0,Top 25
+72,1906,,Nap Lajoie,Cleveland,214.0,Top 25
+73,1906,,Harry Davis,Philadelphia,12.0,Top 25
+74,1906,,George Stone,St. Louis,0.417,Top 25
+75,1906,,Harry Davis,Philadelphia,96.0,Top 25
+76,1906,,Elmer Flick,Cleveland,98.0,Top 25
+77,1906,,George Stone,St. Louis,0.501,Top 25
+78,1906,,John Anderson,Washington,39.0,Top 25
+79,1906,,Elmer Flick,Cleveland,39.0,Top 25
+80,1906,,George Stone,St. Louis,291.0,Top 25
+81,1906,,Elmer Flick,Cleveland,22.0,Top 25
+82,1907,,Topsy Hartsel,Philadelphia,106.0,Top 25
+83,1907,,Ty Cobb,Detroit,0.35,Top 25
+84,1907,,Harry Davis,Philadelphia,35.0,Top 25
+85,1907,,Ty Cobb,Detroit,212.0,Top 25
+86,1907,,Harry Davis,Philadelphia,8.0,Top 25
+87,1907,,Topsy Hartsel,Philadelphia,0.405,Top 25
+88,1907,,Ty Cobb,Detroit,119.0,Top 25
+89,1907,,Sam Crawford,Detroit,102.0,Top 25
+90,1907,,Ty Cobb,Detroit,0.468,Top 25
+91,1907,,Ty Cobb,Detroit,49.0,Top 25
+92,1907,,Ty Cobb,Detroit,283.0,Top 25
+93,1907,,Elmer Flick,Cleveland,18.0,Top 25
+94,1908,,Topsy Hartsel,Philadelphia,93.0,Top 25
+95,1908,,Ty Cobb,Detroit,0.324,Top 25
+96,1908,,Ty Cobb,Detroit,36.0,Top 25
+97,1908,,Ty Cobb,Detroit,188.0,Top 25
+98,1908,,Sam Crawford,Detroit,7.0,Top 25
+99,1908,,Doc Gessler,Boston,0.394,Top 25
+100,1908,,Ty Cobb,Detroit,108.0,Top 25
+101,1908,,Matty McIntyre,Detroit,105.0,Top 25
+102,1908,,Ty Cobb,Detroit,0.476,Top 25
+103,1908,,Patsy Dougherty,Chicago,47.0,Top 25
+104,1908,,Ty Cobb,Detroit,276.0,Top 25
+105,1908,,Ty Cobb,Detroit,20.0,Top 25
+106,1909,,Donie Bush,Detroit,88.0,Top 25
+107,1909,,Ty Cobb,Detroit,0.377,Top 25
+108,1909,,Sam Crawford,Detroit,35.0,Top 25
+109,1909,,Ty Cobb,Detroit,216.0,Top 25
+110,1909,,Ty Cobb,Detroit,9.0,Top 25
+111,1909,,Ty Cobb,Detroit,0.431,Top 25
+112,1909,,Ty Cobb,Detroit,107.0,Top 25
+113,1909,,Ty Cobb,Detroit,116.0,Top 25
+114,1909,,Ty Cobb,Detroit,0.517,Top 25
+115,1909,,Ty Cobb,Detroit,76.0,Top 25
+116,1909,,Ty Cobb,Detroit,296.0,Top 25
+117,1909,,Frank Baker,Philadelphia,19.0,Top 25
+118,1910,,Donie Bush,Detroit,78.0,Top 25
+119,1910,,Nap Lajoie,Detroit,0.384,Top 25
+120,1910,,Nap Lajoie,Cleveland,51.0,Top 25
+121,1910,,Nap Lajoie,Cleveland,227.0,Top 25
+122,1910,,Jake Stahl,Boston,10.0,Top 25
+123,1910,,Ty Cobb,Detroit,0.455,Top 25
+124,1910,,Sam Crawford,Detroit,120.0,Top 25
+125,1910,,Ty Cobb,Detroit,106.0,Top 25
+126,1910,,Ty Cobb,Detroit,0.549,Top 25
+127,1910,,Eddie Collins,Philadelphia,81.0,Top 25
+128,1910,,Nap Lajoie,Cleveland,304.0,Top 25
+129,1910,,Sam Crawford,Detroit,19.0,Top 25
+130,1911,,Donie Bush,Detroit,98.0,Top 25
+131,1911,,Ty Cobb,Detroit,0.419,Top 25
+132,1911,,Ty Cobb,Detroit,47.0,Top 25
+133,1911,,Ty Cobb,Detroit,248.0,Top 25
+134,1911,,Frank Baker,Philadelphia,11.0,Top 25
+135,1911,,Joe Jackson,Cleveland,0.468,Top 25
+136,1911,,Ty Cobb,Detroit,127.0,Top 25
+137,1911,,Ty Cobb,Detroit,147.0,Top 25
+138,1911,,Ty Cobb,Detroit,0.62,Top 25
+139,1911,,Ty Cobb,Detroit,83.0,Top 25
+140,1911,,Ty Cobb,Detroit,367.0,Top 25
+141,1911,,Ty Cobb,Detroit,24.0,Top 25
+142,1912,,Donie Bush,Detroit,117.0,Top 25
+143,1912,,Ty Cobb,Detroit,0.409,Top 25
+144,1912,,Tris Speaker,Boston,53.0,Top 25
+145,1912,,Ty Cobb,Detroit,226.0,Top 25
+146,1912,,Joe Jackson,Cleveland,226.0,Top 25
+147,1912,,Frank Baker,Philadelphia,10.0,Top 25
+148,1912,,Tris Speaker,Boston,10.0,Top 25
+149,1912,,Tris Speaker,Boston,0.464,Top 25
+150,1912,,Frank Baker,Philadelphia,130.0,Top 25
+151,1912,,Eddie Collins,Philadelphia,137.0,Top 25
+152,1912,,Ty Cobb,Detroit,0.584,Top 25
+153,1912,,Clyde Milan,Washington,88.0,Top 25
+154,1912,,Joe Jackson,Cleveland,331.0,Top 25
+155,1912,,Joe Jackson,Cleveland,26.0,Top 25
+156,1913,,Burt Shotton,St. Louis,99.0,Top 25
+157,1913,,Ty Cobb,Detroit,0.389,Top 25
+158,1913,,Joe Jackson,Cleveland,39.0,Top 25
+159,1913,,Joe Jackson,Cleveland,197.0,Top 25
+160,1913,,Frank Baker,Philadelphia,12.0,Top 25
+161,1913,,Ty Cobb,Detroit,0.466,Top 25
+162,1913,,Frank Baker,Philadelphia,117.0,Top 25
+163,1913,,Eddie Collins,Philadelphia,125.0,Top 25
+164,1913,,Joe Jackson,Cleveland,0.551,Top 25
+165,1913,,Clyde Milan,Washington,75.0,Top 25
+166,1913,,Sam Crawford,Detroit,298.0,Top 25
+167,1913,,Sam Crawford,Detroit,23.0,Top 25
+168,1914,,Donie Bush,Detroit,112.0,Top 25
+169,1914,,Ty Cobb *,Detroit,0.368,Top 25
+170,1914,,Tris Speaker,Boston,46.0,Top 25
+171,1914,,Tris Speaker,Boston,193.0,Top 25
+172,1914,,Frank Baker,Philadelphia,9.0,Top 25
+173,1914,,Eddie Collins,Philadelphia,0.452,Top 25
+174,1914,,Sam Crawford,Detroit,104.0,Top 25
+175,1914,,Eddie Collins,Philadelphia,122.0,Top 25
+176,1914,,Tris Speaker,Boston,0.503,Top 25
+177,1914,,Fritz Maisel,New York,74.0,Top 25
+178,1914,,Tris Speaker,Boston,287.0,Top 25
+179,1914,,Sam Crawford,Detroit,26.0,Top 25
+180,1915,,Eddie Collins,Chicago,119.0,Top 25
+181,1915,,Ty Cobb,Detroit,0.369,Top 25
+182,1915,,Bobby Veach,Detroit,40.0,Top 25
+183,1915,,Ty Cobb,Detroit,208.0,Top 25
+184,1915,,Braggo Roth,Chicago,7.0,Top 25
+185,1915,,Braggo Roth,Cleveland,7.0,Top 25
+186,1915,,Ty Cobb,Detroit,0.486,Top 25
+187,1915,,Sam Crawford,Detroit,112.0,Top 25
+188,1915,,Bobby Veach,Detroit,112.0,Top 25
+189,1915,,Ty Cobb,Detroit,144.0,Top 25
+190,1915,,Jack Fournier,Chicago,0.491,Top 25
+191,1915,,Ty Cobb,Detroit,96.0,Top 25
+192,1915,,Ty Cobb,Detroit,274.0,Top 25
+193,1915,,Sam Crawford,Detroit,19.0,Top 25
+194,1916,,Burt Shotton,St. Louis,110.0,Top 25
+195,1916,,Tris Speaker,Cleveland,0.386,Top 25
+196,1916,,Jack Graney,Cleveland,41.0,Top 25
+197,1916,,Tris Speaker,Cleveland,41.0,Top 25
+198,1916,,Tris Speaker,Cleveland,211.0,Top 25
+199,1916,,Wally Pipp,New York,12.0,Top 25
+200,1916,,Tris Speaker,Cleveland,0.47,Top 25
+201,1916,,Del Pratt,St. Louis,103.0,Top 25
+202,1916,,Ty Cobb,Detroit,113.0,Top 25
+203,1916,,Tris Speaker,Cleveland,0.502,Top 25
+204,1916,,Ty Cobb,Detroit,68.0,Top 25
+205,1916,,Joe Jackson,Chicago,293.0,Top 25
+206,1916,,Joe Jackson,Chicago,21.0,Top 25
+207,1917,,Jack Graney,Cleveland,94.0,Top 25
+208,1917,,Ty Cobb,Detroit,0.383,Top 25
+209,1917,,Ty Cobb,Detroit,44.0,Top 25
+210,1917,,Ty Cobb,Detroit,225.0,Top 25
+211,1917,,Wally Pipp,New York,9.0,Top 25
+212,1917,,Ty Cobb,Detroit,0.444,Top 25
+213,1917,,Bobby Veach,Detroit,103.0,Top 25
+214,1917,,Donie Bush,Detroit,112.0,Top 25
+215,1917,,Ty Cobb,Detroit,0.57,Top 25
+216,1917,,Ty Cobb,Detroit,55.0,Top 25
+217,1917,,Ty Cobb,Detroit,335.0,Top 25
+218,1917,,Ty Cobb,Detroit,24.0,Top 25
+219,1918,,Ray Chapman,Cleveland,84.0,Top 25
+220,1918,,Ty Cobb,Detroit,0.382,Top 25
+221,1918,,Tris Speaker,Cleveland,33.0,Top 25
+222,1918,,George Burns,Philadelphia,178.0,Top 25
+223,1918,,Babe Ruth,Boston,11.0,Top 25
+224,1918,,Tilly Walker,Philadelphia,11.0,Top 25
+225,1918,,Ty Cobb,Detroit,0.44,Top 25
+226,1918,,Bobby Veach,Detroit,78.0,Top 25
+227,1918,,Ray Chapman,Cleveland,84.0,Top 25
+228,1918,,Babe Ruth,Boston,0.555,Top 25
+229,1918,,George Sisler,St. Louis,45.0,Top 25
+230,1918,,George Burns,Philadelphia,236.0,Top 25
+231,1918,,Ty Cobb,Detroit,14.0,Top 25
+232,1919,,Jack Graney,Cleveland,105.0,Top 25
+233,1919,,Ty Cobb,Detroit,0.384,Top 25
+234,1919,,BobbyVeach,Detroit,45.0,Top 25
+235,1919,,Ty Cobb,Detroit,191.0,Top 25
+236,1919,,BobbyVeach,Detroit,191.0,Top 25
+237,1919,,Babe Ruth,Boston,29.0,Top 25
+238,1919,,Babe Ruth,Boston,0.456,Top 25
+239,1919,,Babe Ruth,Boston,114.0,Top 25
+240,1919,,Babe Ruth,Boston,103.0,Top 25
+241,1919,,Babe Ruth,Boston,0.657,Top 25
+242,1919,,Eddie Collins,Chicago,33.0,Top 25
+243,1919,,Babe Ruth,Boston,284.0,Top 25
+244,1919,,BobbyVeach,Detroit,17.0,Top 25
+245,1920,,Babe Ruth,New York,150.0,Top 25
+246,1920,,George Sisler,St. Louis,0.407,Top 25
+247,1920,,Tris Speaker,Cleveland,50.0,Top 25
+248,1920,,George Sisler,St. Louis,257.0,Top 25
+249,1920,,Babe Ruth,New York,54.0,Top 25
+250,1920,,Babe Ruth,New York,0.532,Top 25
+251,1920,,Babe Ruth,New York,137.0,Top 25
+252,1920,,Babe Ruth,New York,158.0,Top 25
+253,1920,,Babe Ruth,New York,0.847,Top 25
+254,1920,,Sam Rice,Washington,63.0,Top 25
+255,1920,,George Sisler,St. Louis,399.0,Top 25
+256,1920,,Joe Jackson,Chicago,20.0,Top 25
+257,1921,,Babe Ruth,New York,145.0,Top 25
+258,1921,,Harry Heilmann,Detroit,0.394,Top 25
+259,1921,,Tris Speaker,Cleveland,52.0,Top 25
+260,1921,,Harry Heilmann,Detroit,237.0,Top 25
+261,1921,,Babe Ruth,New York,59.0,Top 25
+262,1921,,Babe Ruth,New York,0.512,Top 25
+263,1921,,Babe Ruth,New York,171.0,Top 25
+264,1921,,Babe Ruth,New York,177.0,Top 25
+265,1921,,Babe Ruth,New York,0.846,Top 25
+266,1921,,George Sisler,St. Louis,35.0,Top 25
+267,1921,,Babe Ruth,New York,457.0,Top 25
+268,1921,,Howie Shanks,Washington,18.0,Top 25
+269,1921,,George Sisler,St. Louis,18.0,Top 25
+270,1921,,Jack Tobin,St. Louis,18.0,Top 25
+271,1922,,Whitey Witt,New York,89.0,Top 25
+272,1922,,George Sisler,St. Louis,0.42,Top 25
+273,1922,,Tris Speaker,Cleveland,48.0,Top 25
+274,1922,,George Sisler,St. Louis,246.0,Top 25
+275,1922,,Ken Williams,St. Louis,39.0,Top 25
+276,1922,,Tris Speaker,Cleveland,0.474,Top 25
+277,1922,,Ken Williams,St. Louis,155.0,Top 25
+278,1922,,George Sisler,St. Louis,134.0,Top 25
+279,1922,,Babe Ruth,New York,0.672,Top 25
+280,1922,,George Sisler,St. Louis,51.0,Top 25
+281,1922,,Ken Williams,St. Louis,367.0,Top 25
+282,1922,,George Sisler,St. Louis,18.0,Top 25
+283,1923,,Babe Ruth,New York,170.0,Top 25
+284,1923,,Harry Heilmann,Detroit,0.403,Top 25
+285,1923,,Tris Speaker,Cleveland,59.0,Top 25
+286,1923,,Charlie Jamieson,Cleveland,222.0,Top 25
+287,1923,,Babe Ruth,New York,41.0,Top 25
+288,1923,,Babe Ruth,New York,0.545,Top 25
+289,1923,,Babe Ruth,New York,131.0,Top 25
+290,1923,,Babe Ruth,New York,151.0,Top 25
+291,1923,,Babe Ruth,New York,0.764,Top 25
+292,1923,,Eddie Collins,Chicago,48.0,Top 25
+293,1923,,Babe Ruth,New York,399.0,Top 25
+294,1923,,Goose Goslin,Washington,18.0,Top 25
+295,1924,,Babe Ruth,New York,142.0,Top 25
+296,1924,,Babe Ruth,New York,0.378,Top 25
+297,1924,,Harry Heilmann,Detroit,45.0,Top 25
+298,1924,,Joe Sewell,Cleveland,45.0,Top 25
+299,1924,,Sam Rice,Washington,216.0,Top 25
+300,1924,,Babe Ruth,New York,46.0,Top 25
+301,1924,,Babe Ruth,New York,0.513,Top 25
+302,1924,,Goose Goslin,Washington,129.0,Top 25
+303,1924,,Babe Ruth,New York,143.0,Top 25
+304,1924,,Babe Ruth,New York,0.739,Top 25
+305,1924,,Eddie Collins,Chicago,42.0,Top 25
+306,1924,,Babe Ruth,New York,391.0,Top 25
+307,1925,,Willie Kamm,Chicago,90.0,Top 25
+308,1925,,Johnny Mostil,Chicago,90.0,Top 25
+309,1925,,Harry Heilmann,Detroit,0.393,Top 25
+310,1925,,Marty McManus,St. Louis,44.0,Top 25
+311,1925,,Al Simmons,Philadelphia,253.0,Top 25
+312,1925,,Bob Meusel,New York,33.0,Top 25
+313,1925,,Tris Speaker,Cleveland,0.479,Top 25
+314,1925,,Bob Meusel,New York,138.0,Top 25
+315,1925,,Johnny Mostil,Chicago,135.0,Top 25
+316,1925,,Ken Williams,St. Louis,0.613,Top 25
+317,1925,,Johnny Mostil,Chicago,43.0,Top 25
+318,1925,,Al Simmons,Philadelphia,392.0,Top 25
+319,1926,,Babe Ruth,New York,144.0,Top 25
+320,1926,,Heinie Manush,Detroit,0.378,Top 25
+321,1926,,George Burns,Cleveland,64.0,Top 25
+322,1926,,Sam Rice,Washington,216.0,Top 25
+323,1926,,Babe Ruth,New York,47.0,Top 25
+324,1926,,Babe Ruth,New York,0.516,Top 25
+325,1926,,Babe Ruth,New York,146.0,Top 25
+326,1926,,Babe Ruth,New York,139.0,Top 25
+327,1926,,Babe Ruth,New York,0.737,Top 25
+328,1926,,Johnny Mostil,Chicago,35.0,Top 25
+329,1926,,Babe Ruth,New York,365.0,Top 25
+330,1927,,Babe Ruth,New York,137.0,Top 25
+331,1927,,Harry Heilmann,Detroit,0.398,Top 25
+332,1927,,Lou Gehrig,New York,52.0,Top 25
+333,1927,,Earle Combs,New York,231.0,Top 25
+334,1927,,Babe Ruth,New York,60.0,Top 25
+335,1927,,Babe Ruth,New York,0.486,Top 25
+336,1927,,Lou Gehrig,New York,175.0,Top 25
+337,1927,,Babe Ruth,New York,158.0,Top 25
+338,1927,,Babe Ruth,New York,0.772,Top 25
+339,1927,,George Sisler,St. Louis,27.0,Top 25
+340,1927,,Lou Gehrig,New York,447.0,Top 25
+341,1927,,Earle Combs,New York,23.0,Top 25
+342,1928,,Babe Ruth,New York,137.0,Top 25
+343,1928,,Goose Goslin,Washington,0.379,Top 25
+344,1928,,Lou Gehrig,New York,47.0,Top 25
+345,1928,,Henie Manush,St. Louis,47.0,Top 25
+346,1928,,Henie Manush,St. Louis,241.0,Top 25
+347,1928,,Babe Ruth,New York,54.0,Top 25
+348,1928,,Lou Gehrig,New York,0.467,Top 25
+349,1928,,Lou Gehrig,New York,142.0,Top 25
+350,1928,,Babe Ruth,New York,142.0,Top 25
+351,1928,,Babe Ruth,New York,163.0,Top 25
+352,1928,,Babe Ruth,New York,0.709,Top 25
+353,1928,,Buddy Myer,Boston,30.0,Top 25
+354,1928,,Babe Ruth,New York,380.0,Top 25
+355,1929,,Max Bishop,Philadelphia,128.0,Top 25
+356,1929,,Lew Fonseca,Cleveland,0.369,Top 25
+357,1929,,Charlie Gehringer,Detroit,45.0,Top 25
+358,1929,,Roy Johnson,Detroit,45.0,Top 25
+359,1929,,Henie Manush,St. Louis,45.0,Top 25
+360,1929,,Dale Alexander,Detroit,215.0,Top 25
+361,1929,,Charlie Gehringer,Detroit,215.0,Top 25
+362,1929,,Babe Ruth,New York,46.0,Top 25
+363,1929,,Jimmie Foxx,Philadelphia,0.463,Top 25
+364,1929,,Al Simmons,Philadelphia,157.0,Top 25
+365,1929,,Charlie Gehringer,Detroit,131.0,Top 25
+366,1929,,Babe Ruth,New York,0.697,Top 25
+367,1929,,Charlie Gehringer,Detroit,27.0,Top 25
+368,1929,,Al Simmons,Philadelphia,373.0,Top 25
+369,1930,,Babe Ruth,New York,136.0,Top 25
+370,1930,,Al Simmons,Philadelphia,0.381,Top 25
+371,1930,,Johnny Hodapp,Cleveland,51.0,Top 25
+372,1930,,Johnny Hodapp,Cleveland,225.0,Top 25
+373,1930,,Babe Ruth,New York,49.0,Top 25
+374,1930,,Babe Ruth,New York,0.493,Top 25
+375,1930,,Lou Gehrig,New York,174.0,Top 25
+376,1930,,Al Simmons,Philadelphia,152.0,Top 25
+377,1930,,Babe Ruth,New York,0.732,Top 25
+378,1930,,Marty McManus,Detroit,23.0,Top 25
+379,1930,,Lou Gehrig,New York,419.0,Top 25
+380,1931,,Babe Ruth,New York,128.0,Top 25
+381,1931,,Al Simmons,Philadelphia,0.39,Top 25
+382,1931,,Earl Webb,Boston,67.0,Top 25
+383,1931,,Lou Gehrig,New York,211.0,Top 25
+384,1931,,Lou Gehrig,New York,46.0,Top 25
+385,1931,,Babe Ruth,New York,46.0,Top 25
+386,1931,,Babe Ruth,New York,0.495,Top 25
+387,1931,,Lou Gehrig,New York,184.0,Top 25
+388,1931,,Lou Gehrig,New York,163.0,Top 25
+389,1931,,Babe Ruth,New York,0.7,Top 25
+390,1931,,Ben Chapman,New York,61.0,Top 25
+391,1931,,Lou Gehrig,New York,410.0,Top 25
+392,1932,,Babe Ruth,New York,130.0,Top 25
+393,1932,,Dale Alexander *,Detroit,0.367,Top 25
+394,1932,,Dale Alexander *,Boston,0.367,Top 25
+395,1932,,* NOT on Top 25 List — Had Fewer Than 400 ABs,Boston,0.367,Top 25
+396,1932,,Eric McNair,Philadelphia,47.0,Top 25
+397,1932,,Al Simmons,Philadelphia,216.0,Top 25
+398,1932,,Jimmie Foxx,Philadelphia,58.0,Top 25
+399,1932,,Babe Ruth,New York,0.489,Top 25
+400,1932,,Jimmie Foxx,Philadelphia,169.0,Top 25
+401,1932,,Jimmie Foxx,Philadelphia,151.0,Top 25
+402,1932,,Jimmie Foxx,Philadelphia,0.749,Top 25
+403,1932,,Ben Chapman,New York,38.0,Top 25
+404,1932,,Jimmie Foxx,Philadelphia,438.0,Top 25
+405,1932,,Joe Cronin,Washington,18.0,Top 25
+406,1933,,Babe Ruth,New York,114.0,Top 25
+407,1933,,Jimmie Foxx,Philadelphia,0.356,Top 25
+408,1933,,Joe Cronin,Washington,45.0,Top 25
+409,1933,,Heinie Manush,Washington,221.0,Top 25
+410,1933,,Jimmie Foxx,Philadelphia,48.0,Top 25
+411,1933,,Mickey Cochrane,Philadelphia,0.459,Top 25
+412,1933,,Jimmie Foxx,Philadelphia,163.0,Top 25
+413,1933,,Lou Gehrig,New York,138.0,Top 25
+414,1933,,Jimmie Foxx,Philadelphia,0.703,Top 25
+415,1933,,Ben Chapman,New York,27.0,Top 25
+416,1933,,Jimmie Foxx,Philadelphia,403.0,Top 25
+417,1934,,Jimmie Foxx,Philadelphia,111.0,Top 25
+418,1934,,Lou Gehrig,New York,0.363,Top 25
+419,1934,,Hank Greenberg,Detroit,63.0,Top 25
+420,1934,,Charlie Gehringer,Detroit,214.0,Top 25
+421,1934,,Lou Gehrig,New York,44.0,Top 25
+422,1934,,Lou Gehrig,New York,0.465,Top 25
+423,1934,,Lou Gehrig,New York,165.0,Top 25
+424,1934,,Charlie Gehringer,Detroit,134.0,Top 25
+425,1934,,Lou Gehrig,New York,0.706,Top 25
+426,1934,,Billy Werber,Boston,40.0,Top 25
+427,1934,,Lou Gehrig,New York,409.0,Top 25
+428,1935,,Lou Gehrig,New York,132.0,Top 25
+429,1935,,Buddy Myer,Washington,0.349,Top 25
+430,1935,,Joe Vosmik,Cleveland,47.0,Top 25
+431,1935,,Joe Vosmik,Cleveland,216.0,Top 25
+432,1935,,Jimmie Foxx,Philadelphia,36.0,Top 25
+433,1935,,Hank Greenberg,Detroit,36.0,Top 25
+434,1935,,Lou Gehrig,New York,0.466,Top 25
+435,1935,,Hank Greenberg,Detroit,170.0,Top 25
+436,1935,,Lou Gehrig,New York,125.0,Top 25
+437,1935,,Jimmie Foxx,Philadelphia,0.636,Top 25
+438,1935,,Billy Werber,Boston,29.0,Top 25
+439,1935,,Hank Greenberg,Detroit,389.0,Top 25
+440,1935,,Joe Vosmik,Cleveland,20.0,Top 25
+441,1936,,Lou Gehrig,New York,130.0,Top 25
+442,1936,,Luke Appling,Chicago,0.388,Top 25
+443,1936,,Charlie Gehringer,Detroit,60.0,Top 25
+444,1936,,Earl Averill,Cleveland,232.0,Top 25
+445,1936,,Lou Gehrig,New York,49.0,Top 25
+446,1936,,Lou Gehrig,New York,0.478,Top 25
+447,1936,,Hal Trosky,Cleveland,162.0,Top 25
+448,1936,,Lou Gehrig,New York,167.0,Top 25
+449,1936,,Lou Gehrig,New York,0.696,Top 25
+450,1936,,Lyn Lary,St. Louis,37.0,Top 25
+451,1936,,Hal Trosky,Cleveland,405.0,Top 25
+452,1936,,Earl Averill,Cleveland,18.0,Top 25
+453,1936,,Joe DiMaggio,New York,18.0,Top 25
+454,1936,,Red Rolfe,New York,18.0,Top 25
+455,1937,,Lou Gehrig,New York,127.0,Top 25
+456,1937,,Charlie Gehringer,Detroit,0.371,Top 25
+457,1937,,Beau Bell,St. Louis,51.0,Top 25
+458,1937,,Beau Bell,St. Louis,218.0,Top 25
+459,1937,,Joe DiMaggio,New York,46.0,Top 25
+460,1937,,Lou Gehrig,New York,0.473,Top 25
+461,1937,,Hank Greenberg,Detroit,183.0,Top 25
+462,1937,,Joe DiMaggio,New York,151.0,Top 25
+463,1937,,Joe DiMaggio,New York,0.673,Top 25
+464,1937,,Ben Chapman,Washington,35.0,Top 25
+465,1937,,Ben Chapman,Boston,35.0,Top 25
+466,1937,,Billy Werber,Philadelphia,35.0,Top 25
+467,1937,,Joe DiMaggio,New York,418.0,Top 25
+468,1937,,Mike Kreevich,Chicago,16.0,Top 25
+469,1938,,Jimmie Foxx,Boston,119.0,Top 25
+470,1938,,Hank Greenberg,Detroit,119.0,Top 25
+471,1938,,Jimmie Foxx,Boston,0.349,Top 25
+472,1938,,Joe Cronin,Boston,51.0,Top 25
+473,1938,,Joe Vosmik,Boston,201.0,Top 25
+474,1938,,Hank Greenberg,Detroit,58.0,Top 25
+475,1938,,Jimmie Foxx,Boston,0.462,Top 25
+476,1938,,Jimmie Foxx,Boston,175.0,Top 25
+477,1938,,Hank Greenberg,Detroit,144.0,Top 25
+478,1938,,Jimmie Foxx,Boston,0.704,Top 25
+479,1938,,Frankie Crosetti,New York,27.0,Top 25
+480,1938,,Jimmie Foxx,Boston,398.0,Top 25
+481,1939,,Harlond Clift,St. Louis,111.0,Top 25
+482,1939,,Joe DiMaggio,New York,0.381,Top 25
+483,1939,,Red Rolfe,New York,46.0,Top 25
+484,1939,,Red Rolfe,New York,213.0,Top 25
+485,1939,,Jimmie Foxx,Boston,35.0,Top 25
+486,1939,,Jimmie Foxx,Boston,0.464,Top 25
+487,1939,,Ted Williams,Boston,145.0,Top 25
+488,1939,,Red Rolfe,New York,139.0,Top 25
+489,1939,,Jimmie Foxx,Boston,0.694,Top 25
+490,1939,,George Case,Washington,51.0,Top 25
+491,1939,,Ted Williams,Boston,344.0,Top 25
+492,1940,,Charlie Keller,New York,106.0,Top 25
+493,1940,,Joe DiMaggio,New York,0.352,Top 25
+494,1940,,Hank Greenberg,Detroit,50.0,Top 25
+495,1940,,Doc Cramer,Boston,200.0,Top 25
+496,1940,,Barney McCosky,Detroit,200.0,Top 25
+497,1940,,Rip Radcliff,St. Louis,200.0,Top 25
+498,1940,,Hank Greenberg,Detroit,41.0,Top 25
+499,1940,,Ted Williams,Boston,0.442,Top 25
+500,1940,,Hank Greenberg,Detroit,150.0,Top 25
+501,1940,,Ted Williams,Boston,134.0,Top 25
+502,1940,,Hank Greenberg,Detroit,0.67,Top 25
+503,1940,,George Case,Washington,35.0,Top 25
+504,1940,,Hank Greenberg,Detroit,384.0,Top 25
+505,1941,,Ted Williams,Boston,147.0,Top 25
+506,1941,,Ted Williams,Boston,0.406,Top 25
+507,1941,,Lou Boudreau,Cleveland,45.0,Top 25
+508,1941,,Cecil Travis,Washington,218.0,Top 25
+509,1941,,Ted Williams,Boston,37.0,Top 25
+510,1941,,Ted Williams,Boston,0.551,Top 25
+511,1941,,Joe DiMaggio,New York,125.0,Top 25
+512,1941,,Ted Williams,Boston,135.0,Top 25
+513,1941,,Ted Williams,Boston,0.735,Top 25
+514,1941,,George Case,Washington,33.0,Top 25
+515,1941,,Joe DiMaggio,New York,348.0,Top 25
+516,1941,,Jeff Heath,Cleveland,20.0,Top 25
+517,1942,,Ted Williams,Boston,145.0,Top 25
+518,1942,,Ted Williams,Boston,0.356,Top 25
+519,1942,,Don Kolloway,Chicago,40.0,Top 25
+520,1942,,Johnny Pesky,Boston,205.0,Top 25
+521,1942,,Ted Williams,Boston,36.0,Top 25
+522,1942,,Ted Williams,Boston,0.499,Top 25
+523,1942,,Ted Williams,Boston,137.0,Top 25
+524,1942,,Ted Williams,Boston,141.0,Top 25
+525,1942,,Ted Williams,Boston,0.648,Top 25
+526,1942,,George Case,Washington,44.0,Top 25
+527,1942,,Ted Williams,Boston,338.0,Top 25
+528,1942,,Stan Spence,Washington,15.0,Top 25
+529,1943,,Charlie Keller,New York,106.0,Top 25
+530,1943,,Luke Appling,Chicago,0.328,Top 25
+531,1943,,Dick Wakefield,Detroit,38.0,Top 25
+532,1943,,Dick Wakefield,Detroit,200.0,Top 25
+533,1943,,Rudy York,Detroit,34.0,Top 25
+534,1943,,Luke Appling,Chicago,0.419,Top 25
+535,1943,,Rudy York,Detroit,118.0,Top 25
+536,1943,,George Case,Washington,102.0,Top 25
+537,1943,,Rudy York,Detroit,0.527,Top 25
+538,1943,,George Case,Washington,61.0,Top 25
+539,1943,,Rudy York,Detroit,301.0,Top 25
+540,1943,,Johnny Lindell,New York,12.0,Top 25
+541,1944,,Nick Etten,New York,97.0,Top 25
+542,1944,,Lou Boudreau,Cleveland,0.327,Top 25
+543,1944,,Lou Boudreau,Cleveland,45.0,Top 25
+544,1944,,Snuffy Stirnweiss,New York,205.0,Top 25
+545,1944,,Nick Etten,New York,22.0,Top 25
+546,1944,,Bob Johnson,Boston,0.431,Top 25
+547,1944,,Vern Stephens,St. Louis,109.0,Top 25
+548,1944,,Snuffy Stirnweiss,New York,125.0,Top 25
+549,1944,,Bobby Doerr,Boston,0.528,Top 25
+550,1944,,Snuffy Stirnweiss,New York,55.0,Top 25
+551,1944,,Johnny Lindell,New York,297.0,Top 25
+552,1944,,Johnny Lindell,New York,16.0,Top 25
+553,1944,,Snuffy Stirnweiss,New York,16.0,Top 25
+554,1945,,Roy Cullenbine,Cleveland,113.0,Top 25
+555,1945,,Roy Cullenbine,Detroit,113.0,Top 25
+556,1945,,Snuffy Stirnweiss,New York,0.309,Top 25
+557,1945,,Wally Moses,Chicago,35.0,Top 25
+558,1945,,Snuffy Stirnweiss,New York,195.0,Top 25
+559,1945,,Vern Stephens,St. Louis,24.0,Top 25
+560,1945,,Eddie Lake,Boston,0.412,Top 25
+561,1945,,Nick Etten,New York,111.0,Top 25
+562,1945,,Snuffy Stirnweiss,New York,107.0,Top 25
+563,1945,,Snuffy Stirnweiss,New York,0.476,Top 25
+564,1945,,Snuffy Stirnweiss,New York,33.0,Top 25
+565,1945,,Snuffy Stirnweiss,New York,301.0,Top 25
+566,1945,,Snuffy Stirnweiss,New York,22.0,Top 25
+567,1946,,Ted Williams,Boston,156.0,Top 25
+568,1946,,Mickey Vernon,Washington,0.353,Top 25
+569,1946,,Mickey Vernon,Washington,51.0,Top 25
+570,1946,,Johnny Pesky,Boston,208.0,Top 25
+571,1946,,Hank Greenberg,Detroit,44.0,Top 25
+572,1946,,Ted Williams,Boston,0.497,Top 25
+573,1946,,Hank Greenberg,Detroit,127.0,Top 25
+574,1946,,Ted Williams,Boston,142.0,Top 25
+575,1946,,Ted Williams,Boston,0.667,Top 25
+576,1946,,George Case,Cleveland,28.0,Top 25
+577,1946,,Ted Williams,Boston,343.0,Top 25
+578,1947,,Ted Williams,Boston,162.0,Top 25
+579,1947,,Ted Williams,Boston,0.343,Top 25
+580,1947,,Lou Boudreau,Cleveland,45.0,Top 25
+581,1947,,Johnny Pesky,Boston,207.0,Top 25
+582,1947,,Ted Williams,Boston,32.0,Top 25
+583,1947,,Ted Williams,Boston,0.499,Top 25
+584,1947,,Ted Williams,Boston,114.0,Top 25
+585,1947,,Ted Williams,Boston,125.0,Top 25
+586,1947,,Ted Williams,Boston,0.634,Top 25
+587,1947,,Bob Dillinger,St. Louis,34.0,Top 25
+588,1947,,Ted Williams,Boston,335.0,Top 25
+589,1948,,Ted Williams,Boston,126.0,Top 25
+590,1948,,Ted Williams,Boston,0.369,Top 25
+591,1948,,Ted Williams,Boston,44.0,Top 25
+592,1948,,Bob Dillinger,St. Louis,207.0,Top 25
+593,1948,,Joe DiMaggio,New York,39.0,Top 25
+594,1948,,Ted Williams,Boston,0.497,Top 25
+595,1948,,Joe DiMaggio,New York,155.0,Top 25
+596,1948,,Tommy Henrich,New York,138.0,Top 25
+597,1948,,Ted Williams,Boston,0.615,Top 25
+598,1948,,Bob Dillinger,St. Louis,28.0,Top 25
+599,1948,,Joe DiMaggio,New York,355.0,Top 25
+600,1949,,Ted Williams,Boston,162.0,Top 25
+601,1949,,George Kell,Detroit,0.343,Top 25
+602,1949,,Ted Williams,Boston,39.0,Top 25
+603,1949,,Dale Mitchell,Cleveland,203.0,Top 25
+604,1949,,Ted Williams,Boston,43.0,Top 25
+605,1949,,Ted Williams,Boston,0.49,Top 25
+606,1949,,Vern Stephens,Boston,159.0,Top 25
+607,1949,,Ted Williams,Boston,159.0,Top 25
+608,1949,,Ted Williams,Boston,150.0,Top 25
+609,1949,,Ted Williams,Boston,0.65,Top 25
+610,1949,,Bob Dillinger,St. Louis,20.0,Top 25
+611,1949,,Ted Williams,Boston,368.0,Top 25
+612,1950,,Eddie Yost,Washington,141.0,Top 25
+613,1950,,Billy Goodman,Boston,0.354,Top 25
+614,1950,,George Kell,Detroit,56.0,Top 25
+615,1950,,George Kell,Detroit,218.0,Top 25
+616,1950,,Al Rosen,Cleveland,37.0,Top 25
+617,1950,,Larry Doby,Cleveland,0.442,Top 25
+618,1950,,Walt Dropo,Boston,144.0,Top 25
+619,1950,,Vern Stephens,Boston,144.0,Top 25
+620,1950,,Dom DiMaggio,Boston,131.0,Top 25
+621,1950,,Joe DiMaggio,New York,0.585,Top 25
+622,1950,,Dom DiMaggio,Boston,15.0,Top 25
+623,1950,,Walt Dropo,Boston,326.0,Top 25
+624,1950,,Dom DiMaggio,Boston,11.0,Top 25
+625,1950,,Bobby Doerr,Boston,11.0,Top 25
+626,1950,,Hoot Evers,Detroit,11.0,Top 25
+627,1951,,Ted Williams,Boston,144.0,Top 25
+628,1951,,Ferris Fain,Philadelphia,0.344,Top 25
+629,1951,,George Kell,Detroit,36.0,Top 25
+630,1951,,Sam Mele,Washington,36.0,Top 25
+631,1951,,Eddie Yost,Washington,36.0,Top 25
+632,1951,,George Kell,Detroit,191.0,Top 25
+633,1951,,Gus Zernial,Chicago,33.0,Top 25
+634,1951,,Gus Zernial,Philadelphia,33.0,Top 25
+635,1951,,Ted Williams,Boston,0.464,Top 25
+636,1951,,Gus Zernial,Chicago,129.0,Top 25
+637,1951,,Gus Zernial,Philadelphia,129.0,Top 25
+638,1951,,Dom DiMaggio,Boston,113.0,Top 25
+639,1951,,Ted Williams,Boston,0.556,Top 25
+640,1951,,Minnie Minoso,Cleveland,31.0,Top 25
+641,1951,,Minnie Minoso,Chicago,31.0,Top 25
+642,1951,,Ted Williams,Boston,295.0,Top 25
+643,1951,,Minnie Minoso,Cleveland,14.0,Top 25
+644,1951,,Minnie Minoso,Chicago,14.0,Top 25
+645,1952,,Eddie Yost,Washington,129.0,Top 25
+646,1952,,Ferris Fain,Philadelphia,0.327,Top 25
+647,1952,,Ferris Fain,Philadelphia,43.0,Top 25
+648,1952,,Nellie Fox,Chicago,192.0,Top 25
+649,1952,,Larry Doby,Cleveland,32.0,Top 25
+650,1952,,Ferris Fain,Philadelphia,0.438,Top 25
+651,1952,,Al Rosen,Cleveland,105.0,Top 25
+652,1952,,Larry Doby,Cleveland,104.0,Top 25
+653,1952,,Larry Doby,Cleveland,0.541,Top 25
+654,1952,,Minnie Minoso,Chicago,22.0,Top 25
+655,1952,,Al Rosen,Cleveland,297.0,Top 25
+656,1952,,Bobby Avila,Cleveland,11.0,Top 25
+657,1953,,Eddie Yost,Washington,123.0,Top 25
+658,1953,,Mickey Vernon,Washington,0.337,Top 25
+659,1953,,Mickey Vernon,Washington,43.0,Top 25
+660,1953,,Harvey Kuenn,Detroit,209.0,Top 25
+661,1953,,Al Rosen,Cleveland,43.0,Top 25
+662,1953,,Gene Woodling,New York,0.429,Top 25
+663,1953,,Al Rosen,Cleveland,145.0,Top 25
+664,1953,,Al Rosen,Cleveland,115.0,Top 25
+665,1953,,Al Rosen,Cleveland,0.613,Top 25
+666,1953,,Minnie Minoso,Chicago,25.0,Top 25
+667,1953,,Al Rosen,Cleveland,367.0,Top 25
+668,1953,,Jim Rivera,Chicago,16.0,Top 25
+669,1954,,Ted Williams,Boston,136.0,Top 25
+670,1954,,Bobby Avila,Cleveland,0.341,Top 25
+671,1954,,Mickey Vernon,Washington,33.0,Top 25
+672,1954,,Nellie Fox,Chicago,201.0,Top 25
+673,1954,,Harvey Kuenn,Detroit,201.0,Top 25
+674,1954,,Larry Doby,Cleveland,32.0,Top 25
+675,1954,,Ted Williams,Boston,0.516,Top 25
+676,1954,,Larry Doby,Cleveland,126.0,Top 25
+677,1954,,Mickey Mantle,New York,129.0,Top 25
+678,1954,,Minnie Minoso,Chicago,0.535,Top 25
+679,1954,,Jackie Jensen,Boston,22.0,Top 25
+680,1954,,Minnie Minoso,Chicago,304.0,Top 25
+681,1954,,Minnie Minoso,Chicago,18.0,Top 25
+682,1955,,Mickey Mantle,New York,113.0,Top 25
+683,1955,,Al Kaline,Detroit,0.34,Top 25
+684,1955,,Harvey Kuenn,Detroit,38.0,Top 25
+685,1955,,Al Kaline,Detroit,200.0,Top 25
+686,1955,,Mickey Mantle,New York,37.0,Top 25
+687,1955,,Mickey Mantle,New York,0.433,Top 25
+688,1955,,Ray Boone,Detroit,116.0,Top 25
+689,1955,,Jackie Jensen,Boston,116.0,Top 25
+690,1955,,Al Smith,Cleveland,123.0,Top 25
+691,1955,,Mickey Mantle,New York,0.611,Top 25
+692,1955,,Jim Rivera,Chicago,25.0,Top 25
+693,1955,,Al Kaline,Detroit,321.0,Top 25
+694,1955,,Mickey Mantle,New York,11.0,Top 25
+695,1956,,Eddie Yost,Washington,151.0,Top 25
+696,1956,,Mickey Mantle,New York,0.353,Top 25
+697,1956,,Jim Piersall,Boston,40.0,Top 25
+698,1956,,Harvey Kuenn,Detroit,196.0,Top 25
+699,1956,,Mickey Mantle,New York,52.0,Top 25
+700,1956,,Ted Williams,Boston,0.479,Top 25
+701,1956,,Mickey Mantle,New York,130.0,Top 25
+702,1956,,Mickey Mantle,New York,132.0,Top 25
+703,1956,,Mickey Mantle,New York,0.705,Top 25
+704,1956,,Luis Aparacio,Chicago,21.0,Top 25
+705,1956,,Mickey Mantle,New York,376.0,Top 25
+706,1956,,Jackie Jensen,Boston,11.0,Top 25
+707,1956,,Jim Lemon,Washington,11.0,Top 25
+708,1956,,Minnie Minoso,Chicago,11.0,Top 25
+709,1956,,Harry Simpson,Kansas City,11.0,Top 25
+710,1957,,Mickey Mantle,New York,146.0,Top 25
+711,1957,,Ted Williams,Boston,0.388,Top 25
+712,1957,,Billy Gardner,Baltimore,36.0,Top 25
+713,1957,,Minnie Minoso,Chicago,36.0,Top 25
+714,1957,,Nellie Fox,Chicago,196.0,Top 25
+715,1957,,Roy Sievers,Washington,42.0,Top 25
+716,1957,,Ted Williams,Boston,0.528,Top 25
+717,1957,,Roy Sievers,Washington,114.0,Top 25
+718,1957,,Mickey Mantle,New York,121.0,Top 25
+719,1957,,Ted Williams,Boston,0.731,Top 25
+720,1957,,Luis Aparicio,Chicago,28.0,Top 25
+721,1957,,Roy Sievers,Washington,331.0,Top 25
+722,1957,,Hank Bauer,New York,9.0,Top 25
+723,1957,,Gil McDougald,New York,9.0,Top 25
+724,1957,,Harry Simpson,Kansas City,9.0,Top 25
+725,1957,,Harry Simpson,New York,9.0,Top 25
+726,1958,,Mickey Mantle,New York,129.0,Top 25
+727,1958,,Ted Williams,Boston,0.328,Top 25
+728,1958,,Harvey Kuenn,Detroit,39.0,Top 25
+729,1958,,Nellie Fox,Chicago,187.0,Top 25
+730,1958,,Mickey Mantle,New York,42.0,Top 25
+731,1958,,Ted Williams,Boston,0.462,Top 25
+732,1958,,Jackie Jensen,Boston,122.0,Top 25
+733,1958,,Mickey Mantle,New York,127.0,Top 25
+734,1958,,Rocky Colavito,Cleveland,0.62,Top 25
+735,1958,,Luis Aparacio,Chicago,29.0,Top 25
+736,1958,,Mickey Mantle,New York,307.0,Top 25
+737,1958,,Vic Power,Kansas City,10.0,Top 25
+738,1958,,Vic Power,Cleveland,10.0,Top 25
+739,1959,,Eddie Yost,Detroit,135.0,Top 25
+740,1959,,Harvey Kuenn,Detroit,0.353,Top 25
+741,1959,,Harvey Kuenn,Detroit,42.0,Top 25
+742,1959,,Harvey Kuenn,Detroit,198.0,Top 25
+743,1959,,Rocky Colavito,Cleveland,42.0,Top 25
+744,1959,,Harmon Killebrew,Washington,42.0,Top 25
+745,1959,,Eddie Yost,Detroit,0.437,Top 25
+746,1959,,Jackie Jensen,Boston,112.0,Top 25
+747,1959,,Eddie Yost,Detroit,115.0,Top 25
+748,1959,,Al Kaline,Detroit,0.53,Top 25
+749,1959,,Luis Aparacio,Chicago,56.0,Top 25
+750,1959,,Rocky Colavito,Cleveland,301.0,Top 25
+751,1959,,Bob Allison,Washington,9.0,Top 25
+752,1960,,Eddie Yost,Detroit,125.0,Top 25
+753,1960,,Pete Runnels,Boston,0.32,Top 25
+754,1960,,Tito Francona,Cleveland,36.0,Top 25
+755,1960,,Minnie Minoso,Chicago,184.0,Top 25
+756,1960,,Mickey Mantle,New York,40.0,Top 25
+757,1960,,Eddie Yost,Detroit,0.416,Top 25
+758,1960,,Roger Maris,New York,112.0,Top 25
+759,1960,,Mickey Mantle,New York,119.0,Top 25
+760,1960,,Roger Maris,New York,0.581,Top 25
+761,1960,,Luis Aparacio,Chicago,51.0,Top 25
+762,1960,,Mickey Mantle,New York,294.0,Top 25
+763,1960,,Nellie Fox,Chicago,10.0,Top 25
+764,1961,,Mickey Mantle,New York,126.0,Top 25
+765,1961,,Norm Cash,Detroit,0.361,Top 25
+766,1961,,Al Kaline,Detroit,41.0,Top 25
+767,1961,,Norm Cash,Detroit,193.0,Top 25
+768,1961,,Roger Maris,New York,61.0,Top 25
+769,1961,,Norm Cash,Detroit,0.488,Top 25
+770,1961,,Jim Gentile,Baltimore,141.0,Top 25
+771,1961,,Roger Maris,New York,141.0,Top 25
+772,1961,,Roger Maris,New York,132.0,Top 25
+773,1961,,Mickey Mantle,New York,0.687,Top 25
+774,1961,,Luis Aparacio,Chicago,53.0,Top 25
+775,1961,,Roger Maris,New York,366.0,Top 25
+776,1961,,Jake Wood,Detroit,14.0,Top 25
+777,1962,,Mickey Mantle,New York,122.0,Top 25
+778,1962,,Pete Runnels,Boston,0.326,Top 25
+779,1962,,Floyd Robinson,Chicago,45.0,Top 25
+780,1962,,Bobby Richardson,New York,209.0,Top 25
+781,1962,,Harmon Killebrew,Minnesota,48.0,Top 25
+782,1962,,Mickey Mantle,New York,0.488,Top 25
+783,1962,,Harmon Killebrew,MInnesota,126.0,Top 25
+784,1962,,Albie Pearson,Los Angeles,115.0,Top 25
+785,1962,,Mickey Mantle,New York,0.605,Top 25
+786,1962,,Luis Aparicio,Chicago,31.0,Top 25
+787,1962,,Rocky Colavito,Detroit,309.0,Top 25
+788,1962,,Gino Cimoli,Kansas City,15.0,Top 25
+789,1963,,Carl Yastrzemski,Boston,95.0,Top 25
+790,1963,,Carl Yastrzemski,Boston,0.321,Top 25
+791,1963,,Carl Yastrzemski,Boston,40.0,Top 25
+792,1963,,Carl Yastrzemski,Boston,183.0,Top 25
+793,1963,,Harmon Killebrew,Minnesota,45.0,Top 25
+794,1963,,Carl Yastrzemski,Boston,0.419,Top 25
+795,1963,,Dick Stuart,Boston,118.0,Top 25
+796,1963,,Bob Allison,Minnesota,99.0,Top 25
+797,1963,,Harmon Killebrew,Minnesota,0.555,Top 25
+798,1963,,Luis Aparicio,Baltimore,40.0,Top 25
+799,1963,,Dick Stuart,Boston,319.0,Top 25
+800,1963,,Zoilo Versalles,Minnesota,13.0,Top 25
+801,1964,,Norm Siebern,Baltimore,106.0,Top 25
+802,1964,,Tony Oliva,Minnesota,0.323,Top 25
+803,1964,,Tony Oliva,Minnesota,43.0,Top 25
+804,1964,,Tony Oliva,Minnesota,217.0,Top 25
+805,1964,,Harmon Killebrew,Minnesota,49.0,Top 25
+806,1964,,Mickey Mantle,New York,0.426,Top 25
+807,1964,,Brooks Robinson,Baltimore,118.0,Top 25
+808,1964,,Tony Oliva,Minnesota,109.0,Top 25
+809,1964,,Boog Powell,Baltimore,0.606,Top 25
+810,1964,,Luis Aparicio,Baltimore,57.0,Top 25
+811,1964,,Tony Oliva,Minnesota,374.0,Top 25
+812,1964,,Rich Rollins,Minnesota,10.0,Top 25
+813,1964,,Zoilo Versalles,Minnesota,10.0,Top 25
+814,1965,,Rocky Colavito,Cleveland,93.0,Top 25
+815,1965,,Tony Oliva,Minnesota,0.321,Top 25
+816,1965,,Zoilo Versalles,Minnesota,45.0,Top 25
+817,1965,,Carl Yastrzemski,Boston,45.0,Top 25
+818,1965,,Tony Oliva,Minnesota,185.0,Top 25
+819,1965,,Tony Conigliaro,Boston,32.0,Top 25
+820,1965,,Carl Yastrzemski,Boston,0.398,Top 25
+821,1965,,Rocky Colavito,Cleveland,108.0,Top 25
+822,1965,,Zoilo Versalles,Minnesota,126.0,Top 25
+823,1965,,Carl Yastrzemski,Boston,0.536,Top 25
+824,1965,,Bert Campaneris,Kansas City,51.0,Top 25
+825,1965,,Zoilo Versalles,Minnesota,308.0,Top 25
+826,1965,,Bert Campaneris,Kansas City,12.0,Top 25
+827,1965,,Zoilo Versalles,Minnesota,12.0,Top 25
+828,1966,,Harmon Killebrew,Minnesota,103.0,Top 25
+829,1966,,Frank Robinson,Baltimore,0.316,Top 25
+830,1966,,Carl Yastrzemski,Boston,39.0,Top 25
+831,1966,,Tony Oliva,Minnesota,191.0,Top 25
+832,1966,,Frank Robinson,Baltimore,49.0,Top 25
+833,1966,,Frank Robinson,Baltimore,0.415,Top 25
+834,1966,,Frank Robinson,Baltimore,122.0,Top 25
+835,1966,,Frank Robinson,Baltimore,122.0,Top 25
+836,1966,,Frank Robinson,Baltimore,0.637,Top 25
+837,1966,,Bert Campaneris,Kansas City,52.0,Top 25
+838,1966,,Frank Robinson,Baltimore,367.0,Top 25
+839,1966,,Bobby Knoop,California,11.0,Top 25
+840,1967,,Harmon Killebrew,Minnesota,131.0,Top 25
+841,1967,,Carl Yastrzemski,Boston,0.326,Top 25
+842,1967,,Tony Oliva,Minnesota,34.0,Top 25
+843,1967,,Carl Yastrzemski,Boston,189.0,Top 25
+844,1967,,Harmon Killebrew,Minnesota,44.0,Top 25
+845,1967,,Carl Yastrzemski,Boston,44.0,Top 25
+846,1967,,Carl Yastrzemski,Boston,0.421,Top 25
+847,1967,,Carl Yastrzemski,Boston,121.0,Top 25
+848,1967,,Carl Yastrzemski,Boston,112.0,Top 25
+849,1967,,Carl Yastrzemski,Boston,0.622,Top 25
+850,1967,,Bert Campaneris,Kansas City,55.0,Top 25
+851,1967,,Carl Yastrzemski,Boston,360.0,Top 25
+852,1967,,Paul Blair,Baltimore,12.0,Top 25
+853,1968,,Carl Yastrzemski,Boston,119.0,Top 25
+854,1968,,Carl Yastrzemski,Boston,0.301,Top 25
+855,1968,,Reggie Smith,Boston,37.0,Top 25
+856,1968,,Bert Campaneris,Oakland,177.0,Top 25
+857,1968,,Frank Howard,Washington,44.0,Top 25
+858,1968,,Carl Yastrzemski,Boston,0.429,Top 25
+859,1968,,Ken Harrelson,Boston,109.0,Top 25
+860,1968,,Dick McAuliffe,Detroit,95.0,Top 25
+861,1968,,Frank Howard,Washington,0.552,Top 25
+862,1968,,Bert Campaneris,Oakland,62.0,Top 25
+863,1968,,Frank Howard,Washington,330.0,Top 25
+864,1968,,Jim Fregosi,California,13.0,Top 25
+865,1969,,Harmon Killebrew,Minnesota,145.0,Top 25
+866,1969,,Rod Carew,Minnesota,0.332,Top 25
+867,1969,,Tony Oliva,Minnesota,39.0,Top 25
+868,1969,,Tony Oliva,Minnesota,197.0,Top 25
+869,1969,,Harmon Killebrew,Minnesota,49.0,Top 25
+870,1969,,Harmon Killebrew,Minnesota,0.43,Top 25
+871,1969,,Harmon Killebrew,Minnesota,140.0,Top 25
+872,1969,,Reggie Jackson,Oakland,123.0,Top 25
+873,1969,,Reggie Jackson,Oakland,0.608,Top 25
+874,1969,,Tommy Harper,Seattle,73.0,Top 25
+875,1969,,Frank Howard,Washington,340.0,Top 25
+876,1969,,Del Unser,Washington,8.0,Top 25
+877,1970,,Frank Howard,Washington,132.0,Top 25
+878,1970,,Alex Johnson,California,0.329,Top 25
+879,1970,,Tony Oliva,Minnesota,36.0,Top 25
+880,1970,,Amos Otis,Kansas City,36.0,Top 25
+881,1970,,Cesar Tovar,Minnesota,36.0,Top 25
+882,1970,,Tony Oliva,Minnesota,204.0,Top 25
+883,1970,,Frank Howard,Washington,44.0,Top 25
+884,1970,,Carl Yastrzemski,Boston,0.453,Top 25
+885,1970,,Frank Howard,Washington,126.0,Top 25
+886,1970,,Carl Yastrzemski,Boston,125.0,Top 25
+887,1970,,Carl Yastrzemski,Boston,0.592,Top 25
+888,1970,,Bert Campaneris,Oakland,42.0,Top 25
+889,1970,,Carl Yastrzemski,Boston,335.0,Top 25
+890,1970,,Cesar Tovar,Minnesota,13.0,Top 25
+891,1971,,Harmon Killebrew,Minnesota,114.0,Top 25
+892,1971,,Tony Oliva,Minnesota,0.337,Top 25
+893,1971,,Reggie Smith,Boston,33.0,Top 25
+894,1971,,Cesar Tovar,Minnesota,204.0,Top 25
+895,1971,,Bill Melton,Chicago,33.0,Top 25
+896,1971,,Bobby Murcer,New York,0.429,Top 25
+897,1971,,Harmon Killebrew,Minnesota,119.0,Top 25
+898,1971,,Don Buford,Baltimore,99.0,Top 25
+899,1971,,Tony Oliva,Minnesota,0.546,Top 25
+900,1971,,Amos Otis,Kansas City,52.0,Top 25
+901,1971,,Reggie Smith,Boston,302.0,Top 25
+902,1971,,Freddie Patek,Kansas City,11.0,Top 25
+903,1972,,Dick Allen,Chicago,99.0,Top 25
+904,1972,,Roy White,New York,99.0,Top 25
+905,1972,,Rod Carew,Minnesota,0.318,Top 25
+906,1972,,Lou Piniella,Kansas City,33.0,Top 25
+907,1972,,Joe Rudi,Oakland,181.0,Top 25
+908,1972,,Dick Allen,Chicago,37.0,Top 25
+909,1972,,Dick Allen,Chicago,0.422,Top 25
+910,1972,,Dick Allen,Chicago,113.0,Top 25
+911,1972,,Bobby Murcer,New York,102.0,Top 25
+912,1972,,Dick Allen,Chicago,0.603,Top 25
+913,1972,,Bert Campaneris,Oakland,52.0,Top 25
+914,1972,,Bobby Murcer,New York,314.0,Top 25
+915,1972,,Joe Rudi,Oakland,9.0,Top 25
+916,1973,,John Mayberry,Kansas City,122.0,Top 25
+917,1973,,Rod Carew,Minnesota,0.35,Top 25
+918,1973,,Sal Bando,Oakland,32.0,Top 25
+919,1973,,Pedro Garcia,Milwaukee,32.0,Top 25
+920,1973,,Rod Carew,Minnesota,203.0,Top 25
+921,1973,,Reggie Jackson,Oakland,32.0,Top 25
+922,1973,,John Mayberry,Kansas City,0.42,Top 25
+923,1973,,Reggie Jackson,Oakland,117.0,Top 25
+924,1973,,Reggie Jackson,Oakland,99.0,Top 25
+925,1973,,Reggie Jackson,Oakland,0.531,Top 25
+926,1973,,Tommy Harper,Boston,54.0,Top 25
+927,1973,,Sal Bando,Oakland,295.0,Top 25
+928,1973,,Dave May,Milwaukee,295.0,Top 25
+929,1973,,George Scott,Milwaukee,295.0,Top 25
+930,1973,,Al Bumbry,Baltimore,11.0,Top 25
+931,1973,,Rod Carew,Minnesota,11.0,Top 25
+932,1974,,Gene Tenace,Oakland,110.0,Top 25
+933,1974,,Rod Carew,Minnesota,0.364,Top 25
+934,1974,,Joe Rudi,Oakland,39.0,Top 25
+935,1974,,Rod Carew,Minnesota,218.0,Top 25
+936,1974,,Dick Allen,Chicago,32.0,Top 25
+937,1974,,Rod Carew,Minnesota,0.435,Top 25
+938,1974,,Jeff Burroughs,Texas,118.0,Top 25
+939,1974,,Carl Yastrzemski,Boston,93.0,Top 25
+940,1974,,Dick Allen,Chicago,0.563,Top 25
+941,1974,,Billy North,Oakland,54.0,Top 25
+942,1974,,Joe Rudi,Oakland,287.0,Top 25
+943,1974,,Mickey Rivers,California,11.0,Top 25
+944,1975,,John Mayberry,Kansas City,119.0,Top 25
+945,1975,,Rod Carew,Minnesota,0.359,Top 25
+946,1975,,Fred Lynn,Boston,47.0,Top 25
+947,1975,,George Brett,Kansas City,195.0,Top 25
+948,1975,,Reggie Jackson,Oakland,36.0,Top 25
+949,1975,,George Scott,Milwaukee,36.0,Top 25
+950,1975,,Rod Carew,Minnesota,0.428,Top 25
+951,1975,,George Scott,Milwaukee,109.0,Top 25
+952,1975,,Fred Lynn,Boston,103.0,Top 25
+953,1975,,Fred Lynn,Boston,0.566,Top 25
+954,1975,,Mickey Rivers,California,70.0,Top 25
+955,1975,,George Scott,Milwaukee,318.0,Top 25
+956,1975,,George Brett,Kansas City,13.0,Top 25
+957,1975,,Mickey Rivers,California,13.0,Top 25
+958,1976,,Mike Hargrove,Texas,97.0,Top 25
+959,1976,,George Brett,Kansas City,0.333,Top 25
+960,1976,,Amos Otis,Kansas City,40.0,Top 25
+961,1976,,George Brett,Kansas City,215.0,Top 25
+962,1976,,Graig Nettles,New York,32.0,Top 25
+963,1976,,Hal McRae,Kansas City,0.412,Top 25
+964,1976,,Lee May,Baltimore,109.0,Top 25
+965,1976,,Roy White,New York,104.0,Top 25
+966,1976,,Reggie Jackson,Baltimore,0.502,Top 25
+967,1976,,Billy North,Oakland,75.0,Top 25
+968,1976,,George Brett,Kansas City,298.0,Top 25
+969,1976,,George Brett,Kansas City,14.0,Top 25
+970,1977,,Toby Harrah,Texas,109.0,Top 25
+971,1977,,Rod Carew,Minnesota,0.388,Top 25
+972,1977,,Hal McRae,Kansas City,54.0,Top 25
+973,1977,,Rod Carew,Minnesota,239.0,Top 25
+974,1977,,Jim Rice,Boston,39.0,Top 25
+975,1977,,Rod Carew,Minnesota,0.452,Top 25
+976,1977,,Larry Hisle,Minnesota,119.0,Top 25
+977,1977,,Rod Carew,Minnesota,128.0,Top 25
+978,1977,,Jim Rice,Boston,0.593,Top 25
+979,1977,,Freddie Patek,Kansas City,53.0,Top 25
+980,1977,,Jim Rice,Boston,382.0,Top 25
+981,1977,,Rod Carew,Minnesota,16.0,Top 25
+982,1978,,Mike Hargrove,Texas,107.0,Top 25
+983,1978,,Rod Carew,Minnesota,0.333,Top 25
+984,1978,,George Brett,Kansas City,45.0,Top 25
+985,1978,,Jim Rice,Boston,213.0,Top 25
+986,1978,,Jim Rice,Boston,46.0,Top 25
+987,1978,,Rod Carew,Minnesota,0.415,Top 25
+988,1978,,Jim Rice,Boston,139.0,Top 25
+989,1978,,Ron LeFlore,Detroit,126.0,Top 25
+990,1978,,Jim Rice,Boston,0.6,Top 25
+991,1978,,Ron LeFlore,Detroit,68.0,Top 25
+992,1978,,Jim Rice,Boston,406.0,Top 25
+993,1978,,Jim Rice,Boston,15.0,Top 25
+994,1979,,Darrell Porter,Kansas City,121.0,Top 25
+995,1979,,Fred Lynn,Boston,0.333,Top 25
+996,1979,,Cecil Cooper,Milwaukee,44.0,Top 25
+997,1979,,Chet Lemon,Chicago,44.0,Top 25
+998,1979,,George Brett,Kansas City,212.0,Top 25
+999,1979,,Gorman Thomas,Milwaukee,45.0,Top 25
+1000,1979,,Darrell Porter,Kansas City,0.429,Top 25
+1001,1979,,Don Baylor,California,139.0,Top 25
+1002,1979,,Don Baylor,California,120.0,Top 25
+1003,1979,,Fred Lynn,Boston,0.637,Top 25
+1004,1979,,Willie Wilson,Kansas City,83.0,Top 25
+1005,1979,,Jim Rice,Boston,369.0,Top 25
+1006,1979,,George Brett,Kansas City,20.0,Top 25
+1007,1980,,Willie Randolph,New York,119.0,Top 25
+1008,1980,,George Brett,Kansas City,0.39,Top 25
+1009,1980,,Robin Yount,Milwaukee,49.0,Top 25
+1010,1980,,Willie Wilson,Kansas City,230.0,Top 25
+1011,1980,,Ben Oglivie,Milwaukee,41.0,Top 25
+1012,1980,,Reggie Jackson,New York,41.0,Top 25
+1013,1980,,George Brett,Kansas City,0.461,Top 25
+1014,1980,,Cecil Cooper,Milwaukee,122.0,Top 25
+1015,1980,,Willie Wilson,Kansas City,133.0,Top 25
+1016,1980,,George Brett,Kansas City,0.664,Top 25
+1017,1980,,Rickey Henderson,Oakland,100.0,Top 25
+1018,1980,,Cecil Cooper,Milwaukee,335.0,Top 25
+1019,1980,,Alfredo Griffin,Toronto,15.0,Top 25
+1020,1980,,Willie Wilson,Kansas City,15.0,Top 25
+1021,1981,,Dwight Evans,Boston,85.0,Top 25
+1022,1981,,Carney Lansford,Boston,0.336,Top 25
+1023,1981,,Cecil Cooper,Milwaukee,35.0,Top 25
+1024,1981,,Rickey Henderson,Oakland,135.0,Top 25
+1025,1981,,Tony Armas,Oakland,22.0,Top 25
+1026,1981,,Dwight Evans,Boston,22.0,Top 25
+1027,1981,,Bobby Grich,California,22.0,Top 25
+1028,1981,,Eddie Murray,Baltimore,22.0,Top 25
+1029,1981,,Mike Hargrove,Cleveland,0.432,Top 25
+1030,1981,,Eddie Murray,Baltimore,78.0,Top 25
+1031,1981,,Rickey Henderson,Oakland,89.0,Top 25
+1032,1981,,Bobby Grich,California,0.543,Top 25
+1033,1981,,Rickey Henderson,Oakland,56.0,Top 25
+1034,1981,,Dwight Evans,Boston,215.0,Top 25
+1035,1981,,John Castino,Minnesota,9.0,Top 25
+1036,1982,,Rickey Henderson,Oakland,116.0,Top 25
+1037,1982,,Willie Wilson,Kansas City,0.332,Top 25
+1038,1982,,Hal McRae,Kansas City,46.0,Top 25
+1039,1982,,Robin Yount,Milwaukee,46.0,Top 25
+1040,1982,,Robin Yount,Milwaukee,210.0,Top 25
+1041,1982,,Reggie Jackson,California,39.0,Top 25
+1042,1982,,Gorman Thomas,Milwaukee,39.0,Top 25
+1043,1982,,Dwight Evans,Boston,0.403,Top 25
+1044,1982,,Hal McRae,Kansas City,133.0,Top 25
+1045,1982,,Paul Molitor,Milwaukee,136.0,Top 25
+1046,1982,,Robin Yount,Milwaukee,0.578,Top 25
+1047,1982,,Rickey Henderson,Oakland,130.0,Top 25
+1048,1982,,Robin Yount,Milwaukee,367.0,Top 25
+1049,1982,,Willie Wilson,Kansas City,15.0,Top 25
+1050,1983,,Rickey Henderson,Oakland,103.0,Top 25
+1051,1983,,Wade Boggs,Boston,0.361,Top 25
+1052,1983,,"Cal Ripken, Jr.",Baltimore,47.0,Top 25
+1053,1983,,"Cal Ripken, Jr.",Baltimore,211.0,Top 25
+1054,1983,,Jim Rice,Boston,39.0,Top 25
+1055,1983,,Wade Boggs,Boston,0.449,Top 25
+1056,1983,,Cecil Cooper,Milwaukee,126.0,Top 25
+1057,1983,,Jim Rice,Boston,126.0,Top 25
+1058,1983,,"Cal Ripken, Jr.",Baltimore,121.0,Top 25
+1059,1983,,George Brett,Kansas City,0.563,Top 25
+1060,1983,,Rickey Henderson,Oakland,108.0,Top 25
+1061,1983,,Jim Rice,Boston,344.0,Top 25
+1062,1983,,Robin Yount,Milwaukee,10.0,Top 25
+1063,1984,,Eddie Murray,Baltimore,107.0,Top 25
+1064,1984,,Don Mattingly,New York,0.343,Top 25
+1065,1984,,Don Mattingly,New York,44.0,Top 25
+1066,1984,,Don Mattingly,New York,207.0,Top 25
+1067,1984,,Tony Armas,Boston,43.0,Top 25
+1068,1984,,Eddie Murray,Baltimore,0.415,Top 25
+1069,1984,,Tony Armas,Boston,123.0,Top 25
+1070,1984,,Dwight Evans,Boston,121.0,Top 25
+1071,1984,,Harold Baines,Chicago,0.541,Top 25
+1072,1984,,Rickey Henderson,Oakland,66.0,Top 25
+1073,1984,,Tony Armas,Boston,339.0,Top 25
+1074,1984,,Dave Collins,Toronto,15.0,Top 25
+1075,1984,,Lloyd Moseby,Toronto,15.0,Top 25
+1076,1985,,Dwight Evans,Boston,114.0,Top 25
+1077,1985,,Wade Boggs,Boston,0.368,Top 25
+1078,1985,,Don Mattingly,New York,48.0,Top 25
+1079,1985,,Wade Boggs,Boston,240.0,Top 25
+1080,1985,,Darrell Evans,Detroit,40.0,Top 25
+1081,1985,,Wade Boggs,Boston,0.452,Top 25
+1082,1985,,Don Mattingly,New York,145.0,Top 25
+1083,1985,,Rickey Henderson,New York,146.0,Top 25
+1084,1985,,George Brett,Kansas City,0.585,Top 25
+1085,1985,,Rickey Henderson,New York,80.0,Top 25
+1086,1985,,Don Mattingly,New York,370.0,Top 25
+1087,1985,,Willie Wilson,Kansas City,21.0,Top 25
+1088,1986,,Wade Boggs,Boston,106.0,Top 25
+1089,1986,,Wade Boggs,Boston,0.357,Top 25
+1090,1986,,Don Mattingly,New York,53.0,Top 25
+1091,1986,,Don Mattingly,New York,238.0,Top 25
+1092,1986,,Jesse Barfield,Toronto,40.0,Top 25
+1093,1986,,Wade Boggs,Boston,0.455,Top 25
+1094,1986,,Joe Carter,Cleveland,121.0,Top 25
+1095,1986,,Rickey Henderson,New York,130.0,Top 25
+1096,1986,,Don Mattingly,New York,0.573,Top 25
+1097,1986,,Rickey Henderson,New York,87.0,Top 25
+1098,1986,,Don Mattingly,New York,388.0,Top 25
+1099,1987,,Dwight Evans,Boston,106.0,Top 25
+1100,1987,,Wade Boggs,Boston,0.363,Top 25
+1101,1987,,Paul Molitor,Milwaukee,41.0,Top 25
+1102,1987,,Kirby Puckett,Minnesota,207.0,Top 25
+1103,1987,,Kevin Seitzer,Kansas City,207.0,Top 25
+1104,1987,,Mark McGwire,Oakland,49.0,Top 25
+1105,1987,,Wade Boggs,Boston,0.467,Top 25
+1106,1987,,George Bell,Toronto,134.0,Top 25
+1107,1987,,Paul Molitor,Milwaukee,114.0,Top 25
+1108,1987,,Mark McGwire,Oakland,0.618,Top 25
+1109,1987,,Harold Reynolds,Seattle,67.0,Top 25
+1110,1987,,George Bell,Toronto,369.0,Top 25
+1111,1988,,Wade Boggs,Boston,125.0,Top 25
+1112,1988,,Wade Boggs,Boston,0.366,Top 25
+1113,1988,,Wade Boggs,Boston,45.0,Top 25
+1114,1988,,Kirby Puckett,Minnesota,234.0,Top 25
+1115,1988,,Jose Canseco,Oakland,42.0,Top 25
+1116,1988,,Wade Boggs,Boston,0.48,Top 25
+1117,1988,,Jose Canseco,Oakland,124.0,Top 25
+1118,1988,,Wade Boggs,Boston,128.0,Top 25
+1119,1988,,Jose Canseco,Oakland,0.569,Top 25
+1120,1988,,Rickey Henderson,New York,93.0,Top 25
+1121,1988,,Kirby Puckett,Minnesota,358.0,Top 25
+1122,1988,,Harold Reynolds,Seattle,11.0,Top 25
+1123,1988,,Willie Wilson,Kansas City,11.0,Top 25
+1124,1989,,Rickey Henderson,New York,126.0,Top 25
+1125,1989,,Rickey Henderson,Oakland,126.0,Top 25
+1126,1989,,Kirby Puckett,Minnesota,0.339,Top 25
+1127,1989,,Wade Boggs,Boston,51.0,Top 25
+1128,1989,,Kirby Puckett,Minnesota,215.0,Top 25
+1129,1989,,Fred McGriff,Toronto,36.0,Top 25
+1130,1989,,Wade Boggs,Boston,0.434,Top 25
+1131,1989,,Ruben Sierra,Texas,119.0,Top 25
+1132,1989,,Wade Boggs,Boston,113.0,Top 25
+1133,1989,,Rickey Henderson,New York,113.0,Top 25
+1134,1989,,Rickey Henderson,Oakland,113.0,Top 25
+1135,1989,,Ruben Sierra,Texas,0.543,Top 25
+1136,1989,,Rickey Henderson,New York,77.0,Top 25
+1137,1989,,Rickey Henderson,Oakland,77.0,Top 25
+1138,1989,,Ruben Sierra,Texas,344.0,Top 25
+1139,1990,,Mark McGwire,Oakland,110.0,Top 25
+1140,1990,,George Brett,Kansas City,0.329,Top 25
+1141,1990,,George Brett,Kansas City,45.0,Top 25
+1142,1990,,Jody Reed,Boston,45.0,Top 25
+1143,1990,,Rafael Palmeiro,Texas,191.0,Top 25
+1144,1990,,Cecil Fielder,Detroit,51.0,Top 25
+1145,1990,,Rickey Henderson,Oakland,0.441,Top 25
+1146,1990,,Cecil Fielder,Detroit,132.0,Top 25
+1147,1990,,Rickey Henderson,Oakland,119.0,Top 25
+1148,1990,,Cecil Fielder,Detroit,0.592,Top 25
+1149,1990,,Rickey Henderson,Oakland,65.0,Top 25
+1150,1990,,Cecil Fielder,Detroit,339.0,Top 25
+1151,1991,,Frank Thomas,Chicago,138.0,Top 25
+1152,1991,,Julio Franco,Texas,0.341,Top 25
+1153,1991,,Rafael Palmeiro,Texas,49.0,Top 25
+1154,1991,,Paul Molitor,Milwaukee,216.0,Top 25
+1155,1991,,Jose Canseco,Oakland,44.0,Top 25
+1156,1991,,Cecil Fielder,Detroit,44.0,Top 25
+1157,1991,,Frank Thomas,Chicago,0.454,Top 25
+1158,1991,,Cecil Fielder,Detroit,133.0,Top 25
+1159,1991,,Paul Molitor,Milwaukee,133.0,Top 25
+1160,1991,,Danny Tartabull,Kansas City,0.593,Top 25
+1161,1991,,Rickey Henderson,Oakland,58.0,Top 25
+1162,1991,,"Cal Ripken, Jr.",Baltimore,368.0,Top 25
+1163,1991,,Lance Johnson,Chicago,12.0,Top 25
+1164,1992,,Mickey Tettleton,Detroit,122.0,Top 25
+1165,1992,,Frank Thomas,Chicago,122.0,Top 25
+1166,1992,,Edgar Martinez,Seattle,0.343,Top 25
+1167,1992,,Edgar Martinez,Seattle,46.0,Top 25
+1168,1992,,Frank Thomas,Chicago,46.0,Top 25
+1169,1992,,Kirby Puckett,Minnesota,210.0,Top 25
+1170,1992,,Juan Gonzalez,Texas,43.0,Top 25
+1171,1992,,Frank Thomas,Chicago,0.446,Top 25
+1172,1992,,Cecil Fielder,Detroit,124.0,Top 25
+1173,1992,,Tony Phillips,Detroit,114.0,Top 25
+1174,1992,,Mark McGwire,Oakland,0.585,Top 25
+1175,1992,,Kenny Lofton,Cleveland,66.0,Top 25
+1176,1992,,Kirby Puckett,Minnesota,313.0,Top 25
+1177,1993,,Tony Phillips,Detroit,132.0,Top 25
+1178,1993,,John Olerud,Toronto,0.363,Top 25
+1179,1993,,John Olerud,Toronto,54.0,Top 25
+1180,1993,,Paul Molitor,Toronto,211.0,Top 25
+1181,1993,,Juan Gonzalez,Texas,46.0,Top 25
+1182,1993,,John Olerud,Toronto,0.478,Top 25
+1183,1993,,Albert Belle,Cleveland,129.0,Top 25
+1184,1993,,Rafael Palmeiro,Texas,124.0,Top 25
+1185,1993,,Juan Gonzalez,Texas,0.632,Top 25
+1186,1993,,Kenny Lofton,Cleveland,70.0,Top 25
+1187,1993,,"Ken Griffey, Jr.",Seattle,359.0,Top 25
+1188,1994,,Frank Thomas,Chicago,109.0,Top 25
+1189,1994,,Paul O'Neill,New York,0.359,Top 25
+1190,1994,,Chuck Knoblauch,Minnesota,45.0,Top 25
+1191,1994,,Kenny Lofton,Cleveland,160.0,Top 25
+1192,1994,,"Ken Griffey, Jr.",Seattle,40.0,Top 25
+1193,1994,,Frank Thomas,Chicago,0.494,Top 25
+1194,1994,,Kirby Puckett,Minnesota,112.0,Top 25
+1195,1994,,Frank Thomas,Chicago,106.0,Top 25
+1196,1994,,Frank Thomas,Chicago,0.729,Top 25
+1197,1994,,Kenny Lofton,Cleveland,60.0,Top 25
+1198,1994,,Albert Belle,Cleveland,294.0,Top 25
+1199,1995,,Frank Thomas,Chicago,136.0,Top 25
+1200,1995,,Edgar Martinez,Seattle,0.356,Top 25
+1201,1995,,Albert Belle,Cleveland,52.0,Top 25
+1202,1995,,Edgar Martinez,Seattle,52.0,Top 25
+1203,1995,,Lance Johnson,Chicago,186.0,Top 25
+1204,1995,,Albert Belle,Cleveland,50.0,Top 25
+1205,1995,,Edgar Martinez,Seattle,0.482,Top 25
+1206,1995,,Albert Belle,Cleveland,126.0,Top 25
+1207,1995,,Mo Vaughn,Boston,126.0,Top 25
+1208,1995,,Albert Belle,Cleveland,121.0,Top 25
+1209,1995,,Edgar Martinez,Seattle,121.0,Top 25
+1210,1995,,Albert Belle,Cleveland,0.69,Top 25
+1211,1995,,Kenny Lofton,Cleveland,54.0,Top 25
+1212,1995,,Albert Belle,Cleveland,377.0,Top 25
+1213,1996,,Tony Phillips,Chicago,125.0,Top 25
+1214,1996,,Alex Rodriguez,Seattle,0.358,Top 25
+1215,1996,,Alex Rodriguez,Seattle,54.0,Top 25
+1216,1996,,Paul Molitor,Minnesota,225.0,Top 25
+1217,1996,,Mark McGwire,Oakland,52.0,Top 25
+1218,1996,,Mark McGwire,Oakland,0.468,Top 25
+1219,1996,,Albert Belle,Cleveland,148.0,Top 25
+1220,1996,,Alex Rodriguez,Seattle,141.0,Top 25
+1221,1996,,Mark McGwire,Oakland,0.73,Top 25
+1222,1996,,Kenny Lofton,Cleveland,75.0,Top 25
+1223,1996,,Alex Rodriguez,Seattle,379.0,Top 25
+1224,1997,,Jim Thome,Cleveland,120.0,Top 25
+1225,1997,,Frank Thomas,Chicago,0.347,Top 25
+1226,1997,,John Valentin,Boston,47.0,Top 25
+1227,1997,,Nomar Garciaparra,Boston,209.0,Top 25
+1228,1997,,"Ken Griffey, Jr.",Seattle,56.0,Top 25
+1229,1997,,Frank Thomas,Chicago,0.461,Top 25
+1230,1997,,"Ken Griffey, Jr.",Seattle,147.0,Top 25
+1231,1997,,"Ken Griffey, Jr.",Seattle,125.0,Top 25
+1232,1997,,"Ken Griffey, Jr.",Seattle,0.646,Top 25
+1233,1997,,Brian Hunter,Detroit,74.0,Top 25
+1234,1997,,"Ken Griffey, Jr.",Seattle,393.0,Top 25
+1235,1998,,Rickey Henderson,Oakland,118.0,Top 25
+1236,1998,,Bernie Williams,New York,0.339,Top 25
+1237,1998,,Juan Gonzalez,Texas,50.0,Top 25
+1238,1998,,Alex Rodriguez,Seattle,213.0,Top 25
+1239,1998,,"Ken Griffey, Jr.",Seattle,56.0,Top 25
+1240,1998,,Edgar Martinez,Seattle,0.433,Top 25
+1241,1998,,Juan Gonzalez,Texas,157.0,Top 25
+1242,1998,,Derek Jeter,New York,127.0,Top 25
+1243,1998,,Albert Belle,Chicago,0.655,Top 25
+1244,1998,,Rickey Henderson,Oakland,66.0,Top 25
+1245,1998,,Albert Belle,Chicago,399.0,Top 25
+1246,1999,,Jim Thome,Cleveland,127.0,Top 25
+1247,1999,,Nomar Garciaparra,Boston,0.357,Top 25
+1248,1999,,Shawn Green,Toronto,45.0,Top 25
+1249,1999,,Derek Jeter,New York,219.0,Top 25
+1250,1999,,"Ken Griffey, Jr.",Seattle,48.0,Top 25
+1251,1999,,Edgar Martinez,Seattle,0.447,Top 25
+1252,1999,,Manny Ramirez,Cleveland,165.0,Top 25
+1253,1999,,Roberto Alomar,Cleveland,138.0,Top 25
+1254,1999,,Manny Ramirez,Cleveland,0.663,Top 25
+1255,1999,,Brian Hunter,Seattle,44.0,Top 25
+1256,1999,,Shawn Green,Toronto,361.0,Top 25
+1257,2000,,Jason Giambi,Oakland,137.0,Top 25
+1258,2000,,Nomar Garciaparra,Boston,0.372,Top 25
+1259,2000,,Carlos Delgado,Toronto,57.0,Top 25
+1260,2000,,Darin Erstad,Anaheim,240.0,Top 25
+1261,2000,,Troy Glaus,Anaheim,47.0,Top 25
+1262,2000,,Jason Giambi,Oakland,0.476,Top 25
+1263,2000,,Edgar Martinez,Seattle,145.0,Top 25
+1264,2000,,Johnny Damon,Kansas City,136.0,Top 25
+1265,2000,,Manny Ramirez,Cleveland,0.697,Top 25
+1266,2000,,Johnny Damon,Kansas City,46.0,Top 25
+1267,2000,,Carlos Delgado,Toronto,378.0,Top 25
+1268,2001,,Jason Giambi,Oakland,129.0,Top 25
+1269,2001,,Ichiro Suzuki,Seattle,0.35,Top 25
+1270,2001,,Jason Giambi,Oakland,47.0,Top 25
+1271,2001,,Ichiro Suzuki,Seattle,242.0,Top 25
+1272,2001,,Alex Rodriguez,Texas,52.0,Top 25
+1273,2001,,Jason Giambi,Oakland,0.477,Top 25
+1274,2001,,Bret Boone,Seattle,141.0,Top 25
+1275,2001,,Alex Rodriguez,Texas,133.0,Top 25
+1276,2001,,Jason Giambi,Oakland,0.66,Top 25
+1277,2001,,Ichiro Suzuki,Seattle,56.0,Top 25
+1278,2001,,Alex Rodriguez,Texas,393.0,Top 25
+1279,2002,,Jim Thome,Cleveland,122.0,Top 25
+1280,2002,,Manny Ramirez,Boston,0.349,Top 25
+1281,2002,,Garret Anderson,Anaheim,56.0,Top 25
+1282,2002,,Nomar Garciaparra,Boston,56.0,Top 25
+1283,2002,,Alfonso Soriano,New York,209.0,Top 25
+1284,2002,,Alex Rodriguez,Texas,57.0,Top 25
+1285,2002,,Manny Ramirez,Boston,0.45,Top 25
+1286,2002,,Alex Rodriguez,Texas,142.0,Top 25
+1287,2002,,Alfonso Soriano,New York,128.0,Top 25
+1288,2002,,Jim Thome,Cleveland,0.677,Top 25
+1289,2002,,Alfonso Soriano,New York,41.0,Top 25
+1290,2002,,Alex Rodriguez,Texas,389.0,Top 25
+1291,2003,,Jason Giambi,New York,129.0,Top 25
+1292,2003,,Bill Mueller,Boston,0.326,Top 25
+1293,2003,,Garret Anderson,Anaheim,49.0,Top 25
+1294,2003,,Vernon Wells,Toronto,49.0,Top 25
+1295,2003,,Vernon Wells,Toronto,215.0,Top 25
+1296,2003,,Alex Rodriguez,Texas,47.0,Top 25
+1297,2003,,Manny Ramirez,Boston,0.427,Top 25
+1298,2003,,Carlos Delgado,Toronto,145.0,Top 25
+1299,2003,,Alex Rodriguez,Texas,124.0,Top 25
+1300,2003,,Alex Rodriguez,Texas,0.6,Top 25
+1301,2003,,Carl Crawford,Tampa Bay,55.0,Top 25
+1302,2003,,Vernon Wells,Toronto,373.0,Top 25
+1303,2004,,Eric Chavez,Oakland,95.0,Top 25
+1304,2004,,Ichiro Suzuki,Seattle,0.372,Top 25
+1305,2004,,Brian Roberts,Baltimore,50.0,Top 25
+1306,2004,,Ichiro Suzuki,Seattle,262.0,Top 25
+1307,2004,,Manny Ramirez,Boston,43.0,Top 25
+1308,2004,,Melvin Mora,Baltimore,0.419,Top 25
+1309,2004,,Miguel Tejada,Baltimore,150.0,Top 25
+1310,2004,,Vladimir Guerrero,Anaheim,124.0,Top 25
+1311,2004,,Manny Ramirez,Boston,0.613,Top 25
+1312,2004,,Carl Crawford,Tampa Bay,59.0,Top 25
+1313,2004,,Vladimir Guerrero,Anaheim,366.0,Top 25
+1314,2005,,Jason Giambi,New York,108.0,Top 25
+1315,2005,,Michael Young,Texas,0.331,Top 25
+1316,2005,,Miguel Tejada,Baltimore,50.0,Top 25
+1317,2005,,Michael Young,Texas,221.0,Top 25
+1318,2005,,Alex Rodriguez,New York,48.0,Top 25
+1319,2005,,Jason Giambi,New York,0.44,Top 25
+1320,2005,,David Ortiz,Boston,148.0,Top 25
+1321,2005,,Alex Rodriguez,New York,124.0,Top 25
+1322,2005,,Alex Rodriguez,New York,0.61,Top 25
+1323,2005,,Chone Figgins,Los Angeles,62.0,Top 25
+1324,2005,,Mark Teixeira,Texas,370.0,Top 25
+1325,2006,,David Ortiz,Boston,119.0,Top 25
+1326,2006,,Joe Mauer,Minnesota,0.347,Top 25
+1327,2006,,Grady Sizemore,Cleveland,53.0,Top 25
+1328,2006,,Ichiro Suzuki,Seattle,224.0,Top 25
+1329,2006,,David Ortiz,Boston,54.0,Top 25
+1330,2006,,Manny Ramirez,Boston,0.439,Top 25
+1331,2006,,David Ortiz,Boston,137.0,Top 25
+1332,2006,,Grady Sizemore,Cleveland,134.0,Top 25
+1333,2006,,Travis Hafner,Cleveland,0.659,Top 25
+1334,2006,,Carl Crawford,Tampa Bay,58.0,Top 25
+1335,2006,,David Ortiz,Boston,355.0,Top 25
+1336,2006,,Carl Crawford,Tampa Bay,16.0,Top 25
+1337,2007,,David Ortiz,Boston,111.0,Top 25
+1338,2007,,Magglio Ordonez,Detroit,0.363,Top 25
+1339,2007,,Magglio Ordonez,Detroit,54.0,Top 25
+1340,2007,,Ichiro Suzuki,Seattle,238.0,Top 25
+1341,2007,,Alex Rodriguez,New York,54.0,Top 25
+1342,2007,,David Ortiz,Boston,0.445,Top 25
+1343,2007,,Alex Rodriguez,New York,156.0,Top 25
+1344,2007,,Alex Rodriguez,New York,143.0,Top 25
+1345,2007,,Alex Rodriguez,New York,0.645,Top 25
+1346,2007,,Carl Crawford,Tampa Bay,50.0,Top 25
+1347,2007,,Brian Roberts,Baltimore,50.0,Top 25
+1348,2007,,Alex Rodriguez,New York,376.0,Top 25
+1349,2007,,Curtis Granderson,Detroit,23.0,Top 25
+1350,2008,,Jack Cust,Oakland,111.0,Top 25
+1351,2008,,Joe Mauer,Minnesota,0.33,Top 25
+1352,2008,,Dustin Pedroia,Boston,54.0,Top 25
+1353,2008,,Dustin Pedroia,Boston,213.0,Top 25
+1354,2008,,Ichiro Suzuki,Seattle,213.0,Top 25
+1355,2008,,Miguel Cabrera,Detroit,37.0,Top 25
+1356,2008,,Milton Bradley,Texas,0.436,Top 25
+1357,2008,,Josh Hamilton,Texas,130.0,Top 25
+1358,2008,,Dustin Pedroia,Boston,118.0,Top 25
+1359,2008,,Alex Rodriguez,New York,0.573,Top 25
+1360,2008,,Jacoby Ellsbury,Boston,50.0,Top 25
+1361,2008,,Josh Hamilton,Texas,331.0,Top 25
+1362,2008,,Curtis Granderson,Detroit,13.0,Top 25
+1363,2009,,Chone Figgins,Los Angeles,101.0,Top 25
+1364,2009,,Joe Mauer,Minnesota,0.365,Top 25
+1365,2009,,Brian Roberts,Baltimore,56.0,Top 25
+1366,2009,,Ichiro Suzuki,Seattle,225.0,Top 25
+1367,2009,,Carlos Pena,Tampa Bay,39.0,Top 25
+1368,2009,,Mark Teixeira,New York,39.0,Top 25
+1369,2009,,Joe Mauer,Minnesota,0.444,Top 25
+1370,2009,,Mark Teixeira,New York,122.0,Top 25
+1371,2009,,DustinPedroia,Boston,115.0,Top 25
+1372,2009,,Joe Mauer,Minnesota,0.587,Top 25
+1373,2009,,Jacoby Ellsbury,Boston,70.0,Top 25
+1374,2009,,Mark Teixeira,New York,344.0,Top 25
+1375,2009,,Jacoby Ellsbury,Boston,10.0,Top 25
+1376,2010,,Daric Barton,Oakland,110.0,Top 25
+1377,2010,,Josh Hamilton,Texas,0.359,Top 25
+1378,2010,,Adrian Beltre,Boston,49.0,Top 25
+1379,2010,,Ichiro Suzuki,Seattle,214.0,Top 25
+1380,2010,,Jose Bautista,Toronto,54.0,Top 25
+1381,2010,,Miguel Cabrera,Detroit,0.42,Top 25
+1382,2010,,Miguel Cabrera,Detroit,126.0,Top 25
+1383,2010,,Mark Teixeira,New York,113.0,Top 25
+1384,2010,,Josh Hamilton,Texas,0.633,Top 25
+1385,2010,,Juan Pierre,Chicago,68.0,Top 25
+1386,2010,,Jose Bautista,Toronto,351.0,Top 25
+1387,2010,,Carl Crawford,Tampa Bay,13.0,Top 25
+1388,2011,,Jose Bautista,Toronto,132.0,Top 25
+1389,2011,,Miguel Cabrera,Detroit,0.344,Top 25
+1390,2011,,Miguel Cabrera,Detroit,48.0,Top 25
+1391,2011,,Adrian Gonzalez,Boston,213.0,Top 25
+1392,2011,,Michael Young,Texas,213.0,Top 25
+1393,2011,,Jose Bautista,Toronto,43.0,Top 25
+1394,2011,,Miguel Cabrera,Detroit,0.448,Top 25
+1395,2011,,Curtis Granderson,New York,119.0,Top 25
+1396,2011,,Curtis Granderson,New York,136.0,Top 25
+1397,2011,,Jose Bautista,Toronto,0.608,Top 25
+1398,2011,,Coco Crisp,Oakland,49.0,Top 25
+1399,2011,,Brett Gardner,New York,49.0,Top 25
+1400,2011,,Jacoby Ellsbury,Boston,364.0,Top 25
+1401,2011,,Peter Bourjos,Los Angeles,11.0,Top 25
+1402,2011,,Austin Jackson,Detroit,11.0,Top 25
+1403,2012,,Adam Dunn,Chicago,105.0,Top 25
+1404,2012,,Miguel Cabrera,Detroit,0.33,Top 25
+1405,2012,,Alex Gordon,Kansas City,51.0,Top 25
+1406,2012,,Derek Jeter,New York,216.0,Top 25
+1407,2012,,Miguel Cabrera,Detroit,44.0,Top 25
+1408,2012,,Joe Mauer,Minnesota,0.416,Top 25
+1409,2012,,Miguel Cabrera,Detroit,139.0,Top 25
+1410,2012,,Mike Trout,Los Angeles,129.0,Top 25
+1411,2012,,Miguel Cabrera,Detroit,0.606,Top 25
+1412,2012,,Mike Trout,Los Angeles,49.0,Top 25
+1413,2012,,Miguel Cabrera,Detroit,377.0,Top 25
+1414,2012,,Austin Jackson,Detroit,10.0,Top 25
+1415,2013,,Mike Trout,Los Angeles,110.0,Top 25
+1416,2013,,Miguel Cabrera,Detroit,0.348,Top 25
+1417,2013,,Manny Machado,Baltimore,51.0,Top 25
+1418,2013,,Adrian Beltre,Texas,199.0,Top 25
+1419,2013,,Chris Davis,Baltimore,53.0,Top 25
+1420,2013,,Miguel Cabrera,Detroit,0.442,Top 25
+1421,2013,,Chris Davis,Baltimore,138.0,Top 25
+1422,2013,,Mike Trout,Los Angeles,109.0,Top 25
+1423,2013,,Miguel Cabrera,Detroit,0.636,Top 25
+1424,2013,,Jacoby Ellsbury,Boston,52.0,Top 25
+1425,2013,,Chris Davis,Baltimore,370.0,Top 25
+1426,2014,,Carlos Santana,Cleveland,113.0,Top 25
+1427,2014,,Jose Altuve,Houston,0.341,Top 25
+1428,2014,,Miguel Cabrera,Detroit,52.0,Top 25
+1429,2014,,Jose Altuve,Houston,225.0,Top 25
+1430,2014,,Nelson Cruz,Baltimore,40.0,Top 25
+1431,2014,,Victor Martinez,Detroit,0.409,Top 25
+1432,2014,,Mike Trout,Los Angeles,111.0,Top 25
+1433,2014,,Mike Trout,Los Angeles,115.0,Top 25
+1434,2014,,Jose Abreu,Chicago,0.581,Top 25
+1435,2014,,Jose Altuve,Chicago,56.0,Top 25
+1436,2014,,Mike Trout,Los Angeles,338.0,Top 25
+1437,2014,,Michael Bourn,Cleveland,10.0,Top 25
+1438,2014,,Adam Eaton,Chicago,10.0,Top 25
+1439,2015,,Jose Bautista,Toronto,110.0,Top 25
+1440,2015,,Miguel Cabrera,Detroit,0.338,Top 25
+1441,2015,,Michael Brantley,Cleveland,45.0,Top 25
+1442,2015,,Jose Altuve,Houston,200.0,Top 25
+1443,2015,,Chris Davis,Baltimore,47.0,Top 25
+1444,2015,,Miguel Cabrera,Detroit,0.44,Top 25
+1445,2015,,Josh Donaldson,Toronto,123.0,Top 25
+1446,2015,,Josh Donaldson,Toronto,122.0,Top 25
+1447,2015,,Mike Trout,Los Angeles,0.59,Top 25
+1448,2015,,Jose Altuve,Houston,38.0,Top 25
+1449,2015,,Josh Donaldson,Toronto,352.0,Top 25
+1450,2016,,Mike Trout,Los Angeles,116.0,Top 25
+1451,2016,,Jose Altuve,Houston,0.338,Top 25
+1452,2016,,David Ortiz,Boston,48.0,Top 25
+1453,2016,,Jose Altuve,Houston,216.0,Top 25
+1454,2016,,Mark Trumbo,Baltimore,47.0,Top 25
+1455,2016,,Mike Trout,Los Angeles,0.441,Top 25
+1456,2016,,Edwin Encarnacion,Toronto,127.0,Top 25
+1457,2016,,David Ortiz,Boston,127.0,Top 25
+1458,2016,,Mike Trout,Los Angeles,123.0,Top 25
+1459,2016,,David Ortiz,Boston,0.62,Top 25
+1460,2016,,Rajai Davis,Cleveland,43.0,Top 25
+1461,2016,,Mookie Betts,Boston,359.0,Top 25
+1462,2017,,Aaron Judge,New York Yankees,127.0,Top 25
+1463,2017,,Jose Altuve,Houston Astros,0.346,Top 25
+1464,2017,,Jose Ramirez,Cleveland Indians,56.0,Top 25
+1465,2017,,Jose Altuve,Houston Astros,204.0,Top 25
+1466,2017,,Aaron Judge,New York Yankees,52.0,Top 25
+1467,2017,,Mike Trout,Los Angeles Angels,0.442,Top 25
+1468,2017,,Nelson Cruz,Seattle Mariners,119.0,Top 25
+1469,2017,,Aaron Judge,New York Yankees,128.0,Top 25
+1470,2017,,Mike Trout,Los Angeles Angels,0.629,Top 25
+1471,2017,,Whit Merrifield,Kansas City Royals,34.0,Top 25
+1472,2017,,Jose Abreu,Chicago White Sox,343.0,Top 25
+1473,2017,,Nick Castellanos,Detroit Tigers,10.0,Top 25
+1474,2018,,Mike Trout,Los Angeles Angels,122.0,Top 25
+1475,2018,,Mookie Betts,Boston Red Sox,0.346,Top 25
+1476,2018,,Alex Bregman,Houston Astros,50.0,Top 25
+1477,2018,,Whit Merrifield,Kansas City Royals,192.0,Top 25
+1478,2018,,Khris Davis,Oakland Athletics,48.0,Top 25
+1479,2018,,Mike Trout,Los Angeles Angels,0.46,Top 25
+1480,2018,,J.D. Martinez,Boston Red Sox,130.0,Top 25
+1481,2018,,Mookie Betts,Boston Red Sox,129.0,Top 25
+1482,2018,,Mookie Betts,Boston Red Sox,0.64,Top 25
+1483,2018,,Whit Merrifield,Kansas City Royals,45.0,Top 25
+1484,2018,,J.D. Martinez,Boston Red Sox,358.0,Top 25
+1485,2018,,Yolmer Sanchez,Chicago White Sox,10.0,Top 25
+1486,2018,,Mallex Smith,Tampa Bay Rays,10.0,Top 25
+1487,2019,,Alex Bregman,Houston Astros,119.0,Top 25
+1488,2019,,Tim Anderson,Chicago White Sox,0.335,Top 25
+1489,2019,,Rafael Devers,Boston Red Sox,54.0,Top 25
+1490,2019,,Whit Merrifield,Kansas City Royals,206.0,Top 25
+1491,2019,,Jorge Soler,Kansas City Royals,48.0,Top 25
+1492,2019,,Mike Trout,Los Angeles Angels,0.438,Top 25
+1493,2019,,Jose Abreu,Chicago White Sox,123.0,Top 25
+1494,2019,,Mookie Betts,Boston Red Sox,135.0,Top 25
+1495,2019,,Mike Trout,Los Angeles Angels,0.645,Top 25
+1496,2019,,Mallex Smith,Tampa Bay Rays,46.0,Top 25
+1497,2019,,Rafael Devers,Boston Red Sox,359.0,Top 25
+1498,2019,,Hunter Dozier,Kansas City Royals,10.0,Top 25
+1499,2019,,Whit Merrifield,Kansas City Royals,10.0,Top 25
+1500,2020,,Carlos Santana,Cleveland Indians,47.0,Top 25
+1501,2020,,DJ LeMahieu,New York Yankees,0.364,Top 25
+1502,2020,,Cesar Hernandez,Cleveland Indians,20.0,Top 25
+1503,2020,,Jose Abreu,Chicago White Sox,76.0,Top 25
+1504,2020,,Luke Voit,New York Yankees,22.0,Top 25
+1505,2020,,DJ LeMahieu,New York Yankees,0.421,Top 25
+1506,2020,,Jose Abreu,Chicago White Sox,60.0,Top 25
+1507,2020,,Tim Anderson,Chicago White Sox,45.0,Top 25
+1508,2020,,Jose Ramirez,Cleveland Indians,45.0,Top 25
+1509,2020,,Jose Abreu,Chicago White Sox,0.617,Top 25
+1510,2020,,Adalberto Mondesi,Kansas City Royals,24.0,Top 25
+1511,2020,,Jose Abreu,Chicago White Sox,148.0,Top 25
+1512,2020,,Kyle Tucker,Houston Astros,6.0,Top 25
+1513,2021,,Joey Gallo,Texas Rangers,111.0,Top 25
+1514,2021,,Joey Gallo,New York Yankees,111.0,Top 25
+1515,2021,,Yuli Gurriel,Houston Astros,0.319,Top 25
+1516,2021,,Jeimer Candelario,Detroit Tigers,42.0,Top 25
+1517,2021,,J.D. Martinez,Boston Red Sox,42.0,Top 25
+1518,2021,,Whit Merrifield,Kansas City Royals,42.0,Top 25
+1519,2021,,Bo Bichette,Toronto Blue Jays,191.0,Top 25
+1520,2021,,Vladimir Guerrero Jr.,Toronto Blue Jays,48.0,Top 25
+1521,2021,,Salvador Perez,Kansas City Royals,48.0,Top 25
+1522,2021,,Vladimir Guerrero Jr.,Toronto Blue Jays,0.401,Top 25
+1523,2021,,Salvador Perez,Kansas City Royals,121.0,Top 25
+1524,2021,,Vladimir Guerrero Jr.,Toronto Blue Jays,123.0,Top 25
+1525,2021,,Vladimir Guerrero Jr.,Toronto Blue Jays,0.601,Top 25
+1526,2021,,Whit Merrifield,Kansas City Royals,40.0,Top 25
+1527,2021,,Vladimir Guerrero Jr.,Toronto Blue Jays,363.0,Top 25
+1528,2021,,Shohei Ohtani,Los Angeles Angels,8.0,Top 25
+1529,2022,,Aaron Judge,New York Yankees,111.0,Top 25
+1530,2022,,Luis Arraez,Minnesota Twins,0.316,Top 25
+1531,2022,,José Ramírez,Cleveland Guardians,44.0,Top 25
+1532,2022,,Bo Bichette,Toronto Blue Jays,189.0,Top 25
+1533,2022,,Aaron Judge,New York Yankees,62.0,Top 25
+1534,2022,,Aaron Judge,New York Yankees,0.425,Top 25
+1535,2022,,Aaron Judge,New York Yankees,131.0,Top 25
+1536,2022,,Aaron Judge,New York Yankees,133.0,Top 25
+1537,2022,,Aaron Judge,New York Yankees,0.686,Top 25
+1538,2022,,Jorge Mateo,Baltimore Orioles,35.0,Top 25
+1539,2022,,Aaron Judge,New York Yankees,391.0,Top 25
+1540,2022,,Amed Rosario,Cleveland Guardians,9.0,Top 25
+1541,2023,,J.P. Crawford,Seattle Mariners,94.0,Top 25
+1542,2023,,Yandy Díaz,Tampa Bay Rays,0.33,Top 25
+1543,2023,,Corey Seager,Texas Rangers,42.0,Top 25
+1544,2023,,Marcus Semien,Texas Rangers,185.0,Top 25
+1545,2023,,Shohei Ohtani,Los Angeles Angels,44.0,Top 25
+1546,2023,,Shohei Ohtani,Los Angeles Angels,0.412,Top 25
+1547,2023,,Kyle Tucker,Houston Astros,112.0,Top 25
+1548,2023,,Marcus Semien,Texas Rangers,122.0,Top 25
+1549,2023,,Shohei Ohtani,Los Angeles Angels,0.654,Top 25
+1550,2023,,Esteury Ruiz,Oakland Athletics,67.0,Top 25
+1551,2023,,Shohei Ohtani,Los Angeles Angels,325.0,Top 25
+1552,2023,,Bobby Witt Jr.,Kansas City Royals,11.0,Top 25
+1553,2024,,Aaron Judge,New York,133.0,Top 25
+1554,2024,,Bobby Witt Jr.,Kansas City,0.332,Top 25
+1555,2024,,Jarren Duran,Boston,48.0,Top 25
+1556,2024,,Bobby Witt Jr.,Kansas City,211.0,Top 25
+1557,2024,,Aaron Judge,New York,58.0,Top 25
+1558,2024,,Aaron Judge,New York,0.458,Top 25
+1559,2024,,Aaron Judge,New York,144.0,Top 25
+1560,2024,,Juan Soto,New York,128.0,Top 25
+1561,2024,,Aaron Judge,New York,0.701,Top 25
+1562,2024,,Jose Caballero,Tampa Bay,44.0,Top 25
+1563,2024,,Aaron Judge,New York,392.0,Top 25
+1564,2024,,Jarren Duran,Boston,14.0,Top 25
+1565,2025,,Aaron Judge,New York,124.0,Top 25
+1566,2025,,Aaron Judge,New York,0.331,Top 25
+1567,2025,,Bobby Witt Jr.,Kansas City,47.0,Top 25
+1568,2025,,Bobby Witt Jr.,Kansas City,184.0,Top 25
+1569,2025,,Cal Raleigh,Seattle,60.0,Top 25
+1570,2025,,Aaron Judge,New York,0.457,Top 25
+1571,2025,,Cal Raleigh,Seattle,125.0,Top 25
+1572,2025,,Aaron Judge,New York,137.0,Top 25
+1573,2025,,Aaron Judge,New York,0.688,Top 25
+1574,2025,,José Caballero,Tampa Bay (34),49.0,Top 25
+1575,2025,,José Caballero,New York (15),49.0,Top 25
+1576,2025,,Aaron Judge,New York,372.0,Top 25
+1577,2025,,Jarren Duran,Boston,13.0,Top 25

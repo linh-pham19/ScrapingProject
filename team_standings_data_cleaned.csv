@@ -1,0 +1,668 @@
+id,year,team_roster,wins,losses,win_percentage,games_behind
+1,1901,Chicago White Sox,83.0,53.0,0.61,0.0
+2,1901,Boston Americans,79.0,57.0,0.581,4.0
+3,1901,Detroit Tigers,74.0,61.0,0.548,8.5
+4,1901,Philadelphia Athletics,74.0,62.0,0.544,9.0
+5,1901,Baltimore Orioles,68.0,65.0,0.511,13.5
+6,1901,Washington Senators,61.0,72.0,0.459,20.5
+7,1901,Cleveland Blues,54.0,82.0,0.397,29.0
+8,1901,Milwaukee Brewers,48.0,89.0,0.35,35.5
+9,1902,Philadelphia Athletics,83.0,53.0,0.61,0.0
+10,1902,St. Louis Browns,78.0,58.0,0.574,5.0
+11,1902,Boston Americans,77.0,60.0,0.562,6.5
+12,1902,Chicago White Sox,74.0,60.0,0.552,8.0
+13,1902,Cleveland Blues,69.0,67.0,0.507,14.0
+14,1902,Washington Senators,61.0,75.0,0.449,22.0
+15,1902,Detroit Tigers,52.0,83.0,0.385,30.5
+16,1902,Baltimore Orioles,50.0,88.0,0.362,34.0
+17,1903,Boston Americans,91.0,47.0,0.659,0.0
+18,1903,Philadelphia Athletics,75.0,60.0,0.556,14.5
+19,1903,Cleveland Blues,77.0,63.0,0.55,15.0
+20,1903,New York Highlanders,72.0,62.0,0.537,17.0
+21,1903,Detroit Tigers,65.0,71.0,0.478,25.0
+22,1903,St. Louis Browns,65.0,74.0,0.468,26.5
+23,1903,Chicago White Sox,60.0,77.0,0.438,30.5
+24,1903,Washington Senators,43.0,94.0,0.314,47.5
+25,1904,Boston Americans,95.0,59.0,0.617,0.0
+26,1904,New York Highlanders,92.0,59.0,0.609,1.5
+27,1904,Chicago White Sox,89.0,65.0,0.578,6.0
+28,1904,Cleveland Blues,86.0,65.0,0.57,7.5
+29,1904,Philadelphia Athletics,81.0,70.0,0.536,12.5
+30,1904,St. Louis Browns,65.0,87.0,0.428,29.0
+31,1904,Detroit Tigers,62.0,90.0,0.408,32.0
+32,1904,Washington Senators,38.0,113.0,0.252,55.5
+33,1905,Philadelphia Athletics,92.0,56.0,0.622,0.0
+34,1905,Chicago White Sox,92.0,60.0,0.605,2.0
+35,1905,Detroit Tigers,79.0,74.0,0.516,15.5
+36,1905,Boston Americans,78.0,74.0,0.513,16.0
+37,1905,Cleveland Naps,76.0,78.0,0.494,19.0
+38,1905,New York Highlanders,71.0,78.0,0.477,21.5
+39,1906,Chicago White Sox,93.0,58.0,0.616,0.0
+40,1906,New York Highlanders,90.0,61.0,0.596,3.0
+41,1906,Cleveland Naps,89.0,64.0,0.582,5.0
+42,1906,Philadelphia Athletics,78.0,67.0,0.538,12.0
+43,1906,St. Louis Browns,76.0,73.0,0.51,16.0
+44,1906,Detroit Tigers,71.0,78.0,0.477,21.0
+45,1906,Washington Senators,55.0,95.0,0.367,37.5
+46,1906,Boston Americans,49.0,105.0,0.318,45.5
+47,1907,Detroit Tigers,92.0,58.0,0.613,0.0
+48,1907,Philadelphia Athletics,88.0,57.0,0.607,1.5
+49,1907,Chicago White Sox,87.0,64.0,0.576,5.5
+50,1907,Cleveland Naps,85.0,67.0,0.559,8.0
+51,1907,New York Highlanders,70.0,78.0,0.473,21.0
+52,1907,St. Louis Browns,69.0,83.0,0.454,24.0
+53,1907,Boston Americans,59.0,90.0,0.396,32.5
+54,1907,Washington Senators,49.0,102.0,0.325,43.5
+55,1908,Detroit Tigers,90.0,63.0,0.588,0.0
+56,1908,Cleveland Naps,90.0,64.0,0.584,0.5
+57,1908,Chicago White Sox,88.0,64.0,0.579,1.5
+58,1908,St. Louis Browns,83.0,69.0,0.546,6.5
+59,1908,Boston Red Sox,75.0,79.0,0.487,15.5
+60,1908,Philadelphia Athletics,68.0,85.0,0.444,22.0
+61,1908,Washington Senators,67.0,85.0,0.441,22.5
+62,1908,New York Highlanders,51.0,103.0,0.331,39.5
+63,1909,Detroit Tigers,98.0,54.0,0.645,0.0
+64,1909,Philadelphia Athletics,95.0,58.0,0.621,3.5
+65,1909,Boston Red Sox,88.0,63.0,0.583,9.5
+66,1909,Chicago White Sox,78.0,74.0,0.513,20.0
+67,1909,New York Highlanders,74.0,77.0,0.49,23.5
+68,1909,Cleveland Naps,71.0,82.0,0.464,27.5
+69,1909,St. Louis Browns,61.0,89.0,0.407,36.0
+70,1909,Washington Senators,42.0,110.0,0.276,56.0
+71,1910,Philadelphia Athletics,102.0,48.0,0.68,0.0
+72,1910,New York Highlanders,88.0,63.0,0.583,14.5
+73,1910,Detroit Tigers,86.0,68.0,0.558,18.0
+74,1910,Boston Red Sox,81.0,72.0,0.529,22.5
+75,1910,Cleveland Naps,71.0,81.0,0.467,32.0
+76,1910,Chicago White Sox,68.0,85.0,0.444,35.5
+77,1910,Washington Senators,66.0,85.0,0.437,36.5
+78,1910,St. Louis Browns,47.0,107.0,0.305,57.0
+79,1911,Philadelphia Athletics,101.0,50.0,0.669,0.0
+80,1911,Detroit Tigers,89.0,65.0,0.578,13.5
+81,1911,Cleveland Naps,80.0,73.0,0.523,22.0
+82,1911,Chicago White Sox,77.0,74.0,0.51,24.0
+83,1911,Boston Red Sox,78.0,75.0,0.51,24.0
+84,1911,New York Highlanders,76.0,76.0,0.5,25.5
+85,1911,Washington Senators,64.0,90.0,0.416,38.5
+86,1911,St. Louis Browns,45.0,107.0,0.296,56.5
+87,1912,Boston Red Sox,105.0,47.0,0.691,0.0
+88,1912,Washington Senators,91.0,61.0,0.599,14.0
+89,1912,Philadelphia Athletics,90.0,62.0,0.592,15.0
+90,1912,Chicago White Sox,78.0,76.0,0.506,28.0
+91,1912,Cleveland Naps,75.0,78.0,0.49,30.5
+92,1912,Detroit Tigers,69.0,84.0,0.451,36.5
+93,1912,St. Louis Browns,53.0,101.0,0.344,53.0
+94,1912,New York Highlanders,50.0,102.0,0.329,55.0
+95,1913,Philadelphia Athletics,96.0,57.0,0.627,0.0
+96,1913,Washington Senators,90.0,64.0,0.584,
+97,1913,Cleveland Naps,86.0,66.0,0.566,
+98,1913,Boston Red Sox,79.0,71.0,0.527,
+99,1913,Chicago White Sox,78.0,74.0,0.513,
+100,1913,Detroit Tigers,66.0,87.0,0.431,30.0
+101,1913,New York Yankees,57.0,94.0,0.377,38.0
+102,1913,St. Louis Browns,57.0,96.0,0.373,39.0
+103,1914,Philadelphia Athletics,99.0,53.0,0.651,0.0
+104,1914,Boston Red Sox,91.0,62.0,0.595,8.5
+105,1914,Washington Senators,81.0,73.0,0.526,19.0
+106,1914,Detroit Tigers,80.0,73.0,0.523,19.5
+107,1914,St. Louis Browns,71.0,82.0,0.464,28.5
+108,1914,New York Yankees,70.0,84.0,0.455,30.0
+109,1914,Chicago White Sox,70.0,84.0,0.455,30.0
+110,1915,Boston Red Sox,101.0,50.0,0.669,0.0
+111,1915,Detroit Tigers,100.0,54.0,0.649,2.5
+112,1915,Chicago White Sox,93.0,61.0,0.604,9.5
+113,1915,Washington Senators,85.0,68.0,0.556,17.0
+114,1915,New York Yankees,69.0,83.0,0.454,32.5
+115,1915,St. Louis Browns,63.0,91.0,0.409,39.5
+116,1915,Cleveland Indians,57.0,95.0,0.375,44.5
+117,1916,Boston Red Sox,91.0,63.0,0.591,0.0
+118,1916,Chicago White Sox,89.0,65.0,0.578,2.0
+119,1916,Detroit Tigers,87.0,67.0,0.565,4.0
+120,1916,New York Yankees,80.0,74.0,0.519,11.0
+121,1916,St. Louis Browns,79.0,75.0,0.513,12.0
+122,1916,Cleveland Indians,77.0,77.0,0.5,14.0
+123,1916,Washington Senators,76.0,77.0,0.497,14.5
+124,1917,Chicago White Sox,100.0,54.0,0.649,0.0
+125,1917,Boston Red Sox,90.0,62.0,0.592,9.0
+126,1917,Cleveland Indians,88.0,66.0,0.571,12.0
+127,1917,Detroit Tigers,78.0,75.0,0.51,21.5
+128,1917,Washington Senators,74.0,79.0,0.484,25.5
+129,1917,New York Yankees,71.0,82.0,0.464,28.5
+130,1917,St. Louis Browns,57.0,97.0,0.37,43.0
+131,1918,Boston Red Sox,75.0,51.0,0.595,0.0
+132,1918,Cleveland Indians,73.0,54.0,0.575,2.5
+133,1918,Washington Senators,72.0,56.0,0.563,4.0
+134,1918,New York Yankees,60.0,63.0,0.488,13.5
+135,1918,St. Louis Browns,58.0,64.0,0.475,15.0
+136,1918,Chicago White Sox,57.0,67.0,0.46,17.0
+137,1918,Detroit Tigers,55.0,71.0,0.437,20.0
+138,1918,Philadelphia Athletics,52.0,76.0,0.406,24.0
+139,1919,Chicago White Sox,88.0,52.0,0.629,0.0
+140,1919,Cleveland Indians,84.0,55.0,0.604,3.5
+141,1919,New York Yankees,80.0,59.0,0.576,7.5
+142,1919,Detroit Tigers,80.0,60.0,0.571,8.0
+143,1919,St. Louis Browns,67.0,72.0,0.482,20.5
+144,1919,Boston Red Sox,66.0,71.0,0.482,20.5
+145,1919,Washington Senators,56.0,84.0,0.4,32.0
+146,1919,Philadelphia Athletics,36.0,104.0,0.257,52.0
+147,1920,Cleveland Indians,98.0,56.0,0.636,0.0
+148,1920,Chicago White Sox,96.0,58.0,0.623,2.0
+149,1920,New York Yankees,95.0,59.0,0.617,3.0
+150,1920,St. Louis Browns,76.0,77.0,0.497,21.5
+151,1920,Boston Red Sox,72.0,81.0,0.471,25.5
+152,1920,Washington Senators,68.0,84.0,0.447,29.0
+153,1920,Detroit Tigers,61.0,93.0,0.396,37.0
+154,1920,Philadelphia Athletics,48.0,106.0,0.312,50.0
+155,1921,New York Yankees,98.0,55.0,0.641,0.0
+156,1921,Cleveland Indians,94.0,60.0,0.61,4.5
+157,1921,St. Louis Browns,81.0,73.0,0.526,17.5
+158,1921,Washington Senators,80.0,73.0,0.523,18.0
+159,1921,Boston Red Sox,75.0,79.0,0.487,23.5
+160,1921,Detroit Tigers,71.0,82.0,0.464,27.0
+161,1921,Chicago White Sox,62.0,92.0,0.403,36.5
+162,1921,Philadelphia Athletics,53.0,100.0,0.346,45.0
+163,1922,New York Yankees,94.0,60.0,0.61,0.0
+164,1922,St. Louis Browns,93.0,61.0,0.604,1.0
+165,1922,Detroit Tigers,79.0,75.0,0.513,15.0
+166,1922,Cleveland Indians,78.0,76.0,0.506,16.0
+167,1922,Chicago White Sox,77.0,77.0,0.5,17.0
+168,1922,Washington Senators,69.0,85.0,0.448,25.0
+169,1922,Philadelphia Athletics,65.0,89.0,0.422,29.0
+170,1922,Boston Red Sox,61.0,93.0,0.396,33.0
+171,1923,New York Yankees,98.0,54.0,0.61,0.0
+172,1923,Detroit Tigers,83.0,71.0,0.539,16.0
+173,1923,Cleveland Indians,82.0,71.0,0.536,16.5
+174,1923,Washington Senators,75.0,78.0,0.49,23.5
+175,1923,St. Louis Browns,74.0,78.0,0.487,24.0
+176,1923,Philadelphia Athletics,69.0,83.0,0.454,29.0
+177,1924,Washington Senators,92.0,62.0,0.597,0.0
+178,1924,New York Yankees,89.0,63.0,0.586,2.0
+179,1924,Detroit Tigers,86.0,68.0,0.558,6.0
+180,1924,St. Louis Browns,74.0,78.0,0.487,17.0
+181,1924,Philadelphia Athletics,71.0,81.0,0.467,20.0
+182,1924,Cleveland Indians,67.0,86.0,0.438,24.5
+183,1925,Washington Senators,96.0,55.0,0.636,0.0
+184,1925,Philadelphia Athletics,88.0,64.0,0.579,8.5
+185,1925,St. Louis Browns,82.0,71.0,0.536,15.0
+186,1925,Detroit Tigers,81.0,73.0,0.526,16.5
+187,1925,Chicago White Sox,79.0,75.0,0.513,18.5
+188,1925,Cleveland Indians,70.0,84.0,0.455,27.5
+189,1926,New York Yankees,91.0,63.0,0.591,0.0
+190,1926,Cleveland Indians,88.0,66.0,0.571,3.0
+191,1926,Philadelphia Athletics,83.0,67.0,0.553,6.0
+192,1926,Washington Senators,81.0,69.0,0.54,8.0
+193,1926,Chicago White Sox,81.0,72.0,0.529,9.5
+194,1926,Detroit Tigers,79.0,75.0,0.513,12.0
+195,1927,New York Yankees,110.0,44.0,0.714,0.0
+196,1927,Philadelphia Athletics,91.0,63.0,0.591,19.0
+197,1927,Washington Senators,85.0,69.0,0.552,25.0
+198,1927,Detroit Tigers,82.0,71.0,0.536,27.5
+199,1927,Chicago White Sox,70.0,83.0,0.458,39.5
+200,1927,Cleveland Indians,66.0,87.0,0.431,43.5
+201,1927,St. Louis Browns,59.0,94.0,0.386,50.5
+202,1927,Boston Red Sox,51.0,103.0,0.331,59.0
+203,1928,New York Yankees,101.0,53.0,0.0,0.656
+204,1928,Philadelphia Athletics,98.0,55.0,0.0,0.641
+205,1928,St. Louis Browns,82.0,72.0,0.0,0.532
+206,1928,Washington Senators,75.0,79.0,1.0,0.487
+207,1928,Chicago White Sox,72.0,82.0,1.0,0.468
+208,1928,Detroit Tigers,68.0,86.0,0.0,0.442
+209,1929,Philadelphia Athletics,104.0,46.0,0.693,0.0
+210,1929,New York Yankees,88.0,66.0,0.571,18.0
+211,1929,Cleveland Indians,81.0,71.0,0.533,24.0
+212,1929,St. Louis Browns,79.0,73.0,0.52,26.0
+213,1929,Washington Senators,71.0,81.0,0.467,34.0
+214,1929,Detroit Tigers,70.0,84.0,0.455,36.0
+215,1930,Philadelphia Athletics,102.0,52.0,0.662,0.0
+216,1930,Washington Senators,94.0,60.0,0.61,8.0
+217,1930,New York Yankees,86.0,68.0,0.558,16.0
+218,1930,Cleveland Indians,81.0,73.0,0.526,21.0
+219,1930,Detroit Tigers,75.0,79.0,0.487,27.0
+220,1930,St. Louis Browns,64.0,90.0,0.416,38.0
+221,1931,Philadelphia Athletics,107.0,45.0,0.704,0.0
+222,1931,New York Yankees,94.0,59.0,0.614,13.5
+223,1931,Washington Senators,92.0,62.0,0.597,16.0
+224,1931,Cleveland Indians,78.0,76.0,0.506,30.0
+225,1931,St. Louis Browns,63.0,91.0,0.409,45.0
+226,1931,Boston Red Sox,62.0,90.0,0.408,45.0
+227,1932,New York Yankees,107.0,47.0,0.695,0.0
+228,1932,Philadelphia Athletics,94.0,60.0,0.61,13.0
+229,1932,Washington Senators,93.0,61.0,0.604,14.0
+230,1932,Cleveland Indians,87.0,65.0,0.572,19.0
+231,1932,Detroit Tigers,76.0,75.0,0.503,29.5
+232,1932,St. Louis Browns,63.0,91.0,0.409,44.0
+233,1932,Chicago White Sox,49.0,102.0,0.325,56.5
+234,1932,Boston Red Sox,43.0,111.0,0.279,64.0
+235,1933,Washington Senators,99.0,53.0,0.651,0.0
+236,1933,New York Yankees,91.0,59.0,0.607,7.0
+237,1933,Philadelphia Athletics,79.0,72.0,0.523,19.5
+238,1933,Cleveland Indians,75.0,76.0,0.497,23.5
+239,1933,Detroit Tigers,75.0,79.0,0.487,25.0
+240,1933,Chicago White Sox,67.0,83.0,0.447,31.0
+241,1934,Detroit Tigers,101.0,53.0,0.656,0.0
+242,1934,New York Yankees,94.0,60.0,0.61,7.0
+243,1934,Cleveland Indians,85.0,69.0,0.552,16.0
+244,1934,Boston Red Sox,76.0,76.0,0.5,24.0
+245,1934,Philadelphia Athletics,68.0,82.0,0.453,31.0
+246,1934,St. Louis Browns,67.0,85.0,0.441,33.0
+247,1935,Detroit Tigers,93.0,58.0,0.616,0.0
+248,1935,New York Yankees,89.0,60.0,0.597,3.0
+249,1935,Cleveland Indians,82.0,71.0,0.536,12.0
+250,1935,Boston Red Sox,78.0,75.0,0.51,16.0
+251,1935,Chicago White Sox,74.0,78.0,0.487,19.5
+252,1935,Washington Senators,67.0,86.0,0.438,27.0
+253,1935,St. Louis Browns,65.0,87.0,0.428,28.5
+254,1935,Philadelphia Athletics,58.0,91.0,0.389,34.0
+255,1936,New York Yankees,102.0,51.0,0.667,0.0
+256,1936,Detroit Tigers,83.0,71.0,0.539,19.5
+257,1936,Chicago White Sox,81.0,70.0,0.536,20.0
+258,1936,Washington Senators,82.0,71.0,0.536,20.0
+259,1936,Cleveland Indians,80.0,74.0,0.519,22.5
+260,1936,Boston Red Sox,74.0,80.0,0.481,28.5
+261,1936,St. Louis Browns,57.0,95.0,0.375,44.5
+262,1936,Philadelphia Athletics,53.0,100.0,0.346,49.0
+263,1937,New York Yankees,102.0,52.0,0.662,0.0
+264,1937,Detroit Tigers,89.0,65.0,0.578,13.0
+265,1937,Chicago White Sox,86.0,68.0,0.558,16.0
+266,1937,Cleveland Indians,83.0,71.0,0.539,19.0
+267,1937,Boston Red Sox,80.0,72.0,0.526,21.0
+268,1937,Washington Senators,73.0,80.0,0.477,28.5
+269,1938,New York Yankees,99.0,53.0,0.651,0.0
+270,1938,Boston Red Sox,88.0,61.0,0.591,9.5
+271,1938,Cleveland Indians,86.0,66.0,0.566,13.0
+272,1938,Detroit Tigers,84.0,70.0,0.545,16.0
+273,1938,Washington Senators,75.0,76.0,0.497,23.5
+274,1938,Chicago White Sox,65.0,83.0,0.439,32.0
+275,1938,St. Louis Browns,55.0,97.0,0.362,44.0
+276,1938,Philadelphia Athletics,53.0,99.0,0.349,46.0
+277,1939,New York Yankees,106.0,45.0,0.702,0.0
+278,1939,Boston Red Sox,89.0,62.0,0.589,17.0
+279,1939,Cleveland Indians,87.0,67.0,0.565,20.5
+280,1939,Chicago White Sox,85.0,69.0,0.552,22.5
+281,1939,Detroit Tigers,81.0,73.0,0.526,26.5
+282,1939,Washington Senators,65.0,87.0,0.428,41.5
+283,1940,Detroit Tigers,90.0,64.0,0.584,0.0
+284,1940,Cleveland Indians,89.0,65.0,0.578,1.0
+285,1940,New York Yankees,88.0,66.0,0.571,2.0
+286,1940,Chicago White Sox,82.0,72.0,0.532,8.0
+287,1940,Boston Red Sox,82.0,72.0,0.532,8.0
+288,1940,St. Louis Browns,67.0,87.0,0.435,23.0
+289,1941,New York Yankees,101.0,53.0,0.656,0.0
+290,1941,Boston Red Sox,84.0,70.0,0.545,17.0
+291,1941,Chicago White Sox,77.0,77.0,0.5,24.0
+292,1941,Detroit Tigers,75.0,79.0,0.487,26.0
+293,1941,Cleveland Indians,75.0,79.0,0.487,26.0
+294,1941,Washington Senators,70.0,84.0,0.455,31.0
+295,1941,St. Louis Browns,70.0,84.0,0.455,31.0
+296,1941,Philadelphia Athletics,64.0,90.0,0.416,37.0
+297,1942,New York Yankees,103.0,51.0,0.669,0.0
+298,1942,Boston Red Sox,93.0,59.0,0.612,9.0
+299,1942,St. Louis Browns,82.0,69.0,0.543,19.5
+300,1942,Cleveland Indians,75.0,79.0,0.487,28.0
+301,1942,Detroit Tigers,73.0,81.0,0.474,30.0
+302,1942,Chicago White Sox,66.0,82.0,0.446,34.0
+303,1942,Washington Senators,62.0,89.0,0.411,39.5
+304,1942,Philadelphia Athletics,55.0,99.0,0.357,48.0
+305,1943,New York Yankees,98.0,56.0,0.636,0.0
+306,1943,Washington Senators,84.0,69.0,0.549,13.5
+307,1943,Cleveland Indians,82.0,71.0,0.536,15.5
+308,1943,Chicago White Sox,82.0,72.0,0.532,16.0
+309,1943,Detroit Tigers,78.0,76.0,0.506,20.0
+310,1943,St. Louis Browns,72.0,80.0,0.474,25.0
+311,1944,St. Louis Browns,89.0,65.0,0.578,0.0
+312,1944,Detroit Tigers,88.0,66.0,0.571,1.0
+313,1944,New York Yankees,83.0,71.0,0.539,6.0
+314,1944,Boston Red Sox,77.0,77.0,0.5,12.0
+315,1944,Philadelphia Athletics,72.0,82.0,0.468,17.0
+316,1944,Cleveland Indians,72.0,82.0,0.468,17.0
+317,1944,Chicago White Sox,71.0,83.0,0.461,18.0
+318,1944,Washington Senators,64.0,90.0,0.416,25.0
+319,1945,Detroit Tigers,88.0,65.0,0.575,0.0
+320,1945,Washington Senators,87.0,67.0,0.565,1.5
+321,1945,St. Louis Browns,81.0,70.0,0.536,6.0
+322,1945,New York Yankees,81.0,71.0,0.533,6.5
+323,1945,Cleveland Indians,73.0,72.0,0.503,11.0
+324,1945,Chicago White Sox,71.0,78.0,0.477,15.0
+325,1945,Boston Red Sox,71.0,83.0,0.461,17.5
+326,1945,Philadelphia Athletics,52.0,98.0,0.347,34.5
+327,1946,Boston Red Sox,104.0,50.0,0.675,0.0
+328,1946,Detroit Tigers,92.0,62.0,0.597,12.0
+329,1946,New York Yankees,87.0,67.0,0.565,17.0
+330,1946,Washington Senators,76.0,78.0,0.484,28.0
+331,1946,Chicago White Sox,74.0,80.0,0.481,30.0
+332,1946,Cleveland Indians,68.0,86.0,0.442,36.0
+333,1947,New York Yankees,97.0,57.0,0.63,0.0
+334,1947,Detroit Tigers,85.0,69.0,0.552,12.0
+335,1947,Boston Red Sox,83.0,71.0,0.539,14.0
+336,1947,Cleveland Indians,80.0,74.0,0.519,17.0
+337,1947,Philadelphia Athletics,78.0,76.0,0.506,19.0
+338,1947,Chicago White Sox,70.0,84.0,0.455,27.0
+339,1948,Cleveland Indians,97.0,58.0,0.626,0.0
+340,1948,Boston Red Sox,96.0,59.0,0.619,1.0
+341,1948,New York Yankees,94.0,60.0,0.61,2.5
+342,1948,Philadelphia Athletics,84.0,70.0,0.545,12.5
+343,1948,Detroit Tigers,78.0,76.0,0.506,18.5
+344,1948,St. Louis Browns,59.0,94.0,0.386,37.0
+345,1949,New York Yankees,97.0,57.0,0.63,0.0
+346,1949,Boston Red Sox,96.0,58.0,0.623,1.0
+347,1949,Cleveland Indians,89.0,65.0,0.578,8.0
+348,1949,Detroit Tigers,87.0,67.0,0.565,10.0
+349,1949,Philadelphia Athletics,81.0,73.0,0.526,16.0
+350,1949,Chicago White Sox,63.0,91.0,0.409,34.0
+351,1950,New York Yankees,98.0,56.0,0.636,0.0
+352,1950,Detroit Tigers,95.0,59.0,0.617,3.0
+353,1950,Boston Red Sox,94.0,60.0,0.61,4.0
+354,1950,Cleveland Indians,92.0,62.0,0.597,6.0
+355,1950,Washington Senators,67.0,87.0,0.435,31.0
+356,1950,Chicago White Sox,60.0,94.0,0.39,39.0
+357,1951,New York Yankees,98.0,56.0,0.636,0.0
+358,1951,Cleveland Indians,93.0,61.0,0.604,5.0
+359,1951,Boston Red Sox,87.0,67.0,0.565,11.0
+360,1951,Chicago White Sox,81.0,73.0,0.526,17.0
+361,1951,Detroit Tigers,73.0,81.0,0.474,25.0
+362,1951,Philadelphia Athletics,70.0,84.0,0.455,28.0
+363,1952,New York Yankees,95.0,59.0,0.617,0.0
+364,1952,Cleveland Indians,93.0,61.0,0.604,2.0
+365,1952,Chicago White Sox,81.0,73.0,0.526,14.0
+366,1952,Philadelphia Athletics,79.0,75.0,0.513,16.0
+367,1952,Washington Senators,78.0,76.0,0.506,17.0
+368,1952,Boston Red Sox,76.0,78.0,0.494,19.0
+369,1953,New York Yankees,99.0,52.0,0.656,0.0
+370,1953,Cleveland Indians,92.0,62.0,0.597,8.5
+371,1953,Chicago White Sox,89.0,65.0,0.578,11.5
+372,1953,Boston Red Sox,84.0,69.0,0.549,16.0
+373,1953,Washington Senators,76.0,76.0,0.5,23.5
+374,1953,Detroit Tigers,60.0,94.0,0.39,40.5
+375,1954,Cleveland Indians,111.0,43.0,0.721,0.0
+376,1954,New York Yankees,103.0,51.0,0.669,8.0
+377,1954,Chicago White Sox,94.0,60.0,0.61,17.0
+378,1954,Boston Red Sox,69.0,85.0,0.448,42.0
+379,1954,Detroit Tigers,68.0,86.0,0.442,43.0
+380,1954,Washington Senators,66.0,88.0,0.429,45.0
+381,1955,New York Yankees,96.0,58.0,0.623,0.0
+382,1955,Cleveland Indians,93.0,61.0,0.604,3.0
+383,1955,Chicago White Sox,91.0,63.0,0.591,5.0
+384,1955,Boston Red Sox,84.0,70.0,0.545,12.0
+385,1955,Detroit Tigers,79.0,75.0,0.513,17.0
+386,1955,Kansas City Athletics,63.0,91.0,0.409,33.0
+387,1955,Baltimore Orioles,57.0,97.0,0.37,39.0
+388,1955,Washington Senators,53.0,101.0,0.344,43.0
+389,1956,New York Yankees,97.0,57.0,0.63,0.0
+390,1956,Cleveland Indians,88.0,66.0,0.571,9.0
+391,1956,Chicago White Sox,85.0,69.0,0.552,12.0
+392,1956,Boston Red Sox,84.0,70.0,0.545,13.0
+393,1956,Detroit Tigers,82.0,72.0,0.532,15.0
+394,1956,Baltimore Orioles,69.0,85.0,0.448,28.0
+395,1957,New York Yankees,98.0,56.0,0.636,0.0
+396,1957,Chicago White Sox,90.0,64.0,0.584,8.0
+397,1957,Boston Red Sox,82.0,72.0,0.532,16.0
+398,1957,Detroit Tigers,78.0,76.0,0.506,20.0
+399,1957,Baltimore Orioles,76.0,76.0,0.5,21.0
+400,1957,Cleveland Indians,76.0,77.0,0.497,21.5
+401,1958,New York Yankees,92.0,62.0,0.597,0.0
+402,1958,Chicago White Sox,82.0,72.0,0.532,10.0
+403,1958,Boston Red Sox,79.0,75.0,0.513,13.0
+404,1958,Cleveland Indians,77.0,76.0,0.503,14.5
+405,1958,Detroit Tigers,77.0,77.0,0.5,15.0
+406,1958,Baltimore Orioles,74.0,79.0,0.484,17.5
+407,1959,Chicago White Sox,94.0,60.0,0.61,0.0
+408,1959,Cleveland Indians,89.0,65.0,0.578,5.0
+409,1959,New York Yankees,79.0,75.0,0.513,15.0
+410,1959,Detroit Tigers,76.0,78.0,0.494,18.0
+411,1959,Boston Red Sox,75.0,79.0,0.487,19.0
+412,1959,Baltimore Orioles,74.0,80.0,0.481,20.0
+413,1960,New York Yankees,97.0,57.0,0.63,0.0
+414,1960,Baltimore Orioles,89.0,65.0,0.578,8.0
+415,1960,Chicago White Sox,87.0,67.0,0.565,10.0
+416,1960,Cleveland Indians,76.0,78.0,0.494,21.0
+417,1960,Washington Senators,73.0,81.0,0.474,24.0
+418,1960,Detroit Tigers,71.0,83.0,0.461,26.0
+419,1961,New York Yankees,109.0,53.0,0.673,0.0
+420,1961,Detroit Tigers,101.0,61.0,0.623,8.0
+421,1961,Baltimore Orioles,95.0,67.0,0.586,14.0
+422,1961,Chicago White Sox,86.0,76.0,0.531,23.0
+423,1961,Cleveland Indians,78.0,83.0,0.484,30.5
+424,1961,Boston Red Sox,76.0,86.0,0.469,33.0
+425,1961,Minnesota Twins,70.0,90.0,0.438,38.0
+426,1961,Los Angeles Angels,70.0,91.0,0.435,39.0
+427,1961,Kansas City Athletics,61.0,100.0,0.379,47.5
+428,1961,Washington Senators,61.0,100.0,0.379,47.5
+429,1962,New York Yankees,96.0,66.0,0.593,0.0
+430,1962,Minnesota Twins,91.0,71.0,0.562,5.0
+431,1962,Los Angeles Angels,86.0,76.0,0.531,10.0
+432,1962,Detroit Tigers,85.0,76.0,0.528,10.5
+433,1962,Chicago White Sox,85.0,77.0,0.525,11.0
+434,1962,Cleveland Indians,80.0,82.0,0.494,16.0
+435,1962,Baltimore Orioles,77.0,85.0,0.475,19.0
+436,1962,Boston Red Sox,76.0,84.0,0.475,19.0
+437,1963,New York Yankees,104.0,57.0,0.646,0.0
+438,1963,Chicago White Sox,94.0,68.0,0.58,10.5
+439,1963,Minnesota Twins,91.0,70.0,0.565,13.0
+440,1963,Baltimore Orioles,86.0,76.0,0.531,18.5
+441,1963,Detroit Tigers,79.0,83.0,0.488,25.5
+442,1963,Cleveland Indians,79.0,83.0,0.488,25.5
+443,1963,Boston Red Sox,76.0,85.0,0.472,28.0
+444,1963,Kansas City Athletics,73.0,89.0,0.451,31.5
+445,1964,New York Yankees,99.0,63.0,0.611,0.0
+446,1964,Chicago White Sox,98.0,64.0,0.605,1.0
+447,1964,Baltimore Orioles,97.0,65.0,0.599,2.0
+448,1964,Detroit Tigers,85.0,77.0,0.525,14.0
+449,1964,Los Angeles Angels,82.0,80.0,0.506,17.0
+450,1964,Minnesota Twins,79.0,83.0,0.488,20.0
+451,1964,Cleveland Indians,79.0,83.0,0.488,20.0
+452,1964,Boston Red Sox,72.0,90.0,0.444,27.0
+453,1964,Washington Senators,62.0,100.0,0.383,37.0
+454,1964,Kansas City Athletics,57.0,105.0,0.352,42.0
+455,1965,Minnesota Twins,102.0,60.0,0.63,0.0
+456,1965,Chicago White Sox,95.0,67.0,0.586,7.0
+457,1965,Baltimore Orioles,94.0,68.0,0.58,8.0
+458,1965,Detroit Tigers,89.0,73.0,0.549,13.0
+459,1965,Cleveland Indians,87.0,75.0,0.537,15.0
+460,1965,New York Yankees,77.0,85.0,0.475,25.0
+461,1965,California Angels,75.0,87.0,0.463,27.0
+462,1965,Washington Senators,70.0,92.0,0.432,32.0
+463,1965,Boston Red Sox,62.0,100.0,0.383,40.0
+464,1965,Kansas City Athletics,59.0,103.0,0.364,43.0
+465,1966,Baltimore Orioles,97.0,63.0,0.606,0.0
+466,1966,Minnesota Twins,89.0,73.0,0.549,9.0
+467,1966,Detroit Tigers,88.0,74.0,0.543,10.0
+468,1966,Chicago White Sox,83.0,79.0,0.512,15.0
+469,1966,Cleveland Indians,81.0,81.0,0.5,17.0
+470,1966,California Angels,80.0,82.0,0.494,18.0
+471,1966,Kansas City Athletics,74.0,86.0,0.463,23.0
+472,1966,Washington Senators,71.0,88.0,0.447,25.5
+473,1966,Boston Red Sox,72.0,90.0,0.444,25.0
+474,1966,New York Yankees,70.0,89.0,0.44,26.5
+475,1967,Boston Red Sox,92.0,70.0,0.568,0.0
+476,1967,Minnesota Twins,91.0,71.0,0.562,1.0
+477,1967,Detroit Tigers,91.0,71.0,0.562,1.0
+478,1967,Chicago White Sox,89.0,73.0,0.549,3.0
+479,1967,California Angels,84.0,77.0,0.522,7.5
+480,1967,Washington Senators,76.0,85.0,0.472,15.5
+481,1967,Baltimore Orioles,76.0,85.0,0.472,15.5
+482,1967,Cleveland Indians,75.0,87.0,0.463,17.0
+483,1967,New York Yankees,72.0,90.0,0.444,20.0
+484,1967,Kansas City Athletics,62.0,99.0,0.385,29.5
+485,1968,Detroit Tigers,103.0,59.0,0.636,0.0
+486,1968,Baltimore Orioles,91.0,71.0,0.562,12.0
+487,1968,Cleveland Indians,86.0,75.0,0.534,16.5
+488,1968,Boston Red Sox,86.0,76.0,0.531,17.0
+489,1968,New York Yankees,83.0,79.0,0.512,20.0
+490,1968,Oakland Athletics,82.0,80.0,0.506,21.0
+491,1968,Minnesota Twins,79.0,83.0,0.488,24.0
+492,1968,California Angels,67.0,95.0,0.414,36.0
+750,1986,California Angels,92.0,70.0,0.568,0.0
+751,1986,Texas Rangers,87.0,75.0,0.537,5.0
+752,1986,Kansas City Royals,76.0,86.0,0.469,16.0
+753,1986,Oakland Athletics,76.0,86.0,0.469,16.0
+754,1986,Chicago White Sox,72.0,90.0,0.444,20.0
+755,1986,Minnesota Twins,71.0,91.0,0.438,21.0
+763,1987,Minnesota Twins,85.0,77.0,0.525,0.0
+764,1987,Kansas City Royals,83.0,79.0,0.512,2.0
+765,1987,Oakland Athletics,81.0,81.0,0.5,4.0
+766,1987,Seattle Mariners,78.0,84.0,0.481,7.0
+767,1987,Chicago White Sox,77.0,85.0,0.475,8.0
+768,1987,Texas Rangers,75.0,87.0,0.463,10.0
+776,1988,Oakland Athletics,104.0,58.0,0.642,0.0
+777,1988,Minnesota Twins,91.0,71.0,0.562,13.0
+778,1988,Kansas City Royals,84.0,77.0,0.522,19.5
+779,1988,California Angels,75.0,87.0,0.463,29.0
+780,1988,Chicago White Sox,71.0,90.0,0.441,32.5
+781,1988,Texas Rangers,70.0,91.0,0.435,33.5
+789,1989,Oakland Athletics,99.0,63.0,0.611,0.0
+790,1989,Kansas City Royals,92.0,70.0,0.568,7.0
+791,1989,California Angels,91.0,71.0,0.562,8.0
+792,1989,Texas Rangers,83.0,79.0,0.512,16.0
+793,1989,Minnesota Twins,80.0,82.0,0.494,19.0
+794,1989,Seattle Mariners,73.0,89.0,0.451,26.0
+802,1990,Oakland Athletics,103.0,59.0,0.636,0.0
+803,1990,Chicago White Sox,94.0,68.0,0.58,9.0
+804,1990,Texas Rangers,83.0,79.0,0.512,20.0
+805,1990,California Angels,80.0,82.0,0.494,23.0
+806,1990,Seattle Mariners,77.0,85.0,0.475,26.0
+807,1990,Kansas City Royals,75.0,86.0,0.466,27.5
+815,1992,Oakland Athletics,96.0,66.0,0.593,0.0
+816,1992,Minnesota Twins,90.0,72.0,0.556,6.0
+817,1992,Chicago White Sox,86.0,76.0,0.531,10.0
+818,1992,Texas Rangers,77.0,85.0,0.475,19.0
+819,1992,Kansas City Royals,72.0,90.0,0.444,24.0
+820,1992,California Angels,72.0,90.0,0.444,24.0
+828,1993,Chicago White Sox,94.0,68.0,0.58,0.0
+829,1993,Texas Rangers,86.0,76.0,0.531,8.0
+830,1993,Kansas City Royals,84.0,78.0,0.519,10.0
+831,1993,Seattle Mariners,82.0,80.0,0.506,12.0
+832,1993,California Angels,71.0,91.0,0.438,23.0
+833,1993,Minnesota Twins,71.0,91.0,0.438,23.0
+844,1994,Texas Rangers,52.0,62.0,0.456,0.0
+845,1994,Oakland Athletics,51.0,63.0,0.447,1.0
+846,1994,Seattle Mariners,49.0,63.0,0.438,2.0
+857,1995,Seattle Mariners,79.0,66.0,0.545,0.0
+858,1995,California Angels,78.0,67.0,0.538,1.0
+859,1995,Texas Rangers,74.0,70.0,0.514,4.5
+870,1996,Texas Rangers,90.0,72.0,0.556,0.0
+871,1996,Seattle Mariners,85.0,76.0,0.528,4.5
+872,1996,Oakland Athletics,78.0,84.0,0.481,12.0
+878,1997,Cleveland Indians,86.0,75.0,0.534,
+879,1997,Chicago White Sox,80.0,81.0,0.497,
+880,1997,Milwaukee Brewers,78.0,83.0,0.484,
+881,1997,Minnesota Twins,68.0,94.0,0.42,
+882,1997,Kansas City Royals,67.0,94.0,0.416,
+896,1998,Texas Rangers,88.0,74.0,0.543,0.0
+897,1998,Anaheim Angels,85.0,77.0,0.525,3.0
+898,1998,Seattle Mariners,76.0,85.0,0.472,11.5
+909,1999,Texas Rangers,95.0,67.0,0.586,0.0
+910,1999,Oakland Athletics,87.0,75.0,0.537,8.0
+911,1999,Seattle Mariners,79.0,83.0,0.488,16.0
+922,2000,Oakland Athletics,91.0,70.0,0.565,0.0
+923,2000,Seattle Mariners,91.0,71.0,0.562,0.5
+924,2000,Anaheim Angels,82.0,80.0,0.506,9.5
+935,2001,Seattle Mariners,116.0,46.0,0.716,0.0
+936,2001,Oakland Athletics,102.0,60.0,0.63,13.0
+937,2001,Anaheim Angels,75.0,87.0,0.463,41.0
+948,2002,Oakland Athletics,103.0,59.0,0.636,
+949,2002,Anaheim Angels,99.0,63.0,0.611,4.0
+950,2002,Seattle Mariners,93.0,69.0,0.574,10.0
+961,2003,Oakland Athletics,96.0,66.0,0.0,0.593
+962,2003,Seattle Mariners,93.0,69.0,0.0,0.574
+963,2003,Anaheim Angels,77.0,85.0,0.0,0.475
+974,2004,Anaheim Angels,92.0,70.0,0.0,0.568
+975,2004,Oakland Athletics,91.0,71.0,0.0,0.562
+976,2004,Texas Rangers,89.0,73.0,0.0,0.549
+987,2005,Los Angeles Angels of Anaheim,95.0,67.0,0.0,0.586
+988,2005,Oakland Athletics,88.0,74.0,0.0,0.543
+989,2005,Texas Rangers,79.0,83.0,0.0,0.488
+990,2005,Seattle Mariners,69.0,93.0,0.0,0.426
+996,2006,Minnesota Twins,96.0,66.0,0.0,
+997,2006,Detroit Tigers,95.0,67.0,0.0,
+998,2006,Chicago White Sox,90.0,72.0,0.0,
+999,2006,Cleveland Indians,78.0,84.0,0.0,
+1000,2006,Kansas City Royals,62.0,100.0,0.0,
+1010,2007,Cleveland Indians,96.0,66.0,0.0,
+1011,2007,Detroit Tigers,88.0,74.0,0.0,
+1012,2007,Minnesota Twins,79.0,83.0,0.0,
+1013,2007,Chicago White Sox,72.0,90.0,0.0,
+1014,2007,Kansas City Royals,69.0,93.0,0.0,
+1024,2008,Chicago White Sox,89.0,74.0,0.0,
+1025,2008,Minnesota Twins,88.0,75.0,0.0,
+1026,2008,Cleveland Indians,81.0,81.0,0.0,
+1027,2008,Kansas City Royals,75.0,87.0,0.0,
+1028,2008,Detroit Tigers,74.0,88.0,0.0,
+1043,2009,Los Angeles Angels,97.0,65.0,0.0,0.599
+1044,2009,Texas Rangers,87.0,75.0,0.0,0.537
+1045,2009,Seattle Mariners,85.0,77.0,0.0,0.525
+1046,2009,Oakland Athletics,75.0,87.0,0.0,0.463
+1052,2010,Minnesota Twins,94.0,68.0,0.0,
+1053,2010,Chicago White Sox,88.0,74.0,0.0,
+1054,2010,Detroit Tigers,81.0,81.0,0.0,
+1055,2010,Cleveland Indians,69.0,93.0,0.0,
+1056,2010,Kansas City Royals,67.0,95.0,0.0,
+1066,2011,Detroit Tigers,95.0,67.0,0.0,
+1067,2011,Cleveland Indians,80.0,82.0,0.0,
+1068,2011,Chicago White Sox,79.0,83.0,0.0,
+1069,2011,Kansas City Royals,71.0,91.0,0.0,
+1070,2011,Minnesota Twins,63.0,99.0,0.0,
+1080,2012,Detroit Tigers,88.0,74.0,0.0,
+1081,2012,Chicago White Sox,85.0,77.0,0.0,
+1082,2012,Kansas City Royals,72.0,90.0,0.0,
+1083,2012,Cleveland Indians,68.0,94.0,0.0,
+1084,2012,Minnesota Twins,66.0,96.0,0.0,
+1099,2013,Oakland Athletics,96.0,66.0,0.0,0.593
+1100,2013,Texas Rangers,91.0,72.0,0.0,0.558
+1101,2013,Los Angeles Angels,78.0,84.0,0.0,0.481
+1102,2013,Seattle Mariners,71.0,91.0,0.0,0.438
+1103,2013,Houston Astros,51.0,111.0,0.0,0.315
+1109,2014,Detroit Tigers,90.0,72.0,0.0,
+1110,2014,Kansas City Royals,89.0,73.0,0.0,
+1111,2014,Cleveland Indians,85.0,77.0,0.0,
+1112,2014,Chicago White Sox,73.0,89.0,0.0,
+1113,2014,Minnesota Twins,70.0,92.0,0.0,
+1129,2015,Texas Rangers,88.0,74.0,0.0,0.543
+1130,2015,Houston Astros,86.0,76.0,0.0,0.531
+1131,2015,Los Angeles Angels,85.0,77.0,0.0,0.525
+1132,2015,Seattle Mariners,76.0,86.0,0.0,0.469
+1133,2015,Oakland Athletics,68.0,94.0,0.0,0.42
+1144,2016,Texas Rangers,95.0,67.0,0.0,0.586
+1145,2016,Seattle Mariners,86.0,76.0,0.0,0.531
+1146,2016,Houston Astros,84.0,78.0,0.0,0.519
+1147,2016,Los Angeles Angels,74.0,88.0,0.0,0.457
+1148,2016,Oakland Athletics,69.0,93.0,0.0,0.426
+1154,2017,Cleveland Indians,102.0,60.0,0.0,
+1155,2017,Minnesota Twins,85.0,77.0,0.0,
+1156,2017,Kansas City Royals,80.0,82.0,0.0,
+1157,2017,Chicago White Sox,67.0,95.0,0.0,
+1158,2017,Detroit Tigers,64.0,98.0,0.0,
+1189,2019,Houston Astros,107.0,55.0,0.0,0.66
+1190,2019,Oakland Athletics,97.0,65.0,0.0,0.599
+1191,2019,Texas Rangers,78.0,84.0,0.0,0.481
+1192,2019,Los Angeles Angels,72.0,90.0,0.0,0.444
+1193,2019,Seattle Mariners,68.0,94.0,0.0,0.42
+1199,2020,Minnesota Twins,36.0,24.0,0.0,
+1200,2020,Chicago White Sox,35.0,25.0,0.0,
+1201,2020,Cleveland Indians,35.0,25.0,0.0,
+1202,2020,Kansas City Royals,26.0,34.0,0.0,
+1203,2020,Detroit Tigers,23.0,35.0,0.0,
+1214,2021,Chicago White Sox,93.0,69.0,0.0,
+1215,2021,Cleveland Indians,80.0,82.0,0.0,
+1216,2021,Detroit Tigers,77.0,85.0,0.0,
+1217,2021,Kansas City Royals,74.0,88.0,0.0,
+1218,2021,Minnesota Twins,73.0,89.0,0.0,
+1229,2022,Cleveland Guardians,92.0,70.0,0.0,
+1230,2022,Chicago White Sox,81.0,81.0,0.0,
+1231,2022,Minnesota Twins,78.0,84.0,0.0,
+1232,2022,Detroit Tigers,66.0,96.0,0.0,
+1233,2022,Kansas City Royals,65.0,97.0,0.0,
+1244,2023,Minnesota Twins,87.0,75.0,0.0,
+1245,2023,Detroit Tigers,78.0,84.0,0.0,
+1246,2023,Cleveland Guardians,76.0,86.0,0.0,
+1247,2023,Chicago White Sox,61.0,101.0,0.0,
+1248,2023,Kansas City Royals,56.0,106.0,0.0,
+1259,2024,Cleveland Guardians,92.0,69.0,0.0,
+1260,2024,Kansas City Royals,86.0,76.0,0.0,
+1261,2024,Detroit Tigers,86.0,76.0,0.0,
+1262,2024,Minnesota Twins,82.0,80.0,0.0,
+1263,2024,Chicago White Sox,41.0,121.0,0.0,
+1274,2025,Cleveland Guardians,88.0,74.0,0.0,
+1275,2025,Detroit Tigers wc,87.0,75.0,0.0,
+1276,2025,Kansas City Royals,82.0,80.0,0.0,
+1277,2025,Minnesota Twins,70.0,92.0,0.0,
+1278,2025,Chicago White Sox,60.0,102.0,0.0,

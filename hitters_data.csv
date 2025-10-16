@@ -1097,3 +1097,482 @@ id,year,statistic,name,team,value,top_25
 1096,1986,Slugging Average,Don Mattingly,New York,.573,Top 25
 1097,1986,Stolen Bases,Rickey Henderson,New York,87,Top 25
 1098,1986,Total Bases,Don Mattingly,New York,388,Top 25
+1099,1987,Base on Balls,Dwight Evans,Boston,106,Top 25
+1100,1987,Batting Average,Wade Boggs,Boston,.363,Top 25
+1101,1987,Doubles,Paul Molitor,Milwaukee,41,Top 25
+1102,1987,Hits,Kirby Puckett,Minnesota,207,Top 25
+1103,1987,Hits,Kevin Seitzer,Kansas City,207,Top 25
+1104,1987,Home Runs,Mark McGwire,Oakland,49,Top 25
+1105,1987,On Base Percentage,Wade Boggs,Boston,.467,Top 25
+1106,1987,RBI,George Bell,Toronto,134,Top 25
+1107,1987,Runs,Paul Molitor,Milwaukee,114,Top 25
+1108,1987,Slugging Average,Mark McGwire,Oakland,.618,Top 25
+1109,1987,Stolen Bases,Harold Reynolds,Seattle,67,Top 25
+1110,1987,Total Bases,George Bell,Toronto,369,Top 25
+1111,1988,Base on Balls,Wade Boggs,Boston,125,Top 25
+1112,1988,Batting Average,Wade Boggs,Boston,.366,Top 25
+1113,1988,Doubles,Wade Boggs,Boston,45,Top 25
+1114,1988,Hits,Kirby Puckett,Minnesota,234,Top 25
+1115,1988,Home Runs,Jose Canseco,Oakland,42,Top 25
+1116,1988,On Base Percentage,Wade Boggs,Boston,.480,Top 25
+1117,1988,RBI,Jose Canseco,Oakland,124,Top 25
+1118,1988,Runs,Wade Boggs,Boston,128,Top 25
+1119,1988,Slugging Average,Jose Canseco,Oakland,.569,Top 25
+1120,1988,Stolen Bases,Rickey Henderson,New York,93,Top 25
+1121,1988,Total Bases,Kirby Puckett,Minnesota,358,Top 25
+1122,1988,Triples,Harold Reynolds,Seattle,11,Top 25
+1123,1988,Triples,Willie Wilson,Kansas City,11,Top 25
+1124,1989,Base on Balls,Rickey Henderson,New York,126,Top 25
+1125,1989,Base on Balls,Rickey Henderson,Oakland,126,Top 25
+1126,1989,Batting Average,Kirby Puckett,Minnesota,.339,Top 25
+1127,1989,Doubles,Wade Boggs,Boston,51,Top 25
+1128,1989,Hits,Kirby Puckett,Minnesota,215,Top 25
+1129,1989,Home Runs,Fred McGriff,Toronto,36,Top 25
+1130,1989,On Base Percentage,Wade Boggs,Boston,.434,Top 25
+1131,1989,RBI,Ruben Sierra,Texas,119,Top 25
+1132,1989,Runs,Wade Boggs,Boston,113,Top 25
+1133,1989,Runs,Rickey Henderson,New York,113,Top 25
+1134,1989,Runs,Rickey Henderson,Oakland,113,Top 25
+1135,1989,Slugging Average,Ruben Sierra,Texas,.543,Top 25
+1136,1989,Stolen Bases,Rickey Henderson,New York,77,Top 25
+1137,1989,Stolen Bases,Rickey Henderson,Oakland,77,Top 25
+1138,1989,Total Bases,Ruben Sierra,Texas,344,Top 25
+1139,1990,Base on Balls,Mark McGwire,Oakland,110,Top 25
+1140,1990,Batting Average,George Brett,Kansas City,.329,Top 25
+1141,1990,Doubles,George Brett,Kansas City,45,Top 25
+1142,1990,Doubles,Jody Reed,Boston,45,Top 25
+1143,1990,Hits,Rafael Palmeiro,Texas,191,Top 25
+1144,1990,Home Runs,Cecil Fielder,Detroit,51,Top 25
+1145,1990,On Base Percentage,Rickey Henderson,Oakland,.441,Top 25
+1146,1990,RBI,Cecil Fielder,Detroit,132,Top 25
+1147,1990,Runs,Rickey Henderson,Oakland,119,Top 25
+1148,1990,Slugging Average,Cecil Fielder,Detroit,.592,Top 25
+1149,1990,Stolen Bases,Rickey Henderson,Oakland,65,Top 25
+1150,1990,Total Bases,Cecil Fielder,Detroit,339,Top 25
+1151,1991,Base on Balls,Frank Thomas,Chicago,138,Top 25
+1152,1991,Batting Average,Julio Franco,Texas,.341,Top 25
+1153,1991,Doubles,Rafael Palmeiro,Texas,49,Top 25
+1154,1991,Hits,Paul Molitor,Milwaukee,216,Top 25
+1155,1991,Home Runs,Jose Canseco,Oakland,44,Top 25
+1156,1991,Home Runs,Cecil Fielder,Detroit,44,Top 25
+1157,1991,On Base Percentage,Frank Thomas,Chicago,.454,Top 25
+1158,1991,RBI,Cecil Fielder,Detroit,133,Top 25
+1159,1991,Runs,Paul Molitor,Milwaukee,133,Top 25
+1160,1991,Slugging Average,Danny Tartabull,Kansas City,.593,Top 25
+1161,1991,Stolen Bases,Rickey Henderson,Oakland,58,Top 25
+1162,1991,Total Bases,"Cal Ripken, Jr.",Baltimore,368,Top 25
+1163,1991,Triples,Lance Johnson,Chicago,12,Top 25
+1164,1992,Base on Balls,Mickey Tettleton,Detroit,122,Top 25
+1165,1992,Base on Balls,Frank Thomas,Chicago,122,Top 25
+1166,1992,Batting Average,Edgar Martinez,Seattle,.343,Top 25
+1167,1992,Doubles,Edgar Martinez,Seattle,46,Top 25
+1168,1992,Doubles,Frank Thomas,Chicago,46,Top 25
+1169,1992,Hits,Kirby Puckett,Minnesota,210,Top 25
+1170,1992,Home Runs,Juan Gonzalez,Texas,43,Top 25
+1171,1992,On Base Percentage,Frank Thomas,Chicago,.446,Top 25
+1172,1992,RBI,Cecil Fielder,Detroit,124,Top 25
+1173,1992,Runs,Tony Phillips,Detroit,114,Top 25
+1174,1992,Slugging Average,Mark McGwire,Oakland,.585,Top 25
+1175,1992,Stolen Bases,Kenny Lofton,Cleveland,66,Top 25
+1176,1992,Total Bases,Kirby Puckett,Minnesota,313,Top 25
+1177,1993,Base on Balls,Tony Phillips,Detroit,132,Top 25
+1178,1993,Batting Average,John Olerud,Toronto,.363,Top 25
+1179,1993,Doubles,John Olerud,Toronto,54,Top 25
+1180,1993,Hits,Paul Molitor,Toronto,211,Top 25
+1181,1993,Home Runs,Juan Gonzalez,Texas,46,Top 25
+1182,1993,On Base Percentage,John Olerud,Toronto,.478,Top 25
+1183,1993,RBI,Albert Belle,Cleveland,129,Top 25
+1184,1993,Runs,Rafael Palmeiro,Texas,124,Top 25
+1185,1993,Slugging Average,Juan Gonzalez,Texas,.632,Top 25
+1186,1993,Stolen Bases,Kenny Lofton,Cleveland,70,Top 25
+1187,1993,Total Bases,"Ken Griffey, Jr.",Seattle,359,Top 25
+1188,1994,Base on Balls,Frank Thomas,Chicago,109,Top 25
+1189,1994,Batting Average,Paul O'Neill,New York,.359,Top 25
+1190,1994,Doubles,Chuck Knoblauch,Minnesota,45,Top 25
+1191,1994,Hits,Kenny Lofton,Cleveland,160,Top 25
+1192,1994,Home Runs,"Ken Griffey, Jr.",Seattle,40,Top 25
+1193,1994,On Base Percentage,Frank Thomas,Chicago,.494,Top 25
+1194,1994,RBI,Kirby Puckett,Minnesota,112,Top 25
+1195,1994,Runs,Frank Thomas,Chicago,106,Top 25
+1196,1994,Slugging Average,Frank Thomas,Chicago,.729,Top 25
+1197,1994,Stolen Bases,Kenny Lofton,Cleveland,60,Top 25
+1198,1994,Total Bases,Albert Belle,Cleveland,294,Top 25
+1199,1995,Base on Balls,Frank Thomas,Chicago,136,Top 25
+1200,1995,Batting Average,Edgar Martinez,Seattle,.356,Top 25
+1201,1995,Doubles,Albert Belle,Cleveland,52,Top 25
+1202,1995,Doubles,Edgar Martinez,Seattle,52,Top 25
+1203,1995,Hits,Lance Johnson,Chicago,186,Top 25
+1204,1995,Home Runs,Albert Belle,Cleveland,50,Top 25
+1205,1995,On Base Percentage,Edgar Martinez,Seattle,.482,Top 25
+1206,1995,RBI,Albert Belle,Cleveland,126,Top 25
+1207,1995,RBI,Mo Vaughn,Boston,126,Top 25
+1208,1995,Runs,Albert Belle,Cleveland,121,Top 25
+1209,1995,Runs,Edgar Martinez,Seattle,121,Top 25
+1210,1995,Slugging Average,Albert Belle,Cleveland,.690,Top 25
+1211,1995,Stolen Bases,Kenny Lofton,Cleveland,54,Top 25
+1212,1995,Total Bases,Albert Belle,Cleveland,377,Top 25
+1213,1996,Base on Balls,Tony Phillips,Chicago,125,Top 25
+1214,1996,Batting Average,Alex Rodriguez,Seattle,.358,Top 25
+1215,1996,Doubles,Alex Rodriguez,Seattle,54,Top 25
+1216,1996,Hits,Paul Molitor,Minnesota,225,Top 25
+1217,1996,Home Runs,Mark McGwire,Oakland,52,Top 25
+1218,1996,On Base Percentage,Mark McGwire,Oakland,.468,Top 25
+1219,1996,RBI,Albert Belle,Cleveland,148,Top 25
+1220,1996,Runs,Alex Rodriguez,Seattle,141,Top 25
+1221,1996,Slugging Average,Mark McGwire,Oakland,.730,Top 25
+1222,1996,Stolen Bases,Kenny Lofton,Cleveland,75,Top 25
+1223,1996,Total Bases,Alex Rodriguez,Seattle,379,Top 25
+1224,1997,Base on Balls,Jim Thome,Cleveland,120,Top 25
+1225,1997,Batting Average,Frank Thomas,Chicago,.347,Top 25
+1226,1997,Doubles,John Valentin,Boston,47,Top 25
+1227,1997,Hits,Nomar Garciaparra,Boston,209,Top 25
+1228,1997,Home Runs,"Ken Griffey, Jr.",Seattle,56,Top 25
+1229,1997,On Base Percentage,Frank Thomas,Chicago,.461,Top 25
+1230,1997,RBI,"Ken Griffey, Jr.",Seattle,147,Top 25
+1231,1997,Runs,"Ken Griffey, Jr.",Seattle,125,Top 25
+1232,1997,Slugging Average,"Ken Griffey, Jr.",Seattle,.646,Top 25
+1233,1997,Stolen Bases,Brian Hunter,Detroit,74,Top 25
+1234,1997,Total Bases,"Ken Griffey, Jr.",Seattle,393,Top 25
+1235,1998,Base on Balls,Rickey Henderson,Oakland,118,Top 25
+1236,1998,Batting Average,Bernie Williams,New York,.339,Top 25
+1237,1998,Doubles,Juan Gonzalez,Texas,50,Top 25
+1238,1998,Hits,Alex Rodriguez,Seattle,213,Top 25
+1239,1998,Home Runs,"Ken Griffey, Jr.",Seattle,56,Top 25
+1240,1998,On Base Percentage,Edgar Martinez,Seattle,.433,Top 25
+1241,1998,RBI,Juan Gonzalez,Texas,157,Top 25
+1242,1998,Runs,Derek Jeter,New York,127,Top 25
+1243,1998,Slugging Average,Albert Belle,Chicago,.655,Top 25
+1244,1998,Stolen Bases,Rickey Henderson,Oakland,66,Top 25
+1245,1998,Total Bases,Albert Belle,Chicago,399,Top 25
+1246,1999,Base on Balls,Jim Thome,Cleveland,127,Top 25
+1247,1999,Batting Average,Nomar Garciaparra,Boston,.357,Top 25
+1248,1999,Doubles,Shawn Green,Toronto,45,Top 25
+1249,1999,Hits,Derek Jeter,New York,219,Top 25
+1250,1999,Home Runs,"Ken Griffey, Jr.",Seattle,48,Top 25
+1251,1999,On Base Percentage,Edgar Martinez,Seattle,.447,Top 25
+1252,1999,RBI,Manny Ramirez,Cleveland,165,Top 25
+1253,1999,Runs,Roberto Alomar,Cleveland,138,Top 25
+1254,1999,Slugging Average,Manny Ramirez,Cleveland,.663,Top 25
+1255,1999,Stolen Bases,Brian Hunter,Seattle,44,Top 25
+1256,1999,Total Bases,Shawn Green,Toronto,361,Top 25
+1257,2000,Base on Balls,Jason Giambi,Oakland,137,Top 25
+1258,2000,Batting Average,Nomar Garciaparra,Boston,.372,Top 25
+1259,2000,Doubles,Carlos Delgado,Toronto,57,Top 25
+1260,2000,Hits,Darin Erstad,Anaheim,240,Top 25
+1261,2000,Home Runs,Troy Glaus,Anaheim,47,Top 25
+1262,2000,On Base Percentage,Jason Giambi,Oakland,.476,Top 25
+1263,2000,RBI,Edgar Martinez,Seattle,145,Top 25
+1264,2000,Runs,Johnny Damon,Kansas City,136,Top 25
+1265,2000,Slugging Average,Manny Ramirez,Cleveland,.697,Top 25
+1266,2000,Stolen Bases,Johnny Damon,Kansas City,46,Top 25
+1267,2000,Total Bases,Carlos Delgado,Toronto,378,Top 25
+1268,2001,Base on Balls,Jason Giambi,Oakland,129,Top 25
+1269,2001,Batting Average,Ichiro Suzuki,Seattle,.350,Top 25
+1270,2001,Doubles,Jason Giambi,Oakland,47,Top 25
+1271,2001,Hits,Ichiro Suzuki,Seattle,242,Top 25
+1272,2001,Home Runs,Alex Rodriguez,Texas,52,Top 25
+1273,2001,On Base Percentage,Jason Giambi,Oakland,.477,Top 25
+1274,2001,RBI,Bret Boone,Seattle,141,Top 25
+1275,2001,Runs,Alex Rodriguez,Texas,133,Top 25
+1276,2001,Slugging Average,Jason Giambi,Oakland,.660,Top 25
+1277,2001,Stolen Bases,Ichiro Suzuki,Seattle,56,Top 25
+1278,2001,Total Bases,Alex Rodriguez,Texas,393,Top 25
+1279,2002,Base on Balls,Jim Thome,Cleveland,122,Top 25
+1280,2002,Batting Average,Manny Ramirez,Boston,.349,Top 25
+1281,2002,Doubles,Garret Anderson,Anaheim,56,Top 25
+1282,2002,Doubles,Nomar Garciaparra,Boston,56,Top 25
+1283,2002,Hits,Alfonso Soriano,New York,209,Top 25
+1284,2002,Home Runs,Alex Rodriguez,Texas,57,Top 25
+1285,2002,On Base Percentage,Manny Ramirez,Boston,.450,Top 25
+1286,2002,RBI,Alex Rodriguez,Texas,142,Top 25
+1287,2002,Runs,Alfonso Soriano,New York,128,Top 25
+1288,2002,Slugging Average,Jim Thome,Cleveland,.677,Top 25
+1289,2002,Stolen Bases,Alfonso Soriano,New York,41,Top 25
+1290,2002,Total Bases,Alex Rodriguez,Texas,389,Top 25
+1291,2003,Base on Balls,Jason Giambi,New York,129,Top 25
+1292,2003,Batting Average,Bill Mueller,Boston,.326,Top 25
+1293,2003,Doubles,Garret Anderson,Anaheim,49,Top 25
+1294,2003,Doubles,Vernon Wells,Toronto,49,Top 25
+1295,2003,Hits,Vernon Wells,Toronto,215,Top 25
+1296,2003,Home Runs,Alex Rodriguez,Texas,47,Top 25
+1297,2003,On Base Percentage,Manny Ramirez,Boston,.427,Top 25
+1298,2003,RBI,Carlos Delgado,Toronto,145,Top 25
+1299,2003,Runs,Alex Rodriguez,Texas,124,Top 25
+1300,2003,Slugging Average,Alex Rodriguez,Texas,.600,Top 25
+1301,2003,Stolen Bases,Carl Crawford,Tampa Bay,55,Top 25
+1302,2003,Total Bases,Vernon Wells,Toronto,373,Top 25
+1303,2004,Base on Balls,Eric Chavez,Oakland,95,Top 25
+1304,2004,Batting Average,Ichiro Suzuki,Seattle,.372,Top 25
+1305,2004,Doubles,Brian Roberts,Baltimore,50,Top 25
+1306,2004,Hits,Ichiro Suzuki,Seattle,262,Top 25
+1307,2004,Home Runs,Manny Ramirez,Boston,43,Top 25
+1308,2004,On Base Percentage,Melvin Mora,Baltimore,.419,Top 25
+1309,2004,RBI,Miguel Tejada,Baltimore,150,Top 25
+1310,2004,Runs,Vladimir Guerrero,Anaheim,124,Top 25
+1311,2004,Slugging Average,Manny Ramirez,Boston,.613,Top 25
+1312,2004,Stolen Bases,Carl Crawford,Tampa Bay,59,Top 25
+1313,2004,Total Bases,Vladimir Guerrero,Anaheim,366,Top 25
+1314,2005,Base on Balls,Jason Giambi,New York,108,Top 25
+1315,2005,Batting Average,Michael Young,Texas,.331,Top 25
+1316,2005,Doubles,Miguel Tejada,Baltimore,50,Top 25
+1317,2005,Hits,Michael Young,Texas,221,Top 25
+1318,2005,Home Runs,Alex Rodriguez,New York,48,Top 25
+1319,2005,On Base Percentage,Jason Giambi,New York,.440,Top 25
+1320,2005,RBI,David Ortiz,Boston,148,Top 25
+1321,2005,Runs,Alex Rodriguez,New York,124,Top 25
+1322,2005,Slugging Average,Alex Rodriguez,New York,.610,Top 25
+1323,2005,Stolen Bases,Chone Figgins,Los Angeles,62,Top 25
+1324,2005,Total Bases,Mark Teixeira,Texas,370,Top 25
+1325,2006,Base on Balls,David Ortiz,Boston,119,Top 25
+1326,2006,Batting Average,Joe Mauer,Minnesota,.347,Top 25
+1327,2006,Doubles,Grady Sizemore,Cleveland,53,Top 25
+1328,2006,Hits,Ichiro Suzuki,Seattle,224,Top 25
+1329,2006,Home Runs,David Ortiz,Boston,54,Top 25
+1330,2006,On Base Percentage,Manny Ramirez,Boston,.439,Top 25
+1331,2006,RBI,David Ortiz,Boston,137,Top 25
+1332,2006,Runs,Grady Sizemore,Cleveland,134,Top 25
+1333,2006,Slugging Average,Travis Hafner,Cleveland,.659,Top 25
+1334,2006,Stolen Bases,Carl Crawford,Tampa Bay,58,Top 25
+1335,2006,Total Bases,David Ortiz,Boston,355,Top 25
+1336,2006,Triples,Carl Crawford,Tampa Bay,16,Top 25
+1337,2007,Base on Balls,David Ortiz,Boston,111,Top 25
+1338,2007,Batting Average,Magglio Ordonez,Detroit,.363,Top 25
+1339,2007,Doubles,Magglio Ordonez,Detroit,54,Top 25
+1340,2007,Hits,Ichiro Suzuki,Seattle,238,Top 25
+1341,2007,Home Runs,Alex Rodriguez,New York,54,Top 25
+1342,2007,On Base Percentage,David Ortiz,Boston,.445,Top 25
+1343,2007,RBI,Alex Rodriguez,New York,156,Top 25
+1344,2007,Runs,Alex Rodriguez,New York,143,Top 25
+1345,2007,Slugging Average,Alex Rodriguez,New York,.645,Top 25
+1346,2007,Stolen Bases,Carl Crawford,Tampa Bay,50,Top 25
+1347,2007,Stolen Bases,Brian Roberts,Baltimore,50,Top 25
+1348,2007,Total Bases,Alex Rodriguez,New York,376,Top 25
+1349,2007,Triples,Curtis Granderson,Detroit,23,Top 25
+1350,2008,Base on Balls,Jack Cust,Oakland,111,Top 25
+1351,2008,Batting Average,Joe Mauer,Minnesota,.330,Top 25
+1352,2008,Doubles,Dustin Pedroia,Boston,54,Top 25
+1353,2008,Hits,Dustin Pedroia,Boston,213,Top 25
+1354,2008,Hits,Ichiro Suzuki,Seattle,213,Top 25
+1355,2008,Home Runs,Miguel Cabrera,Detroit,37,Top 25
+1356,2008,On Base Percentage,Milton Bradley,Texas,.436,Top 25
+1357,2008,RBI,Josh Hamilton,Texas,130,Top 25
+1358,2008,Runs,Dustin Pedroia,Boston,118,Top 25
+1359,2008,Slugging Average,Alex Rodriguez,New York,.573,Top 25
+1360,2008,Stolen Bases,Jacoby Ellsbury,Boston,50,Top 25
+1361,2008,Total Bases,Josh Hamilton,Texas,331,Top 25
+1362,2008,Triples,Curtis Granderson,Detroit,13,Top 25
+1363,2009,Base on Balls,Chone Figgins,Los Angeles,101,Top 25
+1364,2009,Batting Average,Joe Mauer,Minnesota,.365,Top 25
+1365,2009,Doubles,Brian Roberts,Baltimore,56,Top 25
+1366,2009,Hits,Ichiro Suzuki,Seattle,225,Top 25
+1367,2009,Home Runs,Carlos Pena,Tampa Bay,39,Top 25
+1368,2009,Home Runs,Mark Teixeira,New York,39,Top 25
+1369,2009,On Base Percentage,Joe Mauer,Minnesota,.444,Top 25
+1370,2009,RBI,Mark Teixeira,New York,122,Top 25
+1371,2009,Runs,DustinPedroia,Boston,115,Top 25
+1372,2009,Slugging Average,Joe Mauer,Minnesota,.587,Top 25
+1373,2009,Stolen Bases,Jacoby Ellsbury,Boston,70,Top 25
+1374,2009,Total Bases,Mark Teixeira,New York,344,Top 25
+1375,2009,Triples,Jacoby Ellsbury,Boston,10,Top 25
+1376,2010,Base on Balls,Daric Barton,Oakland,110,Top 25
+1377,2010,Batting Average,Josh Hamilton,Texas,.359,Top 25
+1378,2010,Doubles,Adrian Beltre,Boston,49,Top 25
+1379,2010,Hits,Ichiro Suzuki,Seattle,214,Top 25
+1380,2010,Home Runs,Jose Bautista,Toronto,54,Top 25
+1381,2010,On Base Percentage,Miguel Cabrera,Detroit,.420,Top 25
+1382,2010,RBI,Miguel Cabrera,Detroit,126,Top 25
+1383,2010,Runs,Mark Teixeira,New York,113,Top 25
+1384,2010,Slugging Average,Josh Hamilton,Texas,.633,Top 25
+1385,2010,Stolen Bases,Juan Pierre,Chicago,68,Top 25
+1386,2010,Total Bases,Jose Bautista,Toronto,351,Top 25
+1387,2010,Triples,Carl Crawford,Tampa Bay,13,Top 25
+1388,2011,Base on Balls,Jose Bautista,Toronto,132,Top 25
+1389,2011,Batting Average,Miguel Cabrera,Detroit,.344,Top 25
+1390,2011,Doubles,Miguel Cabrera,Detroit,48,Top 25
+1391,2011,Hits,Adrian Gonzalez,Boston,213,Top 25
+1392,2011,Hits,Michael Young,Texas,213,Top 25
+1393,2011,Home Runs,Jose Bautista,Toronto,43,Top 25
+1394,2011,On Base Percentage,Miguel Cabrera,Detroit,.448,Top 25
+1395,2011,RBI,Curtis Granderson,New York,119,Top 25
+1396,2011,Runs,Curtis Granderson,New York,136,Top 25
+1397,2011,Slugging Average,Jose Bautista,Toronto,.608,Top 25
+1398,2011,Stolen Bases,Coco Crisp,Oakland,49,Top 25
+1399,2011,Stolen Bases,Brett Gardner,New York,49,Top 25
+1400,2011,Total Bases,Jacoby Ellsbury,Boston,364,Top 25
+1401,2011,Triples,Peter Bourjos,Los Angeles,11,Top 25
+1402,2011,Triples,Austin Jackson,Detroit,11,Top 25
+1403,2012,Base on Balls,Adam Dunn,Chicago,105,Top 25
+1404,2012,Batting Average,Miguel Cabrera,Detroit,.330,Top 25
+1405,2012,Doubles,Alex Gordon,Kansas City,51,Top 25
+1406,2012,Hits,Derek Jeter,New York,216,Top 25
+1407,2012,Home Runs,Miguel Cabrera,Detroit,44,Top 25
+1408,2012,On Base Percentage,Joe Mauer,Minnesota,.416,Top 25
+1409,2012,RBI,Miguel Cabrera,Detroit,139,Top 25
+1410,2012,Runs,Mike Trout,Los Angeles,129,Top 25
+1411,2012,Slugging Average,Miguel Cabrera,Detroit,.606,Top 25
+1412,2012,Stolen Bases,Mike Trout,Los Angeles,49,Top 25
+1413,2012,Total Bases,Miguel Cabrera,Detroit,377,Top 25
+1414,2012,Triples,Austin Jackson,Detroit,10,Top 25
+1415,2013,Base on Balls,Mike Trout,Los Angeles,110,Top 25
+1416,2013,Batting Average,Miguel Cabrera,Detroit,.348,Top 25
+1417,2013,Doubles,Manny Machado,Baltimore,51,Top 25
+1418,2013,Hits,Adrian Beltre,Texas,199,Top 25
+1419,2013,Home Runs,Chris Davis,Baltimore,53,Top 25
+1420,2013,On Base Percentage,Miguel Cabrera,Detroit,.442,Top 25
+1421,2013,RBI,Chris Davis,Baltimore,138,Top 25
+1422,2013,Runs,Mike Trout,Los Angeles,109,Top 25
+1423,2013,Slugging Average,Miguel Cabrera,Detroit,.636,Top 25
+1424,2013,Stolen Bases,Jacoby Ellsbury,Boston,52,Top 25
+1425,2013,Total Bases,Chris Davis,Baltimore,370,Top 25
+1426,2014,Base on Balls,Carlos Santana,Cleveland,113,Top 25
+1427,2014,Batting Average,Jose Altuve,Houston,.341,Top 25
+1428,2014,Doubles,Miguel Cabrera,Detroit,52,Top 25
+1429,2014,Hits,Jose Altuve,Houston,225,Top 25
+1430,2014,Home Runs,Nelson Cruz,Baltimore,40,Top 25
+1431,2014,On Base Percentage,Victor Martinez,Detroit,.409,Top 25
+1432,2014,RBI,Mike Trout,Los Angeles,111,Top 25
+1433,2014,Runs,Mike Trout,Los Angeles,115,Top 25
+1434,2014,Slugging Average,Jose Abreu,Chicago,.581,Top 25
+1435,2014,Stolen Bases,Jose Altuve,Chicago,56,Top 25
+1436,2014,Total Bases,Mike Trout,Los Angeles,338,Top 25
+1437,2014,Triples,Michael Bourn,Cleveland,10,Top 25
+1438,2014,Triples,Adam Eaton,Chicago,10,Top 25
+1439,2015,Base on Balls,Jose Bautista,Toronto,110,Top 25
+1440,2015,Batting Average,Miguel Cabrera,Detroit,.338,Top 25
+1441,2015,Doubles,Michael Brantley,Cleveland,45,Top 25
+1442,2015,Hits,Jose Altuve,Houston,200,Top 25
+1443,2015,Home Runs,Chris Davis,Baltimore,47,Top 25
+1444,2015,On Base Percentage,Miguel Cabrera,Detroit,.440,Top 25
+1445,2015,RBI,Josh Donaldson,Toronto,123,Top 25
+1446,2015,Runs,Josh Donaldson,Toronto,122,Top 25
+1447,2015,Slugging Average,Mike Trout,Los Angeles,.590,Top 25
+1448,2015,Stolen Bases,Jose Altuve,Houston,38,Top 25
+1449,2015,Total Bases,Josh Donaldson,Toronto,352,Top 25
+1450,2016,Base on Balls,Mike Trout,Los Angeles,116,Top 25
+1451,2016,Batting Average,Jose Altuve,Houston,.338,Top 25
+1452,2016,Doubles,David Ortiz,Boston,48,Top 25
+1453,2016,Hits,Jose Altuve,Houston,216,Top 25
+1454,2016,Home Runs,Mark Trumbo,Baltimore,47,Top 25
+1455,2016,On Base Percentage,Mike Trout,Los Angeles,.441,Top 25
+1456,2016,RBI,Edwin Encarnacion,Toronto,127,Top 25
+1457,2016,RBI,David Ortiz,Boston,127,Top 25
+1458,2016,Runs,Mike Trout,Los Angeles,123,Top 25
+1459,2016,Slugging Average,David Ortiz,Boston,.620,Top 25
+1460,2016,Stolen Bases,Rajai Davis,Cleveland,43,Top 25
+1461,2016,Total Bases,Mookie Betts,Boston,359,Top 25
+1462,2017,Base on Balls,Aaron Judge,New York Yankees,127,Top 25
+1463,2017,Batting Average,Jose Altuve,Houston Astros,.346,Top 25
+1464,2017,Doubles,Jose Ramirez,Cleveland Indians,56,Top 25
+1465,2017,Hits,Jose Altuve,Houston Astros,204,Top 25
+1466,2017,Home Runs,Aaron Judge,New York Yankees,52,Top 25
+1467,2017,On Base Percentage,Mike Trout,Los Angeles Angels,.442,Top 25
+1468,2017,RBI,Nelson Cruz,Seattle Mariners,119,Top 25
+1469,2017,Runs,Aaron Judge,New York Yankees,128,Top 25
+1470,2017,Slugging Average,Mike Trout,Los Angeles Angels,.629,Top 25
+1471,2017,Stolen Bases,Whit Merrifield,Kansas City Royals,34,Top 25
+1472,2017,Total Bases,Jose Abreu,Chicago White Sox,343,Top 25
+1473,2017,Triples,Nick Castellanos,Detroit Tigers,10,Top 25
+1474,2018,Base on Balls,Mike Trout,Los Angeles Angels,122,Top 25
+1475,2018,Batting Average,Mookie Betts,Boston Red Sox,.346,Top 25
+1476,2018,Doubles,Alex Bregman,Houston Astros,50,Top 25
+1477,2018,Hits,Whit Merrifield,Kansas City Royals,192,Top 25
+1478,2018,Home Runs,Khris Davis,Oakland Athletics,48,Top 25
+1479,2018,On Base Percentage,Mike Trout,Los Angeles Angels,.460,Top 25
+1480,2018,RBI,J.D. Martinez,Boston Red Sox,130,Top 25
+1481,2018,Runs,Mookie Betts,Boston Red Sox,129,Top 25
+1482,2018,Slugging Average,Mookie Betts,Boston Red Sox,.640,Top 25
+1483,2018,Stolen Bases,Whit Merrifield,Kansas City Royals,45,Top 25
+1484,2018,Total Bases,J.D. Martinez,Boston Red Sox,358,Top 25
+1485,2018,Triples,Yolmer Sanchez,Chicago White Sox,10,Top 25
+1486,2018,Triples,Mallex Smith,Tampa Bay Rays,10,Top 25
+1487,2019,Base on Balls,Alex Bregman,Houston Astros,119,Top 25
+1488,2019,Batting Average,Tim Anderson,Chicago White Sox,.335,Top 25
+1489,2019,Doubles,Rafael Devers,Boston Red Sox,54,Top 25
+1490,2019,Hits,Whit Merrifield,Kansas City Royals,206,Top 25
+1491,2019,Home Runs,Jorge Soler,Kansas City Royals,48,Top 25
+1492,2019,On Base Percentage,Mike Trout,Los Angeles Angels,.438,Top 25
+1493,2019,RBI,Jose Abreu,Chicago White Sox,123,Top 25
+1494,2019,Runs,Mookie Betts,Boston Red Sox,135,Top 25
+1495,2019,Slugging Average,Mike Trout,Los Angeles Angels,.645,Top 25
+1496,2019,Stolen Bases,Mallex Smith,Tampa Bay Rays,46,Top 25
+1497,2019,Total Bases,Rafael Devers,Boston Red Sox,359,Top 25
+1498,2019,Triples,Hunter Dozier,Kansas City Royals,10,Top 25
+1499,2019,Triples,Whit Merrifield,Kansas City Royals,10,Top 25
+1500,2020,Base on Balls,Carlos Santana,Cleveland Indians,47,Top 25
+1501,2020,Batting Average,DJ LeMahieu,New York Yankees,.364,Top 25
+1502,2020,Doubles,Cesar Hernandez,Cleveland Indians,20,Top 25
+1503,2020,Hits,Jose Abreu,Chicago White Sox,76,Top 25
+1504,2020,Home Runs,Luke Voit,New York Yankees,22,Top 25
+1505,2020,On Base Percentage,DJ LeMahieu,New York Yankees,.421,Top 25
+1506,2020,RBI,Jose Abreu,Chicago White Sox,60,Top 25
+1507,2020,Runs,Tim Anderson,Chicago White Sox,45,Top 25
+1508,2020,Runs,Jose Ramirez,Cleveland Indians,45,Top 25
+1509,2020,Slugging Average,Jose Abreu,Chicago White Sox,.617,Top 25
+1510,2020,Stolen Bases,Adalberto Mondesi,Kansas City Royals,24,Top 25
+1511,2020,Total Bases,Jose Abreu,Chicago White Sox,148,Top 25
+1512,2020,Triples,Kyle Tucker,Houston Astros,6,Top 25
+1513,2021,Base on Balls,Joey Gallo,Texas Rangers,111,Top 25
+1514,2021,Base on Balls,Joey Gallo,New York Yankees,111,Top 25
+1515,2021,Batting Average,Yuli Gurriel,Houston Astros,.319,Top 25
+1516,2021,Doubles,Jeimer Candelario,Detroit Tigers,42,Top 25
+1517,2021,Doubles,J.D. Martinez,Boston Red Sox,42,Top 25
+1518,2021,Doubles,Whit Merrifield,Kansas City Royals,42,Top 25
+1519,2021,Hits,Bo Bichette,Toronto Blue Jays,191,Top 25
+1520,2021,Home Runs,Vladimir Guerrero Jr.,Toronto Blue Jays,48,Top 25
+1521,2021,Home Runs,Salvador Perez,Kansas City Royals,48,Top 25
+1522,2021,On Base Percentage,Vladimir Guerrero Jr.,Toronto Blue Jays,.401,Top 25
+1523,2021,RBI,Salvador Perez,Kansas City Royals,121,Top 25
+1524,2021,Runs,Vladimir Guerrero Jr.,Toronto Blue Jays,123,Top 25
+1525,2021,Slugging Average,Vladimir Guerrero Jr.,Toronto Blue Jays,.601,Top 25
+1526,2021,Stolen Bases,Whit Merrifield,Kansas City Royals,40,Top 25
+1527,2021,Total Bases,Vladimir Guerrero Jr.,Toronto Blue Jays,363,Top 25
+1528,2021,Triples,Shohei Ohtani,Los Angeles Angels,8,Top 25
+1529,2022,Base on Balls,Aaron Judge,New York Yankees,111,Top 25
+1530,2022,Batting Average,Luis Arraez,Minnesota Twins,.316,Top 25
+1531,2022,Doubles,José Ramírez,Cleveland Guardians,44,Top 25
+1532,2022,Hits,Bo Bichette,Toronto Blue Jays,189,Top 25
+1533,2022,Home Runs,Aaron Judge,New York Yankees,62,Top 25
+1534,2022,On Base Percentage,Aaron Judge,New York Yankees,.425,Top 25
+1535,2022,RBI,Aaron Judge,New York Yankees,131,Top 25
+1536,2022,Runs,Aaron Judge,New York Yankees,133,Top 25
+1537,2022,Slugging Average,Aaron Judge,New York Yankees,.686,Top 25
+1538,2022,Stolen Bases,Jorge Mateo,Baltimore Orioles,35,Top 25
+1539,2022,Total Bases,Aaron Judge,New York Yankees,391,Top 25
+1540,2022,Triples,Amed Rosario,Cleveland Guardians,9,Top 25
+1541,2023,Base on Balls,J.P. Crawford,Seattle Mariners,94,Top 25
+1542,2023,Batting Average,Yandy Díaz,Tampa Bay Rays,.330,Top 25
+1543,2023,Doubles,Corey Seager,Texas Rangers,42,Top 25
+1544,2023,Hits,Marcus Semien,Texas Rangers,185,Top 25
+1545,2023,Home Runs,Shohei Ohtani,Los Angeles Angels,44,Top 25
+1546,2023,On Base Percentage,Shohei Ohtani,Los Angeles Angels,.412,Top 25
+1547,2023,RBI,Kyle Tucker,Houston Astros,112,Top 25
+1548,2023,Runs,Marcus Semien,Texas Rangers,122,Top 25
+1549,2023,Slugging Average,Shohei Ohtani,Los Angeles Angels,.654,Top 25
+1550,2023,Stolen Bases,Esteury Ruiz,Oakland Athletics,67,Top 25
+1551,2023,Total Bases,Shohei Ohtani,Los Angeles Angels,325,Top 25
+1552,2023,Triples,Bobby Witt Jr.,Kansas City Royals,11,Top 25
+1553,2024,Base on Balls,Aaron Judge,New York,133,Top 25
+1554,2024,Batting Average,Bobby Witt Jr.,Kansas City,.332,Top 25
+1555,2024,Doubles,Jarren Duran,Boston,48,Top 25
+1556,2024,Hits,Bobby Witt Jr.,Kansas City,211,Top 25
+1557,2024,Home Runs,Aaron Judge,New York,58,Top 25
+1558,2024,On Base Percentage,Aaron Judge,New York,.458,Top 25
+1559,2024,RBI,Aaron Judge,New York,144,Top 25
+1560,2024,Runs,Juan Soto,New York,128,Top 25
+1561,2024,Slugging Average,Aaron Judge,New York,.701,Top 25
+1562,2024,Stolen Bases,Jose Caballero,Tampa Bay,44,Top 25
+1563,2024,Total Bases,Aaron Judge,New York,392,Top 25
+1564,2024,Triples,Jarren Duran,Boston,14,Top 25
+1565,2025,Base on Balls,Aaron Judge,New York,124,Top 25
+1566,2025,Batting Average,Aaron Judge,New York,.331,Top 25
+1567,2025,Doubles,Bobby Witt Jr.,Kansas City,47,Top 25
+1568,2025,Hits,Bobby Witt Jr.,Kansas City,184,Top 25
+1569,2025,Home Runs,Cal Raleigh,Seattle,60,Top 25
+1570,2025,On Base Percentage,Aaron Judge,New York,.457,Top 25
+1571,2025,RBI,Cal Raleigh,Seattle,125,Top 25
+1572,2025,Runs,Aaron Judge,New York,137,Top 25
+1573,2025,Slugging Average,Aaron Judge,New York,.688,Top 25
+1574,2025,Stolen Bases,José Caballero,Tampa Bay (34),49,Top 25
+1575,2025,Stolen Bases,José Caballero,New York (15),49,Top 25
+1576,2025,Total Bases,Aaron Judge,New York,372,Top 25
+1577,2025,Triples,Jarren Duran,Boston,13,Top 25
