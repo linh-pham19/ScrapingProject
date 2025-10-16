@@ -36,26 +36,26 @@ app.layout = html.Div(
                 "textAlign": "center",
                 "color": "white",
                 "backgroundColor": "#6a0dad",
-                "padding": "20px",
+                "padding": "10px",
                 "borderRadius": "10px",
             },
         ),
         # Dropdown for year selection
         html.Div(
             [
-                html.Label("Select a Year:", style={"color": "#e6e6fa"}),
+                html.Label("Select a Year:", style={"color": "#6a0dad"}),
                 dcc.Dropdown(
                     id="year-dropdown",
                     options=[{"label": year, "value": year} for year in unique_years],
                     value=unique_years[0],  # Default to the first year
                     clearable=False,
-                    style={"color": "black"},
+                    style={"color": "#6a0dad"},
                 ),
             ],
             style={
                 "width": "50%",
-                "margin": "0 auto",
-                "padding": "20px",
+                "margin": "0 auto 0.5rem",
+                "padding": "10px",
                 "backgroundColor": "#e6e6fa",
                 "borderRadius": "10px",
             },
@@ -70,7 +70,7 @@ app.layout = html.Div(
                 ),
                 html.Div(id="team-standings-table"),
             ],
-            style={"padding": "20px"},
+            style={"padding": "10px 30px"},
         ),
         # Table to display hitter leaderboard
         html.Div(
@@ -82,7 +82,7 @@ app.layout = html.Div(
                 ),
                 html.Div(id="hitter-leaderboard-table"),
             ],
-            style={"padding": "20px"},
+            style={"padding": "10px 30px"},
         ),
         # Table to display pitcher leaderboard
         html.Div(
@@ -93,8 +93,9 @@ app.layout = html.Div(
                     style={"textAlign": "center", "color": "#6a0dad"},
                 ),
                 html.Div(id="pitcher-leaderboard-table"),
+                dcc.Graph(id="pitcher-leaderboard-chart"),
             ],
-            style={"padding": "20px"},
+            style={"padding": "10px 30px"},
         ),
         # Chart to display wins and losses
         html.Div(
@@ -106,7 +107,7 @@ app.layout = html.Div(
                 ),
                 dcc.Graph(id="wins-losses-chart"),
             ],
-            style={"padding": "20px"},
+            style={"padding": "10px 30px"},
         ),
     ],
     style={"backgroundColor": "#f8f0ff", "fontFamily": "Arial, sans-serif"},
@@ -147,7 +148,7 @@ def generate_table(dataframe):
         style={
             "width": "100%",
             "borderCollapse": "collapse",
-            "margin": "0 auto",
+            "margin": "0 auto 1rem",
             "color": "#6a0dad",
             "backgroundColor": "#f8f0ff",
         },
@@ -177,7 +178,7 @@ def update_team_standings_table(selected_year):
     Output("hitter-leaderboard-table", "children"),
     Input("year-dropdown", "value"),
 )
-def update_hitter_leaderboard_table(selected_year):
+def update_hitter_leaderboard(selected_year):
     filtered_df = hitter_leaderboard_df[hitter_leaderboard_df["year"] == selected_year]
 
     # Debugging
@@ -190,12 +191,15 @@ def update_hitter_leaderboard_table(selected_year):
     return generate_table(filtered_df)
 
 
-# Callback to update the pitcher leaderboard table based on the selected year
+# Callback to update the pitcher leaderboard table and chart based on the selected year
 @app.callback(
-    Output("pitcher-leaderboard-table", "children"),
+    [
+        Output("pitcher-leaderboard-table", "children"),
+        Output("pitcher-leaderboard-chart", "figure"),
+    ],
     Input("year-dropdown", "value"),
 )
-def update_pitcher_leaderboard_table(selected_year):
+def update_pitcher_leaderboard(selected_year):
     filtered_df = pitcher_leaderboard_df[
         pitcher_leaderboard_df["year"] == selected_year
     ]
@@ -205,9 +209,31 @@ def update_pitcher_leaderboard_table(selected_year):
     print(filtered_df)
 
     if filtered_df.empty:
-        return html.P("No data available for the selected year.")
+        return html.P("No data available for the selected year."), {
+            "data": [],
+            "layout": {"title": "No data available for the selected year"},
+        }
 
-    return generate_table(filtered_df)
+    # Generate a line chart for pitcher leaderboard
+    line_chart = {
+        "data": [
+            {
+                "x": filtered_df["statistic"],
+                "y": filtered_df["value"],
+                "type": "scatter",
+                "mode": "lines+markers",
+                "name": "Pitcher Stats",
+                "line": {"color": "#6a0dad"},
+            }
+        ],
+        "layout": {
+            "title": f"Pitcher Leaderboard for {selected_year}",
+            "xaxis": {"title": "Statistic"},
+            "yaxis": {"title": "Value"},
+        },
+    }
+
+    return generate_table(filtered_df), line_chart
 
 
 # Callback to update the wins and losses chart based on the selected year
@@ -260,6 +286,5 @@ def update_wins_losses_chart(selected_year):
     return figure
 
 
-# Run the app
 if __name__ == "__main__":
     app.run(debug=True)
