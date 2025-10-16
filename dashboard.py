@@ -11,26 +11,21 @@ app = dash.Dash(__name__)
 app.title = "Sports Data Dashboard"
 server = app.server  # Expose the server variable for deployments
 
-# Extract unique years from the team standings data
+# Extract unique years from the team standings and leaderboard data
 team_standings_df = cleaned_dataframes["team_standings"]
-hitters_df = cleaned_dataframes["hitters"]
-pitchers_df = cleaned_dataframes["pitchers"]
+hitter_leaderboard_df = cleaned_dataframes["hitter_leaderboard"]
+pitcher_leaderboard_df = cleaned_dataframes["pitcher_leaderboard"]
 
 # Ensure the `year` column exists and is numeric
-if "year" not in hitters_df.columns:
-    hitters_df["year"] = None
-if "year" not in pitchers_df.columns:
-    pitchers_df["year"] = None
+team_standings_df["year"] = pd.to_numeric(team_standings_df["year"], errors="coerce")
+hitter_leaderboard_df["year"] = pd.to_numeric(
+    hitter_leaderboard_df["year"], errors="coerce"
+)
+pitcher_leaderboard_df["year"] = pd.to_numeric(
+    pitcher_leaderboard_df["year"], errors="coerce"
+)
 
-# Strip any whitespace and ensure proper numeric conversion
-hitters_df["year"] = hitters_df["year"].astype(str).str.strip()  # Remove extra spaces
-pitchers_df["year"] = pitchers_df["year"].astype(str).str.strip()
-
-# Convert to numeric, coercing errors to NaN
-hitters_df["year"] = pd.to_numeric(hitters_df["year"], errors="coerce")
-pitchers_df["year"] = pd.to_numeric(pitchers_df["year"], errors="coerce")
-
-unique_years = sorted(team_standings_df["year"].unique())
+unique_years = sorted(team_standings_df["year"].dropna().unique())
 
 # Define the layout of the app
 app.layout = html.Div(
@@ -77,27 +72,27 @@ app.layout = html.Div(
             ],
             style={"padding": "20px"},
         ),
-        # Table to display hitters
+        # Table to display hitter leaderboard
         html.Div(
-            id="hitters-container",
+            id="hitter-leaderboard-container",
             children=[
                 html.H3(
-                    "Hitters Data",
+                    "Hitter Leaderboard",
                     style={"textAlign": "center", "color": "#6a0dad"},
                 ),
-                html.Div(id="hitters-table"),
+                html.Div(id="hitter-leaderboard-table"),
             ],
             style={"padding": "20px"},
         ),
-        # Table to display pitchers
+        # Table to display pitcher leaderboard
         html.Div(
-            id="pitchers-container",
+            id="pitcher-leaderboard-container",
             children=[
                 html.H3(
-                    "Pitchers Data",
+                    "Pitcher Leaderboard",
                     style={"textAlign": "center", "color": "#6a0dad"},
                 ),
-                html.Div(id="pitchers-table"),
+                html.Div(id="pitcher-leaderboard-table"),
             ],
             style={"padding": "20px"},
         ),
@@ -167,37 +162,48 @@ def generate_table(dataframe):
 def update_team_standings_table(selected_year):
     filtered_df = team_standings_df[team_standings_df["year"] == selected_year]
 
-    # Check if the filtered DataFrame is empty
+    # Debugging
+    print(f"Team Standings Data for Year {selected_year}:")
+    print(filtered_df)
+
     if filtered_df.empty:
         return html.P("No data available for the selected year.")
 
     return generate_table(filtered_df)
 
 
-# Callback to update the hitters table based on the selected year
+# Callback to update the hitter leaderboard table based on the selected year
 @app.callback(
-    Output("hitters-table", "children"),
+    Output("hitter-leaderboard-table", "children"),
     Input("year-dropdown", "value"),
 )
-def update_hitters_table(selected_year):
-    filtered_df = hitters_df[hitters_df["year"] == selected_year]
+def update_hitter_leaderboard_table(selected_year):
+    filtered_df = hitter_leaderboard_df[hitter_leaderboard_df["year"] == selected_year]
 
-    # Check if the filtered DataFrame is empty
+    # Debugging
+    print(f"Hitter Leaderboard Data for Year {selected_year}:")
+    print(filtered_df)
+
     if filtered_df.empty:
         return html.P("No data available for the selected year.")
 
     return generate_table(filtered_df)
 
 
-# Callback to update the pitchers table based on the selected year
+# Callback to update the pitcher leaderboard table based on the selected year
 @app.callback(
-    Output("pitchers-table", "children"),
+    Output("pitcher-leaderboard-table", "children"),
     Input("year-dropdown", "value"),
 )
-def update_pitchers_table(selected_year):
-    filtered_df = pitchers_df[pitchers_df["year"] == selected_year]
+def update_pitcher_leaderboard_table(selected_year):
+    filtered_df = pitcher_leaderboard_df[
+        pitcher_leaderboard_df["year"] == selected_year
+    ]
 
-    # Check if the filtered DataFrame is empty
+    # Debugging
+    print(f"Pitcher Leaderboard Data for Year {selected_year}:")
+    print(filtered_df)
+
     if filtered_df.empty:
         return html.P("No data available for the selected year.")
 
@@ -211,6 +217,10 @@ def update_pitchers_table(selected_year):
 )
 def update_wins_losses_chart(selected_year):
     filtered_df = team_standings_df[team_standings_df["year"] == selected_year]
+
+    # Debugging
+    print(f"Wins and Losses Data for Year {selected_year}:")
+    print(filtered_df)
 
     if filtered_df.empty:
         return {
