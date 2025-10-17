@@ -55,7 +55,7 @@ app.layout = html.Div(
             style={
                 "width": "50%",
                 "margin": "0 auto 0.5rem",
-                "padding": "10px",
+                "pad1ing": "10px",
                 "backgroundColor": "#e6e6fa",
                 "borderRadius": "10px",
             },
@@ -70,6 +70,17 @@ app.layout = html.Div(
                 ),
                 html.Div(id="team-standings-table"),
             ],
+            style={"padding": "10px"},
+        ),  # Chart to display wins and losses
+        html.Div(
+            id="chart-container",
+            children=[
+                html.H3(
+                    "Team Standings Chart",
+                    style={"textAlign": "center", "color": "#6a0dad"},
+                ),
+                dcc.Graph(id="wins-losses-chart"),
+            ],
             style={"padding": "10px 30px"},
         ),
         # Table to display hitter leaderboard
@@ -81,6 +92,7 @@ app.layout = html.Div(
                     style={"textAlign": "center", "color": "#6a0dad"},
                 ),
                 html.Div(id="hitter-leaderboard-table"),
+                dcc.Graph(id="hitter-leaderboard-trend-chart"),
             ],
             style={"padding": "10px 30px"},
         ),
@@ -94,18 +106,6 @@ app.layout = html.Div(
                 ),
                 html.Div(id="pitcher-leaderboard-table"),
                 dcc.Graph(id="pitcher-leaderboard-chart"),
-            ],
-            style={"padding": "10px 30px"},
-        ),
-        # Chart to display wins and losses
-        html.Div(
-            id="chart-container",
-            children=[
-                html.H3(
-                    "Wins and Losses Chart",
-                    style={"textAlign": "center", "color": "#6a0dad"},
-                ),
-                dcc.Graph(id="wins-losses-chart"),
             ],
             style={"padding": "10px 30px"},
         ),
@@ -173,12 +173,16 @@ def update_team_standings_table(selected_year):
     return generate_table(filtered_df)
 
 
-# Callback to update the hitter leaderboard table based on the selected year
+# Callback to update the hitter leaderboard table and trend chart based on the selected year
 @app.callback(
-    Output("hitter-leaderboard-table", "children"),
+    [
+        Output("hitter-leaderboard-table", "children"),
+        Output("hitter-leaderboard-trend-chart", "figure"),
+    ],
     Input("year-dropdown", "value"),
 )
 def update_hitter_leaderboard(selected_year):
+    # Filter the DataFrame for the selected year
     filtered_df = hitter_leaderboard_df[hitter_leaderboard_df["year"] == selected_year]
 
     # Debugging
@@ -186,9 +190,39 @@ def update_hitter_leaderboard(selected_year):
     print(filtered_df)
 
     if filtered_df.empty:
-        return html.P("No data available for the selected year.")
+        return html.P("No data available for the selected year."), {
+            "data": [],
+            "layout": {"title": "No data available for the selected year"},
+        }
 
-    return generate_table(filtered_df)
+    # Determine the range of years for the trend chart
+    min_year = max(hitter_leaderboard_df["year"].min(), selected_year - 5)
+    max_year = min(hitter_leaderboard_df["year"].max(), selected_year + 5)
+    trend_df = hitter_leaderboard_df[
+        (hitter_leaderboard_df["year"] >= min_year)
+        & (hitter_leaderboard_df["year"] <= max_year)
+    ]
+
+    # Generate a trend chart for hitter leaderboard
+    trend_chart = {
+        "data": [
+            {
+                "x": trend_df[trend_df["statistic"] == stat]["year"],
+                "y": trend_df[trend_df["statistic"] == stat]["value"],
+                "type": "scatter",
+                "mode": "lines+markers",
+                "name": stat,
+            }
+            for stat in trend_df["statistic"].unique()
+        ],
+        "layout": {
+            "title": f"Hitter Leaderboard Trend ({min_year}-{max_year})",
+            "xaxis": {"title": "Year"},
+            "yaxis": {"title": "Value"},
+        },
+    }
+
+    return generate_table(filtered_df), trend_chart
 
 
 # Callback to update the pitcher leaderboard table and chart based on the selected year
