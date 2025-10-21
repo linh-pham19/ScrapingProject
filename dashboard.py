@@ -8,7 +8,7 @@ cleaned_dataframes = data_cleaner.load_and_process_dataframes()
 
 # Initialize the Dash app
 app = dash.Dash(__name__)
-app.title = "Sports Data Dashboard"
+app.title = "Baseball Data Dashboard"
 server = app.server  # Expose the server variable for deployments
 
 # Extract unique years from the team standings and leaderboard data
@@ -31,7 +31,7 @@ unique_years = sorted(team_standings_df["year"].dropna().unique())
 app.layout = html.Div(
     children=[
         html.H1(
-            "Sports Data Dashboard",
+            "Baseball Data Dashboard",
             style={
                 "textAlign": "center",
                 "color": "white",
